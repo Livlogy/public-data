@@ -1,0 +1,63 @@
+name: Market Data Sync
+
+on:
+  schedule:
+    # 22:00 UTC = 06:00 Asia/Hong_Kong
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python3 -m pip install -r requirements.txt
+
+      # Stock catalogs must run before dividen_fetcher.py, which reads
+      # us_market.json / uk_market.json / hk_market.json to build its symbol universe.
+      - name: Fetch US stocks
+        run: python3 scripts/stock-us.py
+
+      - name: Fetch UK stocks
+        run: python3 scripts/stock-uk.py
+
+      - name: Fetch HK stocks
+        run: python3 scripts/stock-hk.py
+
+      - name: Fetch dividends
+        run: python3 scripts/dividen_fetcher.py
+
+      - name: Fetch crypto
+        env:
+          COINGECKO_DEMO_API_KEY: ${{ secrets.COINGECKO_DEMO_API_KEY }}
+        run: python3 scripts/crypto.py
+
+      - name: Fetch currency rates
+        run: python3 scripts/currency.py
+
+      # market_language.py has no CLI of its own; it is imported by the scripts above.
+
+      - name: Commit and push generated data
+        run: |
+          set -euo pipefail
+          git config user.name "livlogy-market-data-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add MarketData/Generated
+          if git diff --cached --quiet; then
+            echo "No market data changes to publish."
+            exit 0
+          fi
+          git commit -m "Update market data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push origin HEAD

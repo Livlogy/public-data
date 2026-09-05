@@ -1,0 +1,4 @@
+Babel>=2.17,<3
+pandas>=2.2,<3
+requests>=2.32,<3
+yfinance>=0.2.65,<1
