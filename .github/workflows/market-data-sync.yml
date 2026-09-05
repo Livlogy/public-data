@@ -12,7 +12,7 @@ permissions:
 jobs:
   fetch-and-publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 240
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,11 +27,19 @@ jobs:
 
       # Stock catalogs must run before dividen_fetcher.py, which reads
       # us_market.json / uk_market.json / hk_market.json to build its symbol universe.
+      # A 1-hour gap between each market spreads out load on Yahoo Finance,
+      # since running all three back-to-back triggers heavier rate limiting.
       - name: Fetch US stocks
         run: python3 scripts/stock-us.py
 
+      - name: Wait 1 hour before UK stocks
+        run: sleep 3600
+
       - name: Fetch UK stocks
         run: python3 scripts/stock-uk.py
+
+      - name: Wait 1 hour before HK stocks
+        run: sleep 3600
 
       - name: Fetch HK stocks
         run: python3 scripts/stock-hk.py
