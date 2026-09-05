@@ -1,20 +1,19 @@
 name: Market Data Sync
 
-# Four schedules, ~1 hour apart, each running exactly one stage (instead of one
-# long job with in-job `sleep`s — GitHub Actions bills sleep time the same as
-# active compute, and this repo is private so minutes are no longer unlimited).
+# Three schedules, each timed to ~1 hour after that market's close, instead of
+# one long job with in-job `sleep`s — GitHub Actions bills sleep time the same
+# as active compute, and this repo is private so minutes are no longer unlimited.
 on:
   schedule:
-    - cron: "0 22 * * *" # 06:00 Asia/Hong_Kong — US stocks
-    - cron: "0 23 * * *" # 07:00 Asia/Hong_Kong — UK stocks
-    - cron: "0 0 * * *"  # 08:00 Asia/Hong_Kong — HK stocks
-    - cron: "0 1 * * *"  # 09:00 Asia/Hong_Kong — dividends + crypto + currency
+    - cron: "0 18 * * *" # 02:00 Asia/Hong_Kong — UK stocks (~1hr after LSE close)
+    - cron: "0 9 * * *"  # 17:00 Asia/Hong_Kong — HK stocks (~1hr after HKEX close)
+    - cron: "0 22 * * *" # 06:00 Asia/Hong_Kong — US stocks (~1-2hr after NYSE/NASDAQ close) + dividends + crypto + currency
   workflow_dispatch:
     inputs:
       stage:
         description: "Stage to run manually (schedules pick this automatically)"
         type: choice
-        options: [us, uk, hk, dividends]
+        options: [us, uk, hk]
         default: us
 
 permissions:
@@ -32,10 +31,9 @@ jobs:
             echo "stage=${{ github.event.inputs.stage }}" >> "$GITHUB_OUTPUT"
           else
             case "${{ github.event.schedule }}" in
+              "0 18 * * *") echo "stage=uk" >> "$GITHUB_OUTPUT" ;;
+              "0 9 * * *")  echo "stage=hk" >> "$GITHUB_OUTPUT" ;;
               "0 22 * * *") echo "stage=us" >> "$GITHUB_OUTPUT" ;;
-              "0 23 * * *") echo "stage=uk" >> "$GITHUB_OUTPUT" ;;
-              "0 0 * * *")  echo "stage=hk" >> "$GITHUB_OUTPUT" ;;
-              "0 1 * * *")  echo "stage=dividends" >> "$GITHUB_OUTPUT" ;;
               *) echo "stage=us" >> "$GITHUB_OUTPUT" ;;
             esac
           fi
@@ -51,15 +49,6 @@ jobs:
       - name: Install dependencies
         run: python3 -m pip install -r requirements.txt
 
-      # Stock catalogs must run before dividen_fetcher.py, which reads
-      # us_market.json / uk_market.json / hk_market.json to build its symbol
-      # universe. Each market fetch commits and pushes its own file before the
-      # next scheduled stage's job checks out, so dividends (an hour later)
-      # sees all three.
-      - name: Fetch US stocks
-        if: steps.stage.outputs.stage == 'us'
-        run: python3 scripts/stock-us.py
-
       - name: Fetch UK stocks
         if: steps.stage.outputs.stage == 'uk'
         run: python3 scripts/stock-uk.py
@@ -68,8 +57,16 @@ jobs:
         if: steps.stage.outputs.stage == 'hk'
         run: python3 scripts/stock-hk.py
 
+      # US stocks, dividends, crypto, and currency all run together in the
+      # 'us' stage. dividen_fetcher.py reads us_market.json / uk_market.json /
+      # hk_market.json, so US must fetch first here; UK/HK were already
+      # committed by their own earlier stages and are present from checkout.
+      - name: Fetch US stocks
+        if: steps.stage.outputs.stage == 'us'
+        run: python3 scripts/stock-us.py
+
       - name: Fetch dividends
-        if: steps.stage.outputs.stage == 'dividends'
+        if: steps.stage.outputs.stage == 'us'
         # Yahoo Finance rate-limits shared GitHub-hosted runner IPs, so a full
         # 11k+ symbol universe often can't complete in one run. dividen_fetcher.py
         # intentionally exits 2 (not a crash) when some symbols are still
@@ -79,14 +76,14 @@ jobs:
         run: python3 scripts/dividen_fetcher.py --resume
 
       - name: Fetch crypto
-        if: steps.stage.outputs.stage == 'dividends'
+        if: steps.stage.outputs.stage == 'us'
         continue-on-error: true
         env:
           COINGECKO_DEMO_API_KEY: ${{ secrets.COINGECKO_DEMO_API_KEY }}
         run: python3 scripts/crypto.py
 
       - name: Fetch currency rates
-        if: steps.stage.outputs.stage == 'dividends'
+        if: steps.stage.outputs.stage == 'us'
         continue-on-error: true
         run: python3 scripts/currency.py
 
