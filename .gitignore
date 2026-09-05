@@ -1,3 +1,2 @@
-# Dated market-data snapshots; only the stable "latest" files are published.
-MarketData/Generated/Archive/
+# Dated market-data snapshots are tracked so the app can reference yesterday's data.
 __pycache__/
