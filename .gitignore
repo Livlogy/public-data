@@ -1,0 +1,3 @@
+# Dated market-data snapshots; only the stable "latest" files are published.
+MarketData/Generated/Archive/
+__pycache__/

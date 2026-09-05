@@ -37,14 +37,22 @@ jobs:
         run: python3 scripts/stock-hk.py
 
       - name: Fetch dividends
-        run: python3 scripts/dividen_fetcher.py
+        # Yahoo Finance rate-limits shared GitHub-hosted runner IPs, so a full
+        # 11k+ symbol universe often can't complete in one run. dividen_fetcher.py
+        # intentionally exits 2 (not a crash) when some symbols are still
+        # retryable; --resume reuses its checkpoint so later runs fill the gaps,
+        # and continue-on-error keeps crypto/currency/commit running regardless.
+        continue-on-error: true
+        run: python3 scripts/dividen_fetcher.py --resume
 
       - name: Fetch crypto
+        continue-on-error: true
         env:
           COINGECKO_DEMO_API_KEY: ${{ secrets.COINGECKO_DEMO_API_KEY }}
         run: python3 scripts/crypto.py
 
       - name: Fetch currency rates
+        continue-on-error: true
         run: python3 scripts/currency.py
 
       # market_language.py has no CLI of its own; it is imported by the scripts above.
