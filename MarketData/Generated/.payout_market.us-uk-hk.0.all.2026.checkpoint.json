@@ -338945,55 +338945,1240 @@
         },
         "retrievedAt": "2026-09-10T23:47:18Z"
       }
+    ],
+    "0406.HK": [
+      {
+        "id": "yahoo:0406.HK:2026-09-14",
+        "symbol": "0406.HK",
+        "name": "Yau Lee Holdings Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-14",
+        "recordDate": null,
+        "paymentDate": "2026-09-14",
+        "amountPerShare": 0.025,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/0406.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "0619.HK": [
+      {
+        "id": "yahoo:0619.HK:2026-11-02",
+        "symbol": "0619.HK",
+        "name": "South China Financial Holdings Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-02",
+        "recordDate": null,
+        "paymentDate": "2026-11-02",
+        "amountPerShare": 0.1216,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/0619.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "0025.HK": [
+      {
+        "id": "yahoo:0025.HK:2026-09-09",
+        "symbol": "0025.HK",
+        "name": "Chevalier International Holdings Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-09",
+        "recordDate": null,
+        "paymentDate": "2026-09-09",
+        "amountPerShare": 0.22,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0025.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "0310.HK": [],
+    "0662.HK": [
+      {
+        "id": "yahoo:0662.HK:2026-06-15",
+        "symbol": "0662.HK",
+        "name": "Asia Financial Holdings Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-15",
+        "recordDate": null,
+        "paymentDate": "2026-06-15",
+        "amountPerShare": 0.16,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0662.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:0662.HK:2026-09-24",
+        "symbol": "0662.HK",
+        "name": "Asia Financial Holdings Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-24",
+        "recordDate": null,
+        "paymentDate": "2026-09-24",
+        "amountPerShare": 0.16,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/0662.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "0251.HK": [
+      {
+        "id": "yahoo:0251.HK:2026-05-22",
+        "symbol": "0251.HK",
+        "name": "SEA Holdings Ltd.",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-22",
+        "recordDate": null,
+        "paymentDate": "2026-05-22",
+        "amountPerShare": 0.03,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0251.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:0251.HK:2026-09-21",
+        "symbol": "0251.HK",
+        "name": "SEA Holdings Ltd.",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-21",
+        "recordDate": null,
+        "paymentDate": "2026-09-21",
+        "amountPerShare": 0.03,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/0251.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "0BQD.L": [
+      {
+        "id": "yahoo:0BQD:2026-05-08",
+        "symbol": "0BQD",
+        "name": "KSB SE & Co. KGaA",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-08",
+        "recordDate": null,
+        "paymentDate": "2026-05-08",
+        "amountPerShare": 26.5,
+        "currency": "EUR",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0BQD.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "0851.HK": [],
+    "0QL5.L": [],
+    "0846.HK": [],
+    "0UVX.L": [],
+    "0DTF.L": [
+      {
+        "id": "yahoo:0DTF:2026-06-03",
+        "symbol": "0DTF",
+        "name": "Boiron SA",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-03",
+        "recordDate": null,
+        "paymentDate": "2026-06-03",
+        "amountPerShare": 1.35,
+        "currency": "EUR",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0DTF.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "0RQK.L": [],
+    "0676.HK": [
+      {
+        "id": "yahoo:0676.HK:2026-09-22",
+        "symbol": "0676.HK",
+        "name": "Pegasus International Holdings Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-22",
+        "recordDate": null,
+        "paymentDate": "2026-09-22",
+        "amountPerShare": 0.01,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/0676.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "1198.HK": [],
+    "1577.HK": [
+      {
+        "id": "yahoo:1577.HK:2026-06-17",
+        "symbol": "1577.HK",
+        "name": "Quanzhou Huixin Micro-credit Co., Ltd. Class H",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-17",
+        "recordDate": null,
+        "paymentDate": "2026-06-17",
+        "amountPerShare": 0.057474,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/1577.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "1047.HK": [
+      {
+        "id": "yahoo:1047.HK:2026-12-07",
+        "symbol": "1047.HK",
+        "name": "Ngai Hing Hong Co. Ltd.",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-07",
+        "recordDate": null,
+        "paymentDate": "2026-12-07",
+        "amountPerShare": 0.02,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/1047.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "1711.HK": [
+      {
+        "id": "yahoo:1711.HK:2026-10-30",
+        "symbol": "1711.HK",
+        "name": "Ulferts International Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-30",
+        "recordDate": null,
+        "paymentDate": "2026-10-30",
+        "amountPerShare": 0.005,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/1711.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "1795.HK": [],
+    "2195.HK": [],
+    "6633.HK": [],
+    "1125.HK": [],
+    "2321.HK": [
+      {
+        "id": "yahoo:2321.HK:2026-08-10",
+        "symbol": "2321.HK",
+        "name": "Swang Chai Chuan Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-10",
+        "recordDate": null,
+        "paymentDate": "2026-08-10",
+        "amountPerShare": 0.0086,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/2321.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "2336.HK": [],
+    "6812.HK": [
+      {
+        "id": "yahoo:6812.HK:2026-08-24",
+        "symbol": "6812.HK",
+        "name": "Winson Holdings Hong Kong Ltd",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-24",
+        "recordDate": null,
+        "paymentDate": "2026-08-24",
+        "amountPerShare": 0.008,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/6812.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "8057.HK": [],
+    "8250.HK": [],
+    "8297.HK": [],
+    "8181.HK": [],
+    "8456.HK": [],
+    "8513.HK": [],
+    "8173.HK": [],
+    "ALDF": [],
+    "ACAA": [],
+    "8606.HK": [],
+    "BEBE": [],
+    "ARCLR": [],
+    "APURR": [],
+    "ESLAW": [],
+    "BIXIW": [],
+    "FGIWW": [],
+    "HACQU": [],
+    "HLSQ": [],
+    "FEDU": [],
+    "ASBE.L": [],
+    "LFAC": [],
+    "JBK": [
+      {
+        "id": "yahoo:JBK:2026-02-13",
+        "symbol": "JBK",
+        "name": "Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-13",
+        "recordDate": null,
+        "paymentDate": "2026-02-13",
+        "amountPerShare": 0.793,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/JBK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:JBK:2026-08-14",
+        "symbol": "JBK",
+        "name": "Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-14",
+        "recordDate": null,
+        "paymentDate": "2026-08-14",
+        "amountPerShare": 0.793,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/JBK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "MACIW": [],
+    "FORTY": [
+      {
+        "id": "yahoo:FORTY:2026-05-22",
+        "symbol": "FORTY",
+        "name": "Formula Systems (1985) Ltd. American Depositary Shares",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-22",
+        "recordDate": null,
+        "paymentDate": "2026-05-22",
+        "amountPerShare": 13.045,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/FORTY/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:FORTY:2026-09-22",
+        "symbol": "FORTY",
+        "name": "Formula Systems (1985) Ltd. American Depositary Shares",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-22",
+        "recordDate": null,
+        "paymentDate": "2026-09-22",
+        "amountPerShare": 13.045,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/FORTY/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "LPCV": [],
+    "MCAHR": [],
+    "NBRGR": [],
+    "OCLT": [],
+    "KELYB": [
+      {
+        "id": "yahoo:KELYB:2026-02-25",
+        "symbol": "KELYB",
+        "name": "Kelly Services Inc. Class B Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-25",
+        "recordDate": null,
+        "paymentDate": "2026-02-25",
+        "amountPerShare": 0.075,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/KELYB/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:KELYB:2026-05-18",
+        "symbol": "KELYB",
+        "name": "Kelly Services Inc. Class B Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-18",
+        "recordDate": null,
+        "paymentDate": "2026-05-18",
+        "amountPerShare": 0.075,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/KELYB/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:KELYB:2026-08-19",
+        "symbol": "KELYB",
+        "name": "Kelly Services Inc. Class B Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-19",
+        "recordDate": null,
+        "paymentDate": "2026-08-19",
+        "amountPerShare": 0.075,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/KELYB/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:KELYB:2026-11-20",
+        "symbol": "KELYB",
+        "name": "Kelly Services Inc. Class B Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-20",
+        "recordDate": null,
+        "paymentDate": "2026-11-20",
+        "amountPerShare": 0.075,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/KELYB/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "OCLTR": [],
+    "PLCIR": [],
+    "OCLTW": [],
+    "PECEW": [],
+    "PONOR": [],
+    "RANG": [],
+    "SZZLR": [],
+    "TMTS": [],
+    "SELK.L": [],
+    "TMTSW": [],
+    "TRSG": [],
+    "PPHC.L": [
+      {
+        "id": "yahoo:PPHC:2026-04-24",
+        "symbol": "PPHC",
+        "name": "Public Policy Holding Co., Inc.",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-24",
+        "recordDate": null,
+        "paymentDate": "2026-04-24",
+        "amountPerShare": 17.73984,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/PPHC.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:PPHC:2026-11-20",
+        "symbol": "PPHC",
+        "name": "Public Policy Holding Co., Inc.",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-20",
+        "recordDate": null,
+        "paymentDate": "2026-11-20",
+        "amountPerShare": 17.73984,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/PPHC.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "TVAI": [],
+    "TAND.L": [],
+    "TAN.L": [],
+    "VEEAW": [],
+    "VHCP": [],
+    "WSTN": [],
+    "ZDAI": [],
+    "XBPEW": [],
+    "YHNAR": [],
+    "UKEN.L": [],
+    "ZDGE": [
+      {
+        "id": "yahoo:ZDGE:2026-01-30",
+        "symbol": "ZDGE",
+        "name": "Zedge Inc. Class B Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-01-30",
+        "recordDate": null,
+        "paymentDate": "2026-01-30",
+        "amountPerShare": 0.016,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZDGE/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZDGE:2026-04-06",
+        "symbol": "ZDGE",
+        "name": "Zedge Inc. Class B Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-06",
+        "recordDate": null,
+        "paymentDate": "2026-04-06",
+        "amountPerShare": 0.02,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZDGE/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZDGE:2026-06-22",
+        "symbol": "ZDGE",
+        "name": "Zedge Inc. Class B Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-22",
+        "recordDate": null,
+        "paymentDate": "2026-06-22",
+        "amountPerShare": 0.02,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZDGE/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZDGE:2026-11-23",
+        "symbol": "ZDGE",
+        "name": "Zedge Inc. Class B Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-23",
+        "recordDate": null,
+        "paymentDate": "2026-11-23",
+        "amountPerShare": 0.02,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/ZDGE/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "ZENA": [],
+    "YU.": [],
+    "ZEN.L": [],
+    "ZEOWW": [],
+    "ZEO": [],
+    "ZETA": [],
+    "ZH": [],
+    "ZEG.L": [
+      {
+        "id": "yahoo:ZEG:2026-11-05",
+        "symbol": "ZEG",
+        "name": "Zegona Communications Plc",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-05",
+        "recordDate": null,
+        "paymentDate": "2026-11-05",
+        "amountPerShare": 159.74332,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/ZEG.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "ZGN": [
+      {
+        "id": "yahoo:ZGN:2026-07-06",
+        "symbol": "ZGN",
+        "name": "Ermenegildo Zegna N.V. Ordinary Shares",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-07-06",
+        "recordDate": null,
+        "paymentDate": "2026-07-06",
+        "amountPerShare": 0.137,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZGN/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "ZG": [],
+    "ZEPP": [],
+    "ZIM": [
+      {
+        "id": "yahoo:ZIM:2026-03-20",
+        "symbol": "ZIM",
+        "name": "ZIM Integrated Shipping Services Ltd. Ordinary Shares",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-03-20",
+        "recordDate": null,
+        "paymentDate": "2026-03-20",
+        "amountPerShare": 0.88,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZIM/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZIM:2026-09-26",
+        "symbol": "ZIM",
+        "name": "ZIM Integrated Shipping Services Ltd. Ordinary Shares",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-26",
+        "recordDate": null,
+        "paymentDate": "2026-09-26",
+        "amountPerShare": 0.88,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/ZIM/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "ZJK": [],
+    "ZJYL": [],
+    "ZIP": [],
+    "ZKH": [],
+    "ZIOC.L": [],
+    "ZKP": [],
+    "ZKPW": [],
+    "ZIG.L": [
+      {
+        "id": "yahoo:ZIG:2026-08-27",
+        "symbol": "ZIG",
+        "name": "ZIGUP PLC",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-27",
+        "recordDate": null,
+        "paymentDate": "2026-08-27",
+        "amountPerShare": 18.199999,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZIG.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "ZLAB": [],
+    "ZIONP": [
+      {
+        "id": "yahoo:ZIONP:2026-02-27",
+        "symbol": "ZIONP",
+        "name": "Zions Bancorporation N.A. Depositary Shares (Each representing 1/40th Interest in a Share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock)",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-27",
+        "recordDate": null,
+        "paymentDate": "2026-02-27",
+        "amountPerShare": 0.284679,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZIONP/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZIONP:2026-06-01",
+        "symbol": "ZIONP",
+        "name": "Zions Bancorporation N.A. Depositary Shares (Each representing 1/40th Interest in a Share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock)",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-01",
+        "recordDate": null,
+        "paymentDate": "2026-06-01",
+        "amountPerShare": 0.32042,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZIONP/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZIONP:2026-09-01",
+        "symbol": "ZIONP",
+        "name": "Zions Bancorporation N.A. Depositary Shares (Each representing 1/40th Interest in a Share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock)",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-01",
+        "recordDate": null,
+        "paymentDate": "2026-09-01",
+        "amountPerShare": 0.284047,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZIONP/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZIONP:2026-09-15",
+        "symbol": "ZIONP",
+        "name": "Zions Bancorporation N.A. Depositary Shares (Each representing 1/40th Interest in a Share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock)",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-15",
+        "recordDate": null,
+        "paymentDate": "2026-09-15",
+        "amountPerShare": 0.284047,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/ZIONP/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "ZKIN": [],
+    "ZM": [],
+    "ZONE": [],
+    "ZNB": [],
+    "ZOOZ": [],
+    "ZOOZW": [],
+    "ZNTL": [],
+    "ZS": [],
+    "ZSQR": [],
+    "ZSTK": [],
+    "ZPHR.L": [],
+    "ZTG": [],
+    "ZURA": [],
+    "ZOO.L": [],
+    "ZTO": [
+      {
+        "id": "yahoo:ZTO:2026-04-08",
+        "symbol": "ZTO",
+        "name": "ZTO Express (Cayman) Inc. American Depositary Shares each representing one Class A ordinary share.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-08",
+        "recordDate": null,
+        "paymentDate": "2026-04-08",
+        "amountPerShare": 0.39,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZTO/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "ZVIA": [],
+    "ZTF.L": [
+      {
+        "id": "yahoo:ZTF:2026-04-30",
+        "symbol": "ZTF",
+        "name": "Zotefoams plc",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-30",
+        "recordDate": null,
+        "paymentDate": "2026-04-30",
+        "amountPerShare": 5.35,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZTF.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZTF:2026-09-03",
+        "symbol": "ZTF",
+        "name": "Zotefoams plc",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-03",
+        "recordDate": null,
+        "paymentDate": "2026-09-03",
+        "amountPerShare": 2.63,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZTF.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "ZVRA": [],
+    "ZYBT": [],
+    "ZUMZ": [],
+    "ZYME": [],
+    "ZWS": [
+      {
+        "id": "yahoo:ZWS:2026-02-20",
+        "symbol": "ZWS",
+        "name": "Zurn Elkay Water Solutions Corporation Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-20",
+        "recordDate": null,
+        "paymentDate": "2026-02-20",
+        "amountPerShare": 0.11,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZWS/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZWS:2026-05-20",
+        "symbol": "ZWS",
+        "name": "Zurn Elkay Water Solutions Corporation Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-20",
+        "recordDate": null,
+        "paymentDate": "2026-05-20",
+        "amountPerShare": 0.11,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZWS/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZWS:2026-08-20",
+        "symbol": "ZWS",
+        "name": "Zurn Elkay Water Solutions Corporation Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-20",
+        "recordDate": null,
+        "paymentDate": "2026-08-20",
+        "amountPerShare": 0.11,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZWS/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZWS:2026-11-20",
+        "symbol": "ZWS",
+        "name": "Zurn Elkay Water Solutions Corporation Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-20",
+        "recordDate": null,
+        "paymentDate": "2026-11-20",
+        "amountPerShare": 0.11,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/ZWS/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
+    ],
+    "ZTR": [
+      {
+        "id": "yahoo:ZTR:2026-01-12",
+        "symbol": "ZTR",
+        "name": "Virtus Total Return Fund Inc.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-01-12",
+        "recordDate": null,
+        "paymentDate": "2026-01-12",
+        "amountPerShare": 0.05,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZTR/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZTR:2026-02-12",
+        "symbol": "ZTR",
+        "name": "Virtus Total Return Fund Inc.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-12",
+        "recordDate": null,
+        "paymentDate": "2026-02-12",
+        "amountPerShare": 0.05,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZTR/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZTR:2026-03-16",
+        "symbol": "ZTR",
+        "name": "Virtus Total Return Fund Inc.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-03-16",
+        "recordDate": null,
+        "paymentDate": "2026-03-16",
+        "amountPerShare": 0.05,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZTR/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZTR:2026-04-13",
+        "symbol": "ZTR",
+        "name": "Virtus Total Return Fund Inc.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-13",
+        "recordDate": null,
+        "paymentDate": "2026-04-13",
+        "amountPerShare": 0.05,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZTR/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZTR:2026-05-11",
+        "symbol": "ZTR",
+        "name": "Virtus Total Return Fund Inc.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-11",
+        "recordDate": null,
+        "paymentDate": "2026-05-11",
+        "amountPerShare": 0.05,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZTR/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZTR:2026-06-15",
+        "symbol": "ZTR",
+        "name": "Virtus Total Return Fund Inc.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-15",
+        "recordDate": null,
+        "paymentDate": "2026-06-15",
+        "amountPerShare": 0.055,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZTR/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZTR:2026-07-13",
+        "symbol": "ZTR",
+        "name": "Virtus Total Return Fund Inc.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-07-13",
+        "recordDate": null,
+        "paymentDate": "2026-07-13",
+        "amountPerShare": 0.055,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZTR/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZTR:2026-08-13",
+        "symbol": "ZTR",
+        "name": "Virtus Total Return Fund Inc.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-13",
+        "recordDate": null,
+        "paymentDate": "2026-08-13",
+        "amountPerShare": 0.055,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ZTR/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      },
+      {
+        "id": "yahoo:ZTR:2026-09-14",
+        "symbol": "ZTR",
+        "name": "Virtus Total Return Fund Inc.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-14",
+        "recordDate": null,
+        "paymentDate": "2026-09-14",
+        "amountPerShare": 0.055,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/ZTR/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-11T23:56:24Z"
+      }
     ]
   },
   "failed": [
-    "AKO/B",
-    "YU.",
-    "ZDAI",
-    "ZDGE",
-    "ZEG.L",
-    "ZEN.L",
-    "ZENA",
-    "ZEO",
-    "ZEOWW",
-    "ZEPP",
-    "ZETA",
-    "ZG",
-    "ZGN",
-    "ZH",
-    "ZIG.L",
-    "ZIM",
-    "ZIOC.L",
-    "ZIONP",
-    "ZIP",
-    "ZJK",
-    "ZJYL",
-    "ZKH",
-    "ZKIN",
-    "ZKPW",
-    "ZLAB",
-    "ZM",
-    "ZNB",
-    "ZNTL",
-    "ZONE",
-    "ZOO.L",
-    "ZOOZ",
-    "ZOOZW",
-    "ZPHR.L",
-    "ZS",
-    "ZSQR",
-    "ZSTK",
-    "ZTF.L",
-    "ZTG",
-    "ZTO",
-    "ZTR",
-    "ZUMZ",
-    "ZURA",
-    "ZVIA",
-    "ZVRA",
-    "ZWS",
-    "ZYBT",
-    "ZYME"
+    "0248.HK",
+    "AKO/A",
+    "AKO/B"
   ]
 }
