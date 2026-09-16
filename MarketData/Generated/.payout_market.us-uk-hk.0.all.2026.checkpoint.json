@@ -340519,7 +340519,237 @@
     "WLIIW": [],
     "ZKPU": [],
     "WTGUU": [],
-    "ZOYO.L": []
+    "ZOYO.L": [],
+    "0GHZ.L": [],
+    "0NL8.L": [],
+    "0HL9.L": [],
+    "0H8M.L": [],
+    "0A4M.L": [],
+    "0V7B.L": [],
+    "0UH8.L": [],
+    "0765.HK": [],
+    "2152.HK": [
+      {
+        "id": "yahoo:2152.HK:2026-06-22",
+        "symbol": "2152.HK",
+        "name": "Suxin Joyful Life Services Co., Ltd. Class H",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-22",
+        "recordDate": null,
+        "paymentDate": "2026-06-22",
+        "amountPerShare": 0.411396,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/2152.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-16T00:09:32Z"
+      }
+    ],
+    "2205.HK": [
+      {
+        "id": "yahoo:2205.HK:2026-10-17",
+        "symbol": "2205.HK",
+        "name": "Kangqiao Service Group Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-17",
+        "recordDate": null,
+        "paymentDate": "2026-10-17",
+        "amountPerShare": 0.058,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/2205.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-16T00:09:32Z"
+      }
+    ],
+    "1771.HK": [
+      {
+        "id": "yahoo:1771.HK:2026-10-29",
+        "symbol": "1771.HK",
+        "name": "Sunfonda Group Holdings Ltd.",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-29",
+        "recordDate": null,
+        "paymentDate": "2026-10-29",
+        "amountPerShare": 0.02,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/1771.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-16T00:09:32Z"
+      }
+    ],
+    "8112.HK": [],
+    "8412.HK": [],
+    "2222.HK": [],
+    "8319.HK": [
+      {
+        "id": "yahoo:8319.HK:2026-09-21",
+        "symbol": "8319.HK",
+        "name": "Expert Systems Holdings Ltd.",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-21",
+        "recordDate": null,
+        "paymentDate": "2026-09-21",
+        "amountPerShare": 0.0075,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/8319.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-16T00:09:32Z"
+      }
+    ],
+    "APACU": [],
+    "BIXI": [],
+    "BCGWW": [],
+    "3363.HK": [
+      {
+        "id": "yahoo:3363.HK:2026-06-25",
+        "symbol": "3363.HK",
+        "name": "Zhengye International Holdings Co., Ltd.",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-25",
+        "recordDate": null,
+        "paymentDate": "2026-06-25",
+        "amountPerShare": 0.0112,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/3363.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-16T00:09:32Z"
+      }
+    ],
+    "BHAVU": [],
+    "CAQ": [],
+    "EMIS": [],
+    "CRAN": [],
+    "HAVA": [],
+    "HCACU": [],
+    "FADL.L": [],
+    "EGY.L": [
+      {
+        "id": "yahoo:EGY:2026-02-26",
+        "symbol": "EGY",
+        "name": "VAALCO Energy, Inc.",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-26",
+        "recordDate": null,
+        "paymentDate": "2026-02-26",
+        "amountPerShare": 4.6399374,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/EGY.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-16T00:09:32Z"
+      },
+      {
+        "id": "yahoo:EGY:2026-05-21",
+        "symbol": "EGY",
+        "name": "VAALCO Energy, Inc.",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-21",
+        "recordDate": null,
+        "paymentDate": "2026-05-21",
+        "amountPerShare": 4.6399374,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/EGY.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-16T00:09:32Z"
+      },
+      {
+        "id": "yahoo:EGY:2026-08-20",
+        "symbol": "EGY",
+        "name": "VAALCO Energy, Inc.",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-20",
+        "recordDate": null,
+        "paymentDate": "2026-08-20",
+        "amountPerShare": 4.6399374,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/EGY.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-16T00:09:32Z"
+      },
+      {
+        "id": "yahoo:EGY:2026-11-19",
+        "symbol": "EGY",
+        "name": "VAALCO Energy, Inc.",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-19",
+        "recordDate": null,
+        "paymentDate": "2026-11-19",
+        "amountPerShare": 4.6399374,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/EGY.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-16T00:09:32Z"
+      }
+    ],
+    "GEO.L": [],
+    "HCIC": [],
+    "IGAC": [],
+    "KFII": [],
+    "OTGAU": [],
+    "MYXXW": [],
+    "MAY.L": [],
+    "RNAQ": [],
+    "MNTL.L": [],
+    "RNAQW": [],
+    "THEOR": [],
+    "TRGS": [],
+    "XSLLU": [],
+    "TVIV": [],
+    "SEATW": [],
+    "XTERU": [],
+    "ZIN.L": []
   },
   "failed": [
     "AKO/A",
