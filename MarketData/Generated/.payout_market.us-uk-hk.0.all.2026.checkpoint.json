@@ -340749,10 +340749,156 @@
     "TVIV": [],
     "SEATW": [],
     "XTERU": [],
-    "ZIN.L": []
+    "ZIN.L": [],
+    "0FCK.L": [],
+    "0D00.L": [],
+    "0HFP.L": [],
+    "0MNA.L": [],
+    "0N6O.L": [],
+    "0852.HK": [],
+    "0O79.L": [],
+    "0OPZ.L": [],
+    "0QDW.L": [],
+    "0859.HK": [],
+    "0287.HK": [
+      {
+        "id": "yahoo:0287.HK:2026-09-15",
+        "symbol": "0287.HK",
+        "name": "Winfair Investment Co., Ltd.",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-15",
+        "recordDate": null,
+        "paymentDate": "2026-09-15",
+        "amountPerShare": 0.12,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0287.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-17T00:06:36Z"
+      }
+    ],
+    "0367.HK": [
+      {
+        "id": "yahoo:0367.HK:2026-12-04",
+        "symbol": "0367.HK",
+        "name": "Chuang's Consortium International Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-04",
+        "recordDate": null,
+        "paymentDate": "2026-12-04",
+        "amountPerShare": 0.2,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/0367.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-17T00:06:36Z"
+      }
+    ],
+    "0RHB.L": [],
+    "2920.HK": [],
+    "ASBH": [],
+    "FERAU": [],
+    "1719.HK": [],
+    "OIOWW": [],
+    "ISNRU": [],
+    "8060.HK": [],
+    "SDHIU": [],
+    "WHLRL": [],
+    "WCCB": [
+      {
+        "id": "yahoo:WCCB:2026-02-10",
+        "symbol": "WCCB",
+        "name": "West Coast Community Bancorp Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-10",
+        "recordDate": null,
+        "paymentDate": "2026-02-10",
+        "amountPerShare": 0.23,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/WCCB/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-17T00:06:36Z"
+      },
+      {
+        "id": "yahoo:WCCB:2026-05-05",
+        "symbol": "WCCB",
+        "name": "West Coast Community Bancorp Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-05",
+        "recordDate": null,
+        "paymentDate": "2026-05-05",
+        "amountPerShare": 0.24,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/WCCB/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-17T00:06:36Z"
+      },
+      {
+        "id": "yahoo:WCCB:2026-08-04",
+        "symbol": "WCCB",
+        "name": "West Coast Community Bancorp Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-04",
+        "recordDate": null,
+        "paymentDate": "2026-08-04",
+        "amountPerShare": 0.25,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/WCCB/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-17T00:06:36Z"
+      },
+      {
+        "id": "yahoo:WCCB:2026-11-03",
+        "symbol": "WCCB",
+        "name": "West Coast Community Bancorp Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-03",
+        "recordDate": null,
+        "paymentDate": "2026-11-03",
+        "amountPerShare": 0.25,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/WCCB/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-17T00:06:36Z"
+      }
+    ]
   },
   "failed": [
-    "AKO/A",
+    "0266.HK",
     "AKO/B"
   ]
 }
