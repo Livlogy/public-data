@@ -340895,10 +340895,129 @@
         },
         "retrievedAt": "2026-09-17T00:06:36Z"
       }
+    ],
+    "0A1W.L": [],
+    "0EHB.L": [],
+    "0G2Z.L": [],
+    "0EZK.L": [],
+    "0GE8.L": [],
+    "0N8T.L": [],
+    "0IXN.L": [],
+    "0MDX.L": [],
+    "0QPF.L": [],
+    "0HN0.L": [],
+    "0458.HK": [
+      {
+        "id": "yahoo:0458.HK:2026-06-26",
+        "symbol": "0458.HK",
+        "name": "Tristate Holdings Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-26",
+        "recordDate": null,
+        "paymentDate": "2026-06-26",
+        "amountPerShare": 0.18,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0458.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-18T00:01:48Z"
+      }
+    ],
+    "0RKW.L": [],
+    "0RPP.L": [],
+    "0QQM.L": [],
+    "2179.HK": [],
+    "BSAAU": [],
+    "CATL": [],
+    "8020.HK": [],
+    "CATLR": [],
+    "CTAA": [],
+    "FGIIU": [],
+    "DRK": [],
+    "DTSQU": [],
+    "1235.HK": [
+      {
+        "id": "yahoo:1235.HK:2026-09-07",
+        "symbol": "1235.HK",
+        "name": "Travel Expert (Asia) Enterprises Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-07",
+        "recordDate": null,
+        "paymentDate": "2026-09-07",
+        "amountPerShare": 0.01,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/1235.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-18T00:01:48Z"
+      }
+    ],
+    "MTAK": [],
+    "MTAKW": [],
+    "MYX": [],
+    "MRCOU": [],
+    "RREV": [],
+    "TLAC": [],
+    "NPACU": [],
+    "SBFMW": [],
+    "TLACW": [],
+    "TLNCU": [],
+    "JAR.L": [
+      {
+        "id": "yahoo:JAR:2026-03-19",
+        "symbol": "JAR",
+        "name": "Jardine Matheson Holdings Limited",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-03-19",
+        "recordDate": null,
+        "paymentDate": "2026-03-19",
+        "amountPerShare": 1.7297533,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/JAR.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-18T00:01:48Z"
+      },
+      {
+        "id": "yahoo:JAR:2026-08-20",
+        "symbol": "JAR",
+        "name": "Jardine Matheson Holdings Limited",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-20",
+        "recordDate": null,
+        "paymentDate": "2026-08-20",
+        "amountPerShare": 0.65,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/JAR.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-18T00:01:48Z"
+      }
     ]
   },
   "failed": [
     "0266.HK",
+    "AKO/A",
     "AKO/B"
   ]
 }
