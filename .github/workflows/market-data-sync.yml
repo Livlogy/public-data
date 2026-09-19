@@ -49,6 +49,24 @@ jobs:
       - name: Install dependencies
         run: python3 -m pip install -r requirements.txt
 
+      - name: Preserve previous market snapshots
+        run: |
+          set -euo pipefail
+          mkdir -p MarketData/Generated
+          case "${{ steps.stage.outputs.stage }}" in
+            uk)
+              cp -f MarketData/Generated/uk_market.json MarketData/Generated/uk_market.previous.json 2>/dev/null || true
+              ;;
+            hk)
+              cp -f MarketData/Generated/hk_market.json MarketData/Generated/hk_market.previous.json 2>/dev/null || true
+              ;;
+            us)
+              for market in us_market payout_market crypto_market currency_market; do
+                cp -f "MarketData/Generated/${market}.json" "MarketData/Generated/${market}.previous.json" 2>/dev/null || true
+              done
+              ;;
+          esac
+
       - name: Fetch UK stocks
         if: steps.stage.outputs.stage == 'uk'
         run: python3 scripts/stock-uk.py
@@ -92,6 +110,7 @@ jobs:
       - name: Commit and push generated data
         run: |
           set -euo pipefail
+          rm -rf MarketData/Generated/Archive
           git config user.name "livlogy-market-data-bot"
           git config user.email "actions@users.noreply.github.com"
           git add MarketData/Generated

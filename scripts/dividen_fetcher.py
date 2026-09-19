@@ -351,8 +351,6 @@ def main() -> int:
         "data": events,
     }
     write_json(GENERATED_DIR / "payout_market.json", payload)
-    if not args.no_archive:
-        write_json(ARCHIVE_DIR / f"payout_market_{retrieved_at:%Y%m%d}.json", payload)
     if failures:
         write_json(checkpoint, {"completed": completed, "failed": sorted(failures)})
         print(f"[!] {len(failures)} symbols failed and remain retryable with --resume")

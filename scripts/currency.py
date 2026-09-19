@@ -82,10 +82,7 @@ def quote_item(code, frame, fallback_rate, timestamp, language):
 
 
 def write_outputs(payload, now_hkt, language):
-    paths = [
-        OUTPUT_DIR / localized_filename(FIXED_OUTPUT_FILE, language),
-        ARCHIVE_DIR / localized_filename(f"currency_market_{now_hkt:%Y%m%d}.json", language),
-    ]
+    paths = [OUTPUT_DIR / localized_filename(FIXED_OUTPUT_FILE, language)]
     for path in paths:
         with path.open("w", encoding="utf-8") as file:
             json.dump(payload, file, indent=2, ensure_ascii=False)

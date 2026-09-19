@@ -121,11 +121,7 @@ def quote_item(ticker, frame, timestamp):
 
 def write_outputs(payload, now_hkt, language):
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
-    paths = [
-        OUTPUT_DIR / localized_filename(FIXED_OUTPUT_FILE, language),
-        ARCHIVE_DIR / localized_filename(f"hk_market_{now_hkt:%Y%m%d}.json", language),
-    ]
+    paths = [OUTPUT_DIR / localized_filename(FIXED_OUTPUT_FILE, language)]
     for path in paths:
         with path.open("w", encoding="utf-8") as file:
             json.dump(payload, file, indent=2, ensure_ascii=False)

@@ -206,10 +206,7 @@ master_json = {
     "data": json_data_list
 }
 
-output_paths = [
-    OUTPUT_DIR / localized_filename(FIXED_OUTPUT_FILE, args.language),
-    ARCHIVE_DIR / localized_filename(f"uk_market_{now_hkt:%Y%m%d}.json", args.language),
-]
+output_paths = [OUTPUT_DIR / localized_filename(FIXED_OUTPUT_FILE, args.language)]
 for output_path in output_paths:
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(master_json, f, indent=2, ensure_ascii=False)
