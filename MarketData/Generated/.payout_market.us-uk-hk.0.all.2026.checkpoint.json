@@ -341013,11 +341013,78 @@
         },
         "retrievedAt": "2026-09-18T00:01:48Z"
       }
-    ]
+    ],
+    "0QRV.L": [],
+    "0G5H.L": [],
+    "0EFO.L": [],
+    "0QL0.L": [],
+    "0R44.L": [],
+    "0R15.L": [],
+    "8367.HK": [],
+    "0266.HK": [
+      {
+        "id": "yahoo:0266.HK:2026-09-15",
+        "symbol": "0266.HK",
+        "name": "Tian Teck Land Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-15",
+        "recordDate": null,
+        "paymentDate": "2026-09-15",
+        "amountPerShare": 0.08,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0266.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-18T23:58:23Z"
+      }
+    ],
+    "ADACU": [],
+    "3689.HK": [
+      {
+        "id": "yahoo:3689.HK:2026-06-23",
+        "symbol": "3689.HK",
+        "name": "Guangdong Kanghua Healthcare Group Co., Ltd. Class H",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-23",
+        "recordDate": null,
+        "paymentDate": "2026-06-23",
+        "amountPerShare": 0.19,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/3689.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-18T23:58:23Z"
+      }
+    ],
+    "8337.HK": [],
+    "CAPNU": [],
+    "0061.HK": [],
+    "CRACU": [],
+    "DMIIU": [],
+    "DFI.L": [],
+    "GUACU": [],
+    "HOST": [],
+    "ETRA": [],
+    "LWACU": [],
+    "OIG": [],
+    "LEDRU": [],
+    "QADR": [],
+    "XIII": [],
+    "PCTTU": [],
+    "XIIIW": []
   },
   "failed": [
-    "0266.HK",
-    "AKO/A",
+    "0430.HK",
     "AKO/B"
   ]
 }
