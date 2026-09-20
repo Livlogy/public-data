@@ -341081,10 +341081,32 @@
     "QADR": [],
     "XIII": [],
     "PCTTU": [],
-    "XIIIW": []
+    "XIIIW": [],
+    "0430.HK": [
+      {
+        "id": "yahoo:0430.HK:2026-06-01",
+        "symbol": "0430.HK",
+        "name": "Oriental Explorer Holdings Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-01",
+        "recordDate": null,
+        "paymentDate": "2026-06-01",
+        "amountPerShare": 0.008,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0430.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-19T23:56:16Z"
+      }
+    ]
   },
   "failed": [
-    "0430.HK",
+    "8225.HK",
     "AKO/B"
   ]
 }
