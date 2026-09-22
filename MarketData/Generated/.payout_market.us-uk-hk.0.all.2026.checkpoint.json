@@ -341103,10 +341103,62 @@
         },
         "retrievedAt": "2026-09-19T23:56:16Z"
       }
+    ],
+    "0DGZ.L": [],
+    "0F2S.L": [],
+    "0ENJ.L": [],
+    "0G6X.L": [],
+    "0FC8.L": [],
+    "0ACZ.L": [],
+    "0H38.L": [],
+    "0LNT.L": [],
+    "0O66.L": [],
+    "0JJM.L": [],
+    "0N01.L": [],
+    "0NJB.L": [],
+    "0OD6.L": [],
+    "0P5C.L": [],
+    "2892.HK": [],
+    "6727.HK": [],
+    "3869.HK": [],
+    "1629.HK": [],
+    "CCIIU": [],
+    "1226.HK": [],
+    "EURKR": [],
+    "DMAAU": [],
+    "OACCW": [],
+    "PLMKU": [],
+    "SCPQ": [],
+    "RFAMR": [],
+    "VNMEU": [],
+    "WENNU": [],
+    "WSTNR": [],
+    "8348.HK": [],
+    "ETL.L": [
+      {
+        "id": "yahoo:ETL:2026-11-16",
+        "symbol": "ETL",
+        "name": "Eutelsat Communications SA",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-16",
+        "recordDate": null,
+        "paymentDate": "2026-11-16",
+        "amountPerShare": 0.662367,
+        "currency": "EUR",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/ETL.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-22T00:37:02Z"
+      }
     ]
   },
   "failed": [
-    "8225.HK",
+    "0DEQ.L",
     "AKO/B"
   ]
 }

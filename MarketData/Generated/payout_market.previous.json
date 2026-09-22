@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "timezone": "UTC",
-  "_lastUpdated": "2026-09-19T23:56:16Z",
+  "_lastUpdated": "2026-09-20T23:54:47Z",
   "data": [
     {
       "id": "yahoo:0113.HK:2026-01-02",
@@ -8880,26 +8880,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/EOG/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
-      "id": "yahoo:FINS:2026-01-16",
-      "symbol": "FINS",
-      "name": "Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-01-16",
-      "recordDate": null,
-      "paymentDate": "2026-01-16",
-      "amountPerShare": 0.115,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/FINS/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
@@ -24740,26 +24720,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/FHB/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
-      "id": "yahoo:FINS:2026-02-13",
-      "symbol": "FINS",
-      "name": "Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-02-13",
-      "recordDate": null,
-      "paymentDate": "2026-02-13",
-      "amountPerShare": 0.115,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/FINS/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
@@ -61624,26 +61584,6 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
-      "id": "yahoo:FINS:2026-03-17",
-      "symbol": "FINS",
-      "name": "Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-17",
-      "recordDate": null,
-      "paymentDate": "2026-03-17",
-      "amountPerShare": 0.115,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/FINS/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:FNF:2026-03-17",
       "symbol": "FNF",
       "name": "Fidelity National Financial Inc. Common Stock",
@@ -63644,26 +63584,6 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
-      "id": "yahoo:HKLD:2026-03-19",
-      "symbol": "HKLD",
-      "name": "Hongkong Land Holdings Limited",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-19",
-      "recordDate": null,
-      "paymentDate": "2026-03-19",
-      "amountPerShare": 0.1904907,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/HKLD.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:HSP:2026-03-19",
       "symbol": "HSP",
       "name": "Hargreaves Services plc",
@@ -63702,26 +63622,6 @@
         "url": "https://finance.yahoo.com/quote/IDT/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
-      "id": "yahoo:JAR:2026-03-19",
-      "symbol": "JAR",
-      "name": "Jardine Matheson Holdings Limited",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-19",
-      "recordDate": null,
-      "paymentDate": "2026-03-19",
-      "amountPerShare": 1.7297533,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/JAR.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-18T00:01:48Z"
     },
     {
       "id": "yahoo:KLIC:2026-03-19",
@@ -70002,26 +69902,6 @@
         "url": "https://finance.yahoo.com/quote/NVO/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
-      "id": "yahoo:RICO:2026-03-30",
-      "symbol": "RICO",
-      "name": "Ricoh Company, Ltd.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-30",
-      "recordDate": null,
-      "paymentDate": "2026-03-30",
-      "amountPerShare": 20.0,
-      "currency": "JPY",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/RICO.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-09T23:52:50Z"
     },
     {
       "id": "yahoo:TIMB:2026-03-30",
@@ -86720,26 +86600,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/EOG/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
-      "id": "yahoo:FINS:2026-04-16",
-      "symbol": "FINS",
-      "name": "Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-04-16",
-      "recordDate": null,
-      "paymentDate": "2026-04-16",
-      "amountPerShare": 0.115,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/FINS/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
@@ -111682,26 +111542,6 @@
         "url": "https://finance.yahoo.com/quote/FGBIP/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T23:39:55Z"
-    },
-    {
-      "id": "yahoo:FINS:2026-05-15",
-      "symbol": "FINS",
-      "name": "Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-15",
-      "recordDate": null,
-      "paymentDate": "2026-05-15",
-      "amountPerShare": 0.115,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/FINS/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:FIX:2026-05-15",
@@ -156104,26 +155944,6 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
-      "id": "yahoo:FINS:2026-06-16",
-      "symbol": "FINS",
-      "name": "Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-16",
-      "recordDate": null,
-      "paymentDate": "2026-06-16",
-      "amountPerShare": 0.115,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/FINS/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:FNF:2026-06-16",
       "symbol": "FNF",
       "name": "Fidelity National Financial Inc. Common Stock",
@@ -184324,26 +184144,6 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
-      "id": "yahoo:FINS:2026-07-17",
-      "symbol": "FINS",
-      "name": "Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-07-17",
-      "recordDate": null,
-      "paymentDate": "2026-07-17",
-      "amountPerShare": 0.115,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/FINS/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:FRD:2026-07-17",
       "symbol": "FRD",
       "name": "Friedman Industries Inc. Common Stock",
@@ -208044,26 +207844,6 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
-      "id": "yahoo:FINS:2026-08-17",
-      "symbol": "FINS",
-      "name": "Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-08-17",
-      "recordDate": null,
-      "paymentDate": "2026-08-17",
-      "amountPerShare": 0.115,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/FINS/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:GDV:2026-08-17",
       "symbol": "GDV",
       "name": "Gabelli Dividend & Income Trust Common Shares of Beneficial Interest",
@@ -213104,26 +212884,6 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
-      "id": "yahoo:HKLD:2026-08-20",
-      "symbol": "HKLD",
-      "name": "Hongkong Land Holdings Limited",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-08-20",
-      "recordDate": null,
-      "paymentDate": "2026-08-20",
-      "amountPerShare": 0.08,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/HKLD.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:HNNA:2026-08-20",
       "symbol": "HNNA",
       "name": "Hennessy Advisors Inc. Common Stock",
@@ -213262,26 +213022,6 @@
         "url": "https://finance.yahoo.com/quote/INVP.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
-      "id": "yahoo:JAR:2026-08-20",
-      "symbol": "JAR",
-      "name": "Jardine Matheson Holdings Limited",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-08-20",
-      "recordDate": null,
-      "paymentDate": "2026-08-20",
-      "amountPerShare": 0.65,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/JAR.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-18T00:01:48Z"
     },
     {
       "id": "yahoo:KGC:2026-08-20",
@@ -246144,26 +245884,6 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
-      "id": "yahoo:FINS:2026-09-16",
-      "symbol": "FINS",
-      "name": "Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-16",
-      "recordDate": null,
-      "paymentDate": "2026-09-16",
-      "amountPerShare": 0.115,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/FINS/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:FSK:2026-09-16",
       "symbol": "FSK",
       "name": "FS KKR Capital Corp. Common Stock",
@@ -256282,26 +256002,6 @@
         "url": "https://finance.yahoo.com/quote/NOG/history/?filter=div"
       },
       "retrievedAt": "2026-09-06T23:33:32Z"
-    },
-    {
-      "id": "yahoo:RICO:2026-09-28",
-      "symbol": "RICO",
-      "name": "Ricoh Company, Ltd.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-28",
-      "recordDate": null,
-      "paymentDate": "2026-09-28",
-      "amountPerShare": 20.0,
-      "currency": "JPY",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/RICO.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-09T23:52:50Z"
     },
     {
       "id": "yahoo:SONY:2026-09-28",
