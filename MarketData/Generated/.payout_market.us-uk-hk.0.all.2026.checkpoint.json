@@ -341155,10 +341155,73 @@
         },
         "retrievedAt": "2026-09-22T00:37:02Z"
       }
+    ],
+    "0DEQ.L": [],
+    "0O2X.L": [],
+    "0OF2.L": [],
+    "0NZS.L": [],
+    "BKHA": [],
+    "9856.HK": [],
+    "CCGWW": [],
+    "GGROW": [],
+    "ESYN": [],
+    "GPATU": [],
+    "IDACU": [],
+    "NWCLW": [],
+    "NWCL": [],
+    "RDAGU": [],
+    "SVIA": [],
+    "RFAIU": [],
+    "GSC.L": [],
+    "SVIAW": [],
+    "TDWDR": [],
+    "XRPNU": [],
+    "WSL.L": [],
+    "LTHP.L": [
+      {
+        "id": "yahoo:LTHP:2026-04-02",
+        "symbol": "LTHP",
+        "name": "James Latham PLC 8 % Cum.Pref.Shs",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-02",
+        "recordDate": null,
+        "paymentDate": "2026-04-02",
+        "amountPerShare": 4.0,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/LTHP.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-23T00:02:56Z"
+      },
+      {
+        "id": "yahoo:LTHP:2026-10-01",
+        "symbol": "LTHP",
+        "name": "James Latham PLC 8 % Cum.Pref.Shs",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-01",
+        "recordDate": null,
+        "paymentDate": "2026-10-01",
+        "amountPerShare": 4.0,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/LTHP.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-23T00:02:56Z"
+      }
     ]
   },
   "failed": [
-    "0DEQ.L",
+    "0GTO.L",
     "AKO/B"
   ]
 }
