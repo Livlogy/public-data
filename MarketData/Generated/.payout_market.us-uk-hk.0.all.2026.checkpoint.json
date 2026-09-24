@@ -341218,10 +341218,44 @@
         },
         "retrievedAt": "2026-09-23T00:02:56Z"
       }
+    ],
+    "0HW9.L": [],
+    "0DOL.L": [],
+    "0GTO.L": [],
+    "0ACI.L": [],
+    "0AAB.L": [],
+    "0JR9.L": [],
+    "BPACR": [],
+    "ALDFU": [],
+    "2915.HK": [],
+    "LOVIU": [],
+    "0157.HK": [],
+    "8029.HK": [],
+    "4335.HK": [
+      {
+        "id": "yahoo:4335.HK:2026-11-13",
+        "symbol": "4335.HK",
+        "name": "Intel Corporation",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-13",
+        "recordDate": null,
+        "paymentDate": "2026-11-13",
+        "amountPerShare": 0.9802375,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/4335.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-24T00:17:33Z"
+      }
     ]
   },
   "failed": [
-    "0GTO.L",
+    "0496.HK",
     "AKO/B"
   ]
 }

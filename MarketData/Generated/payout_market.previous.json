@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "timezone": "UTC",
-  "_lastUpdated": "2026-09-22T00:37:02Z",
+  "_lastUpdated": "2026-09-23T00:02:56Z",
   "data": [
     {
       "id": "yahoo:0113.HK:2026-01-02",
@@ -2964,26 +2964,6 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
-      "id": "yahoo:MDRR:2026-01-08",
-      "symbol": "MDRR",
-      "name": "Medalist Diversified Inc. Common Stock",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-01-08",
-      "recordDate": null,
-      "paymentDate": "2026-01-08",
-      "amountPerShare": 0.068,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/MDRR/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
       "id": "yahoo:MTO:2026-01-08",
       "symbol": "MTO",
       "name": "MITIE Group PLC",
@@ -5344,6 +5324,26 @@
       "retrievedAt": "2026-09-09T23:52:50Z"
     },
     {
+      "id": "yahoo:GJR:2026-01-14",
+      "symbol": "GJR",
+      "name": "Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-01-14",
+      "recordDate": null,
+      "paymentDate": "2026-01-14",
+      "amountPerShare": 0.093,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJR/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:GJS:2026-01-14",
       "symbol": "GJS",
       "name": "Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2",
@@ -5902,26 +5902,6 @@
         "url": "https://finance.yahoo.com/quote/BKE/history/?filter=div"
       },
       "retrievedAt": "2026-09-06T23:33:32Z"
-    },
-    {
-      "id": "yahoo:BPOPM:2026-01-15",
-      "symbol": "BPOPM",
-      "name": "Popular Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-01-15",
-      "recordDate": null,
-      "paymentDate": "2026-01-15",
-      "amountPerShare": 0.128,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/BPOPM/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
       "id": "yahoo:BTSGU:2026-01-15",
@@ -7822,6 +7802,46 @@
         "url": "https://finance.yahoo.com/quote/OCCIN/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T23:57:55Z"
+    },
+    {
+      "id": "yahoo:OFSSH:2026-01-15",
+      "symbol": "OFSSH",
+      "name": "OFS Capital Corporation 4.95% Notes due 2028",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-01-15",
+      "recordDate": null,
+      "paymentDate": "2026-01-15",
+      "amountPerShare": 0.309,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/OFSSH/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-10T23:47:18Z"
+    },
+    {
+      "id": "yahoo:OFSSO:2026-01-15",
+      "symbol": "OFSSO",
+      "name": "OFS Capital Corporation 7.50% Notes due 2028",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-01-15",
+      "recordDate": null,
+      "paymentDate": "2026-01-15",
+      "amountPerShare": 0.469,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/OFSSO/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
       "id": "yahoo:OGN:2026-01-15",
@@ -15064,6 +15084,26 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
+      "id": "yahoo:GJT:2026-01-30",
+      "symbol": "GJT",
+      "name": "Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-01-30",
+      "recordDate": null,
+      "paymentDate": "2026-01-30",
+      "amountPerShare": 0.093,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJT/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:LCUT:2026-01-30",
       "symbol": "LCUT",
       "name": "Lifetime Brands Inc. Common Stock",
@@ -22044,26 +22084,6 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
-      "id": "yahoo:MGYR:2026-02-12",
-      "symbol": "MGYR",
-      "name": "Magyar Bancorp Inc. Common Stock",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-02-12",
-      "recordDate": null,
-      "paymentDate": "2026-02-12",
-      "amountPerShare": 0.1,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/MGYR/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
       "id": "yahoo:NCV:2026-02-12",
       "symbol": "NCV",
       "name": "Virtus Convertible & Income Fund Common Shares of Beneficial Interest",
@@ -23904,26 +23924,6 @@
       "retrievedAt": "2026-09-06T23:33:32Z"
     },
     {
-      "id": "yahoo:BPOPM:2026-02-13",
-      "symbol": "BPOPM",
-      "name": "Popular Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-02-13",
-      "recordDate": null,
-      "paymentDate": "2026-02-13",
-      "amountPerShare": 0.128,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/BPOPM/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
       "id": "yahoo:BPRE:2026-02-13",
       "symbol": "BPRE",
       "name": "Bluerock Private Real Estate Fund Common Shares of Beneficial Interest",
@@ -24182,6 +24182,26 @@
         "url": "https://finance.yahoo.com/quote/CCL/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
+      "id": "yahoo:CCNEP:2026-02-13",
+      "symbol": "CCNEP",
+      "name": "CNB Financial Corporation Depositary Shares each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-02-13",
+      "recordDate": null,
+      "paymentDate": "2026-02-13",
+      "amountPerShare": 0.445,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/CCNEP/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-06T23:33:32Z"
     },
     {
       "id": "yahoo:CEV:2026-02-13",
@@ -25164,6 +25184,26 @@
       "retrievedAt": "2026-09-09T23:52:50Z"
     },
     {
+      "id": "yahoo:GJR:2026-02-13",
+      "symbol": "GJR",
+      "name": "Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-02-13",
+      "recordDate": null,
+      "paymentDate": "2026-02-13",
+      "amountPerShare": 0.093,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJR/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:GJS:2026-02-13",
       "symbol": "GJS",
       "name": "Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2",
@@ -25462,26 +25502,6 @@
         "url": "https://finance.yahoo.com/quote/IVZ/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:JBK:2026-02-13",
-      "symbol": "JBK",
-      "name": "Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-02-13",
-      "recordDate": null,
-      "paymentDate": "2026-02-13",
-      "amountPerShare": 0.793,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/JBK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-11T23:56:24Z"
     },
     {
       "id": "yahoo:JFR:2026-02-13",
@@ -30564,6 +30584,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0J4L:2026-02-18",
+      "symbol": "0J4L",
+      "name": "Herc Holdings, Inc.",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-02-18",
+      "recordDate": null,
+      "paymentDate": "2026-02-18",
+      "amountPerShare": 0.7,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0J4L.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
       "id": "yahoo:0JYA:2026-02-18",
       "symbol": "0JYA",
       "name": "Marathon Petroleum Corporation",
@@ -32044,26 +32084,6 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
-      "id": "yahoo:MTVW:2026-02-19",
-      "symbol": "MTVW",
-      "name": "Mountview Estates P.L.C.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-02-19",
-      "recordDate": null,
-      "paymentDate": "2026-02-19",
-      "amountPerShare": 250.0,
-      "currency": "GBX",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/MTVW.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
       "id": "yahoo:PLUS:2026-02-19",
       "symbol": "PLUS",
       "name": "Plus500 Ltd.",
@@ -32244,22 +32264,22 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0IRN:2026-02-20",
-      "symbol": "0IRN",
-      "name": "Fortune Brands Innovations, Inc.",
+      "id": "yahoo:0J22:2026-02-20",
+      "symbol": "0J22",
+      "name": "HCI Group, Inc.",
       "market": "uk",
       "declarationDate": null,
       "exDividendDate": "2026-02-20",
       "recordDate": null,
       "paymentDate": "2026-02-20",
-      "amountPerShare": 0.26,
+      "amountPerShare": 0.4,
       "currency": "USD",
       "eligibleShares": null,
       "estimatedHoldingAmount": null,
       "status": "paid",
       "source": {
         "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0IRN.L/history/?filter=div"
+        "url": "https://finance.yahoo.com/quote/0J22.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -38744,6 +38764,26 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
+      "id": "yahoo:GJT:2026-02-27",
+      "symbol": "GJT",
+      "name": "Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-02-27",
+      "recordDate": null,
+      "paymentDate": "2026-02-27",
+      "amountPerShare": 0.093,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJT/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:GLW:2026-02-27",
       "symbol": "GLW",
       "name": "Corning Incorporated Common Stock",
@@ -40420,6 +40460,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0KV3.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
+      "id": "yahoo:0L1G:2026-03-02",
+      "symbol": "0L1G",
+      "name": "SS&C Technologies Holdings, Inc.",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-03-02",
+      "recordDate": null,
+      "paymentDate": "2026-03-02",
+      "amountPerShare": 0.27,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0L1G.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -46664,26 +46724,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:0V5G:2026-03-09",
-      "symbol": "0V5G",
-      "name": "Maple Leaf Foods Inc.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-09",
-      "recordDate": null,
-      "paymentDate": "2026-03-09",
-      "amountPerShare": 0.21,
-      "currency": "CAD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0V5G.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-10T23:47:18Z"
-    },
-    {
       "id": "yahoo:AGNT:2026-03-09",
       "symbol": "AGNT",
       "name": "AGNT Inc. Common Stock",
@@ -47600,26 +47640,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0AHJ.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
-      "id": "yahoo:0FP0:2026-03-10",
-      "symbol": "0FP0",
-      "name": "PRIM, S.A.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-10",
-      "recordDate": null,
-      "paymentDate": "2026-03-10",
-      "amountPerShare": 0.1053,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0FP0.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -53664,26 +53684,6 @@
       "retrievedAt": "2026-09-06T23:33:32Z"
     },
     {
-      "id": "yahoo:BPOPM:2026-03-13",
-      "symbol": "BPOPM",
-      "name": "Popular Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-13",
-      "recordDate": null,
-      "paymentDate": "2026-03-13",
-      "amountPerShare": 0.128,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/BPOPM/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
       "id": "yahoo:BST:2026-03-13",
       "symbol": "BST",
       "name": "BlackRock Science and Technology Trust Common Shares of Beneficial Interest",
@@ -55062,6 +55062,26 @@
         "url": "https://finance.yahoo.com/quote/GJP/history/?filter=div"
       },
       "retrievedAt": "2026-09-09T23:52:50Z"
+    },
+    {
+      "id": "yahoo:GJR:2026-03-13",
+      "symbol": "GJR",
+      "name": "Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-03-13",
+      "recordDate": null,
+      "paymentDate": "2026-03-13",
+      "amountPerShare": 0.084,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJR/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:GJS:2026-03-13",
@@ -64084,26 +64104,6 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
-      "id": "yahoo:HKLD:2026-03-19",
-      "symbol": "HKLD",
-      "name": "Hongkong Land Holdings Limited",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-19",
-      "recordDate": null,
-      "paymentDate": "2026-03-19",
-      "amountPerShare": 0.1904907,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/HKLD.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:HSP:2026-03-19",
       "symbol": "HSP",
       "name": "Hargreaves Services plc",
@@ -64142,26 +64142,6 @@
         "url": "https://finance.yahoo.com/quote/IDT/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
-      "id": "yahoo:JAR:2026-03-19",
-      "symbol": "JAR",
-      "name": "Jardine Matheson Holdings Limited",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-19",
-      "recordDate": null,
-      "paymentDate": "2026-03-19",
-      "amountPerShare": 1.7297533,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/JAR.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-18T00:01:48Z"
     },
     {
       "id": "yahoo:KLIC:2026-03-19",
@@ -67704,26 +67684,6 @@
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
-      "id": "yahoo:0131.HK:2026-03-25",
-      "symbol": "0131.HK",
-      "name": "Cheuk Nang (Holdings) Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-25",
-      "recordDate": null,
-      "paymentDate": "2026-03-25",
-      "amountPerShare": 0.03,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0131.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:0CX9:2026-03-25",
       "symbol": "0CX9",
       "name": "Stora Enso Oyj Class A",
@@ -68300,6 +68260,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0R7S.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
+      "id": "yahoo:1023.HK:2026-03-26",
+      "symbol": "1023.HK",
+      "name": "Sitoy Group Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-03-26",
+      "recordDate": null,
+      "paymentDate": "2026-03-26",
+      "amountPerShare": 0.02,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/1023.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
@@ -70344,26 +70324,6 @@
       "retrievedAt": "2026-09-05T23:39:55Z"
     },
     {
-      "id": "yahoo:KNM:2026-03-30",
-      "symbol": "KNM",
-      "name": "KONAMI Group Corporation",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-30",
-      "recordDate": null,
-      "paymentDate": "2026-03-30",
-      "amountPerShare": 138.5,
-      "currency": "JPY",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/KNM.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
       "id": "yahoo:LIEN:2026-03-30",
       "symbol": "LIEN",
       "name": "Chicago Atlantic BDC Inc. Common Stock",
@@ -70484,26 +70444,6 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
-      "id": "yahoo:RICO:2026-03-30",
-      "symbol": "RICO",
-      "name": "Ricoh Company, Ltd.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-30",
-      "recordDate": null,
-      "paymentDate": "2026-03-30",
-      "amountPerShare": 20.0,
-      "currency": "JPY",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/RICO.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-09T23:52:50Z"
-    },
-    {
       "id": "yahoo:TIMB:2026-03-30",
       "symbol": "TIMB",
       "name": "TIM S.A. American Depositary Shares (Each representing 5 Common Shares)",
@@ -70540,26 +70480,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/TTC/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-10T23:47:18Z"
-    },
-    {
-      "id": "yahoo:TYT:2026-03-30",
-      "symbol": "TYT",
-      "name": "Toyota Motor Corp.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-30",
-      "recordDate": null,
-      "paymentDate": "2026-03-30",
-      "amountPerShare": 50.0,
-      "currency": "JPY",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/TYT.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
@@ -72864,6 +72784,26 @@
       "retrievedAt": "2026-09-05T23:39:55Z"
     },
     {
+      "id": "yahoo:GJT:2026-03-31",
+      "symbol": "GJT",
+      "name": "Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-03-31",
+      "recordDate": null,
+      "paymentDate": "2026-03-31",
+      "amountPerShare": 0.093,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJT/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:GPJA:2026-03-31",
       "symbol": "GPJA",
       "name": "Georgia Power Company Series 2017A 5.00% Junior Subordinated Notes due October 1 2077",
@@ -74624,46 +74564,6 @@
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
-      "id": "yahoo:0046.HK:2026-04-01",
-      "symbol": "0046.HK",
-      "name": "Computer & Technologies Holdings Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-04-01",
-      "recordDate": null,
-      "paymentDate": "2026-04-01",
-      "amountPerShare": 0.045,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0046.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
-      "id": "yahoo:0635.HK:2026-04-01",
-      "symbol": "0635.HK",
-      "name": "Playmates Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-04-01",
-      "recordDate": null,
-      "paymentDate": "2026-04-01",
-      "amountPerShare": 0.03,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0635.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:0H9N:2026-04-01",
       "symbol": "0H9N",
       "name": "AECOM",
@@ -76004,26 +75904,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0FHS:2026-04-02",
-      "symbol": "0FHS",
-      "name": "Olvi Oyj Class A",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-04-02",
-      "recordDate": null,
-      "paymentDate": "2026-04-02",
-      "amountPerShare": 0.67,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0FHS.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:0HST:2026-04-02",
       "symbol": "0HST",
       "name": "Campbell's Company",
@@ -77022,6 +76902,26 @@
         "url": "https://finance.yahoo.com/quote/LIVE.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T23:57:55Z"
+    },
+    {
+      "id": "yahoo:LTHP:2026-04-02",
+      "symbol": "LTHP",
+      "name": "James Latham PLC 8 % Cum.Pref.Shs",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-04-02",
+      "recordDate": null,
+      "paymentDate": "2026-04-02",
+      "amountPerShare": 4.0,
+      "currency": "GBX",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/LTHP.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-23T00:02:56Z"
     },
     {
       "id": "yahoo:MHA:2026-04-02",
@@ -82104,26 +82004,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0O6D:2026-04-14",
-      "symbol": "0O6D",
-      "name": "Miquel y Costas & Miquel, S.A.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-04-14",
-      "recordDate": null,
-      "paymentDate": "2026-04-14",
-      "amountPerShare": 0.099485,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0O6D.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
       "id": "yahoo:0OPJ:2026-04-14",
       "symbol": "0OPJ",
       "name": "ABC arbitrage SA",
@@ -82562,6 +82442,26 @@
         "url": "https://finance.yahoo.com/quote/GJP/history/?filter=div"
       },
       "retrievedAt": "2026-09-09T23:52:50Z"
+    },
+    {
+      "id": "yahoo:GJR:2026-04-14",
+      "symbol": "GJR",
+      "name": "Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-04-14",
+      "recordDate": null,
+      "paymentDate": "2026-04-14",
+      "amountPerShare": 0.094,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJR/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:GJS:2026-04-14",
@@ -84104,26 +84004,6 @@
       "retrievedAt": "2026-09-06T23:33:32Z"
     },
     {
-      "id": "yahoo:BPOPM:2026-04-15",
-      "symbol": "BPOPM",
-      "name": "Popular Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-04-15",
-      "recordDate": null,
-      "paymentDate": "2026-04-15",
-      "amountPerShare": 0.128,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/BPOPM/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
       "id": "yahoo:BPRE:2026-04-15",
       "symbol": "BPRE",
       "name": "Bluerock Private Real Estate Fund Common Shares of Beneficial Interest",
@@ -85364,26 +85244,6 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
-      "id": "yahoo:MDRR:2026-04-15",
-      "symbol": "MDRR",
-      "name": "Medalist Diversified Inc. Common Stock",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-04-15",
-      "recordDate": null,
-      "paymentDate": "2026-04-15",
-      "amountPerShare": 0.068,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/MDRR/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
       "id": "yahoo:METCI:2026-04-15",
       "symbol": "METCI",
       "name": "Ramaco Resources Inc. 8.250% Senior Notes due 2030",
@@ -86282,6 +86142,46 @@
         "url": "https://finance.yahoo.com/quote/OCCIN/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T23:57:55Z"
+    },
+    {
+      "id": "yahoo:OFSSH:2026-04-15",
+      "symbol": "OFSSH",
+      "name": "OFS Capital Corporation 4.95% Notes due 2028",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-04-15",
+      "recordDate": null,
+      "paymentDate": "2026-04-15",
+      "amountPerShare": 0.309,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/OFSSH/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-10T23:47:18Z"
+    },
+    {
+      "id": "yahoo:OFSSO:2026-04-15",
+      "symbol": "OFSSO",
+      "name": "OFS Capital Corporation 7.50% Notes due 2028",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-04-15",
+      "recordDate": null,
+      "paymentDate": "2026-04-15",
+      "amountPerShare": 0.469,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/OFSSO/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
       "id": "yahoo:OPP:2026-04-15",
@@ -90824,26 +90724,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:0QP7:2026-04-23",
-      "symbol": "0QP7",
-      "name": "COLTENE Holding AG",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-04-23",
-      "recordDate": null,
-      "paymentDate": "2026-04-23",
-      "amountPerShare": 2.0,
-      "currency": "CHF",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0QP7.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
       "id": "yahoo:0QW1:2026-04-23",
       "symbol": "0QW1",
       "name": "Bystronic AG",
@@ -93544,6 +93424,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0NY3:2026-04-27",
+      "symbol": "0NY3",
+      "name": "STEF",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-04-27",
+      "recordDate": null,
+      "paymentDate": "2026-04-27",
+      "amountPerShare": 2.7,
+      "currency": "EUR",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0NY3.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
       "id": "yahoo:0Q59:2026-04-27",
       "symbol": "0Q59",
       "name": "Scanfil Oyj",
@@ -95884,6 +95784,26 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
+      "id": "yahoo:GJT:2026-04-30",
+      "symbol": "GJT",
+      "name": "Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-04-30",
+      "recordDate": null,
+      "paymentDate": "2026-04-30",
+      "amountPerShare": 0.094,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJT/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:GRG:2026-04-30",
       "symbol": "GRG",
       "name": "Greggs plc",
@@ -96984,6 +96904,26 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
+      "id": "yahoo:0O9C:2026-05-01",
+      "symbol": "0O9C",
+      "name": "Compagnie du Bois Sauvage SA",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-05-01",
+      "recordDate": null,
+      "paymentDate": "2026-05-01",
+      "amountPerShare": 6.02,
+      "currency": "EUR",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0O9C.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:0OEY:2026-05-01",
       "symbol": "0OEY",
       "name": "d'Amico International Shipping S.A.",
@@ -97120,26 +97060,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0QOL.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:0QQZ:2026-05-01",
-      "symbol": "0QQZ",
-      "name": "St.Galler Kantonalbank AG",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-01",
-      "recordDate": null,
-      "paymentDate": "2026-05-01",
-      "amountPerShare": 20.0,
-      "currency": "CHF",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0QQZ.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
@@ -101444,26 +101364,6 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
-      "id": "yahoo:MGYR:2026-05-07",
-      "symbol": "MGYR",
-      "name": "Magyar Bancorp Inc. Common Stock",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-07",
-      "recordDate": null,
-      "paymentDate": "2026-05-07",
-      "amountPerShare": 0.1,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/MGYR/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
       "id": "yahoo:NWBI:2026-05-07",
       "symbol": "NWBI",
       "name": "Northwest Bancshares Inc. Common Stock",
@@ -103242,46 +103142,6 @@
         "url": "https://finance.yahoo.com/quote/WSFS/history/?filter=div"
       },
       "retrievedAt": "2026-09-10T23:47:18Z"
-    },
-    {
-      "id": "yahoo:0032.HK:2026-05-11",
-      "symbol": "0032.HK",
-      "name": "Cross-Harbour (Holdings) Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-11",
-      "recordDate": null,
-      "paymentDate": "2026-05-11",
-      "amountPerShare": 0.24,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0032.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
-      "id": "yahoo:0396.HK:2026-05-11",
-      "symbol": "0396.HK",
-      "name": "Hing Lee (HK) Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-11",
-      "recordDate": null,
-      "paymentDate": "2026-05-11",
-      "amountPerShare": 0.015,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0396.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
       "id": "yahoo:0A9W:2026-05-11",
@@ -108644,6 +108504,26 @@
       "retrievedAt": "2026-09-09T23:52:50Z"
     },
     {
+      "id": "yahoo:GJR:2026-05-14",
+      "symbol": "GJR",
+      "name": "Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-05-14",
+      "recordDate": null,
+      "paymentDate": "2026-05-14",
+      "amountPerShare": 0.09,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJR/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:GJS:2026-05-14",
       "symbol": "GJS",
       "name": "Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2",
@@ -110164,6 +110044,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0J22:2026-05-15",
+      "symbol": "0J22",
+      "name": "HCI Group, Inc.",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-05-15",
+      "recordDate": null,
+      "paymentDate": "2026-05-15",
+      "amountPerShare": 0.4,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0J22.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
       "id": "yahoo:0J4X:2026-05-15",
       "symbol": "0J4X",
       "name": "Hershey Company",
@@ -110600,26 +110500,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/80700.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T23:39:55Z"
-    },
-    {
-      "id": "yahoo:82020.HK:2026-05-15",
-      "symbol": "82020.HK",
-      "name": "ANTA Sports Products Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-15",
-      "recordDate": null,
-      "paymentDate": "2026-05-15",
-      "amountPerShare": 0.935584,
-      "currency": "CNY",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/82020.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T23:39:55Z"
     },
@@ -111344,26 +111224,6 @@
       "retrievedAt": "2026-09-06T23:33:32Z"
     },
     {
-      "id": "yahoo:BPOPM:2026-05-15",
-      "symbol": "BPOPM",
-      "name": "Popular Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-15",
-      "recordDate": null,
-      "paymentDate": "2026-05-15",
-      "amountPerShare": 0.128,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/BPOPM/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
       "id": "yahoo:BRKRP:2026-05-15",
       "symbol": "BRKRP",
       "name": "Bruker Corporation 6.375% Mandatory Convertible Preferred Stock Series A",
@@ -111600,6 +111460,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/CCEP/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-06T23:33:32Z"
+    },
+    {
+      "id": "yahoo:CCNEP:2026-05-15",
+      "symbol": "CCNEP",
+      "name": "CNB Financial Corporation Depositary Shares each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-05-15",
+      "recordDate": null,
+      "paymentDate": "2026-05-15",
+      "amountPerShare": 0.445,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/CCNEP/history/?filter=div"
       },
       "retrievedAt": "2026-09-06T23:33:32Z"
     },
@@ -116064,26 +115944,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0DTK:2026-05-18",
-      "symbol": "0DTK",
-      "name": "Savencia SA",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-18",
-      "recordDate": null,
-      "paymentDate": "2026-05-18",
-      "amountPerShare": 1.4,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0DTK.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:0DXU:2026-05-18",
       "symbol": "0DXU",
       "name": "Cembre S.p.A.",
@@ -118324,26 +118184,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:1987.HK:2026-05-19",
-      "symbol": "1987.HK",
-      "name": "Beng Soon Machinery Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-19",
-      "recordDate": null,
-      "paymentDate": "2026-05-19",
-      "amountPerShare": 0.015,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/1987.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:2192.HK:2026-05-19",
       "symbol": "2192.HK",
       "name": "Medlive Technology Co., Ltd.",
@@ -118660,6 +118500,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/BGH/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-06T23:33:32Z"
+    },
+    {
+      "id": "yahoo:BRBI:2026-05-19",
+      "symbol": "BRBI",
+      "name": "BRBI BR Partners S.A. ADSs",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-05-19",
+      "recordDate": null,
+      "paymentDate": "2026-05-19",
+      "amountPerShare": 0.147,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/BRBI/history/?filter=div"
       },
       "retrievedAt": "2026-09-06T23:33:32Z"
     },
@@ -119580,6 +119440,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0RBA.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
+      "id": "yahoo:0UMG:2026-05-20",
+      "symbol": "0UMG",
+      "name": "Universal Music Group N.V.",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-05-20",
+      "recordDate": null,
+      "paymentDate": "2026-05-20",
+      "amountPerShare": 0.28,
+      "currency": "EUR",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0UMG.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
@@ -120582,6 +120462,26 @@
         "url": "https://finance.yahoo.com/quote/0336.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
+      "id": "yahoo:0725.HK:2026-05-21",
+      "symbol": "0725.HK",
+      "name": "Perennial International Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-05-21",
+      "recordDate": null,
+      "paymentDate": "2026-05-21",
+      "amountPerShare": 0.04,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0725.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:0838.HK:2026-05-21",
@@ -123384,26 +123284,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0EEV:2026-05-22",
-      "symbol": "0EEV",
-      "name": "EXMAR NV",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-22",
-      "recordDate": null,
-      "paymentDate": "2026-05-22",
-      "amountPerShare": 0.189,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0EEV.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:0EWR:2026-05-22",
       "symbol": "0EWR",
       "name": "init innovation in traffic systems SE",
@@ -123480,26 +123360,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0II3.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
-      "id": "yahoo:0IRN:2026-05-22",
-      "symbol": "0IRN",
-      "name": "Fortune Brands Innovations, Inc.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-22",
-      "recordDate": null,
-      "paymentDate": "2026-05-22",
-      "amountPerShare": 0.26,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0IRN.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -123962,26 +123822,6 @@
         "url": "https://finance.yahoo.com/quote/1378.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:1476.HK:2026-05-22",
-      "symbol": "1476.HK",
-      "name": "Financial Street Securities Co., Limited Class H",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-22",
-      "recordDate": null,
-      "paymentDate": "2026-05-22",
-      "amountPerShare": 0.017169,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/1476.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:1690.HK:2026-05-22",
@@ -124622,6 +124462,26 @@
         "url": "https://finance.yahoo.com/quote/FMS/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
+      "id": "yahoo:FORTY:2026-05-22",
+      "symbol": "FORTY",
+      "name": "Formula Systems (1985) Ltd. American Depositary Shares",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-05-22",
+      "recordDate": null,
+      "paymentDate": "2026-05-22",
+      "amountPerShare": 13.045,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/FORTY/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-11T23:56:24Z"
     },
     {
       "id": "yahoo:GNE:2026-05-22",
@@ -125564,26 +125424,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0I0P:2026-05-26",
-      "symbol": "0I0P",
-      "name": "Institut de Developpement Industriel SCA",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-26",
-      "recordDate": null,
-      "paymentDate": "2026-05-26",
-      "amountPerShare": 2.9,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0I0P.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:0JD3:2026-05-26",
       "symbol": "0JD3",
       "name": "Invesco Mortgage Capital Inc.",
@@ -125700,6 +125540,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0QKP.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
+      "id": "yahoo:0QL7:2026-05-26",
+      "symbol": "0QL7",
+      "name": "Compagnie Financiere Tradition SA",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-05-26",
+      "recordDate": null,
+      "paymentDate": "2026-05-26",
+      "amountPerShare": 7.5,
+      "currency": "CHF",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0QL7.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
@@ -126684,26 +126544,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:0089.HK:2026-05-27",
-      "symbol": "0089.HK",
-      "name": "Tai Sang Land Development Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-27",
-      "recordDate": null,
-      "paymentDate": "2026-05-27",
-      "amountPerShare": 0.05,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0089.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-15T00:21:49Z"
-    },
-    {
       "id": "yahoo:0240.HK:2026-05-27",
       "symbol": "0240.HK",
       "name": "Build King Holdings Limited",
@@ -127144,26 +126984,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:1702.HK:2026-05-27",
-      "symbol": "1702.HK",
-      "name": "Dongguang Chemical Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-27",
-      "recordDate": null,
-      "paymentDate": "2026-05-27",
-      "amountPerShare": 0.04,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/1702.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:1788.HK:2026-05-27",
       "symbol": "1788.HK",
       "name": "Guotai Junan International Holdings Limited",
@@ -127184,26 +127004,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:1853.HK:2026-05-27",
-      "symbol": "1853.HK",
-      "name": "Jilin Province Chuncheng Heating Company Limited Class H",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-27",
-      "recordDate": null,
-      "paymentDate": "2026-05-27",
-      "amountPerShare": 0.0341,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/1853.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:2190.HK:2026-05-27",
       "symbol": "2190.HK",
       "name": "Zylox-Tonbridge Medical Technology Co., Ltd. Class H",
@@ -127222,6 +127022,26 @@
         "url": "https://finance.yahoo.com/quote/2190.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
+      "id": "yahoo:2210.HK:2026-05-27",
+      "symbol": "2210.HK",
+      "name": "Beijing Capital Jiaye Property Services Co., Ltd. Class H",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-05-27",
+      "recordDate": null,
+      "paymentDate": "2026-05-27",
+      "amountPerShare": 0.111,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/2210.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
       "id": "yahoo:2245.HK:2026-05-27",
@@ -129604,6 +129424,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0J4L:2026-05-29",
+      "symbol": "0J4L",
+      "name": "Herc Holdings, Inc.",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-05-29",
+      "recordDate": null,
+      "paymentDate": "2026-05-29",
+      "amountPerShare": 0.7,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0J4L.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
       "id": "yahoo:0J76:2026-05-29",
       "symbol": "0J76",
       "name": "Huntington Ingalls Industries, Inc.",
@@ -131324,6 +131164,26 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
+      "id": "yahoo:GJT:2026-05-29",
+      "symbol": "GJT",
+      "name": "Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-05-29",
+      "recordDate": null,
+      "paymentDate": "2026-05-29",
+      "amountPerShare": 0.093,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJT/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:GLW:2026-05-29",
       "symbol": "GLW",
       "name": "Corning Incorporated Common Stock",
@@ -132484,26 +132344,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0430.HK:2026-06-01",
-      "symbol": "0430.HK",
-      "name": "Oriental Explorer Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-01",
-      "recordDate": null,
-      "paymentDate": "2026-06-01",
-      "amountPerShare": 0.008,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0430.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-19T23:56:16Z"
-    },
-    {
       "id": "yahoo:0667.HK:2026-06-01",
       "symbol": "0667.HK",
       "name": "China East Education Holdings Limited",
@@ -132904,6 +132744,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0L1G:2026-06-01",
+      "symbol": "0L1G",
+      "name": "SS&C Technologies Holdings, Inc.",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-01",
+      "recordDate": null,
+      "paymentDate": "2026-06-01",
+      "amountPerShare": 0.27,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0L1G.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
       "id": "yahoo:0LHR:2026-06-01",
       "symbol": "0LHR",
       "name": "Tyson Foods, Inc. Class A",
@@ -133280,26 +133140,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/2367.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:2418.HK:2026-06-01",
-      "symbol": "2418.HK",
-      "name": "Deewin Tianxia Co. Ltd Class H",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-01",
-      "recordDate": null,
-      "paymentDate": "2026-06-01",
-      "amountPerShare": 0.03607,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/2418.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
@@ -136304,24 +136144,24 @@
       "retrievedAt": "2026-09-09T23:52:50Z"
     },
     {
-      "id": "yahoo:1290.HK:2026-06-02",
-      "symbol": "1290.HK",
-      "name": "China Huirong Financial Holdings Ltd.",
+      "id": "yahoo:1551.HK:2026-06-02",
+      "symbol": "1551.HK",
+      "name": "Guangzhou Rural Commercial Bank Co. Ltd. Class H",
       "market": "hk",
       "declarationDate": null,
       "exDividendDate": "2026-06-02",
       "recordDate": null,
       "paymentDate": "2026-06-02",
-      "amountPerShare": 0.03,
+      "amountPerShare": 0.052793,
       "currency": "HKD",
       "eligibleShares": null,
       "estimatedHoldingAmount": null,
       "status": "paid",
       "source": {
         "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/1290.HK/history/?filter=div"
+        "url": "https://finance.yahoo.com/quote/1551.HK/history/?filter=div"
       },
-      "retrievedAt": "2026-09-05T04:36:07Z"
+      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:1717.HK:2026-06-02",
@@ -137444,22 +137284,22 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:1345.HK:2026-06-03",
-      "symbol": "1345.HK",
-      "name": "Shanghai Pioneer Holding Ltd",
+      "id": "yahoo:1397.HK:2026-06-03",
+      "symbol": "1397.HK",
+      "name": "Baguio Green Group Ltd",
       "market": "hk",
       "declarationDate": null,
       "exDividendDate": "2026-06-03",
       "recordDate": null,
       "paymentDate": "2026-06-03",
-      "amountPerShare": 0.054,
+      "amountPerShare": 0.07,
       "currency": "HKD",
       "eligibleShares": null,
       "estimatedHoldingAmount": null,
       "status": "paid",
       "source": {
         "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/1345.HK/history/?filter=div"
+        "url": "https://finance.yahoo.com/quote/1397.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
@@ -138504,6 +138344,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0F2Z:2026-06-04",
+      "symbol": "0F2Z",
+      "name": "Leifheit AG",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-04",
+      "recordDate": null,
+      "paymentDate": "2026-06-04",
+      "amountPerShare": 1.2,
+      "currency": "EUR",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0F2Z.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
       "id": "yahoo:0IJN:2026-06-04",
       "symbol": "0IJN",
       "name": "Exelon Corporation",
@@ -138720,26 +138580,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/1478.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:2239.HK:2026-06-04",
-      "symbol": "2239.HK",
-      "name": "SMIT Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-04",
-      "recordDate": null,
-      "paymentDate": "2026-06-04",
-      "amountPerShare": 0.01,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/2239.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
@@ -142124,26 +141964,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0385.HK:2026-06-08",
-      "symbol": "0385.HK",
-      "name": "Chinney Alliance Group Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-08",
-      "recordDate": null,
-      "paymentDate": "2026-06-08",
-      "amountPerShare": 0.01,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0385.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:0386.HK:2026-06-08",
       "symbol": "0386.HK",
       "name": "China Petroleum & Chemical Corporation Class H",
@@ -142404,26 +142224,6 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
-      "id": "yahoo:0V5G:2026-06-08",
-      "symbol": "0V5G",
-      "name": "Maple Leaf Foods Inc.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-08",
-      "recordDate": null,
-      "paymentDate": "2026-06-08",
-      "amountPerShare": 0.21,
-      "currency": "CAD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0V5G.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-10T23:47:18Z"
-    },
-    {
       "id": "yahoo:1361.HK:2026-06-08",
       "symbol": "1361.HK",
       "name": "361 Degrees International Ltd.",
@@ -142460,6 +142260,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/1415.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
+      "id": "yahoo:1556.HK:2026-06-08",
+      "symbol": "1556.HK",
+      "name": "Chinney Kin Wing Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-08",
+      "recordDate": null,
+      "paymentDate": "2026-06-08",
+      "amountPerShare": 0.02,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/1556.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
@@ -144762,6 +144582,26 @@
         "url": "https://finance.yahoo.com/quote/89988.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T23:39:55Z"
+    },
+    {
+      "id": "yahoo:9908.HK:2026-06-10",
+      "symbol": "9908.HK",
+      "name": "JiaXing Gas Group Co. Ltd. Class H",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-10",
+      "recordDate": null,
+      "paymentDate": "2026-06-10",
+      "amountPerShare": 0.2873,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/9908.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
       "id": "yahoo:9988.HK:2026-06-10",
@@ -148844,6 +148684,26 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
+      "id": "yahoo:GJH:2026-06-12",
+      "symbol": "GJH",
+      "name": "Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-12",
+      "recordDate": null,
+      "paymentDate": "2026-06-12",
+      "amountPerShare": 0.319,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJH/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:GJO:2026-06-12",
       "symbol": "GJO",
       "name": "Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5",
@@ -148882,6 +148742,26 @@
         "url": "https://finance.yahoo.com/quote/GJP/history/?filter=div"
       },
       "retrievedAt": "2026-09-09T23:52:50Z"
+    },
+    {
+      "id": "yahoo:GJR:2026-06-12",
+      "symbol": "GJR",
+      "name": "Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-12",
+      "recordDate": null,
+      "paymentDate": "2026-06-12",
+      "amountPerShare": 0.093,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJR/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:GJS:2026-06-12",
@@ -149600,26 +149480,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0HHU.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
-      "id": "yahoo:0HZW:2026-06-15",
-      "symbol": "0HZW",
-      "name": "Viel & Cie SA",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-15",
-      "recordDate": null,
-      "paymentDate": "2026-06-15",
-      "amountPerShare": 0.54,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0HZW.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -151302,26 +151162,6 @@
         "url": "https://finance.yahoo.com/quote/BOE/history/?filter=div"
       },
       "retrievedAt": "2026-09-06T23:33:32Z"
-    },
-    {
-      "id": "yahoo:BPOPM:2026-06-15",
-      "symbol": "BPOPM",
-      "name": "Popular Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-15",
-      "recordDate": null,
-      "paymentDate": "2026-06-15",
-      "amountPerShare": 0.128,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/BPOPM/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
       "id": "yahoo:BST:2026-06-15",
@@ -157364,26 +157204,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:1084.HK:2026-06-16",
-      "symbol": "1084.HK",
-      "name": "Green Fresh Biotechnology Company Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-16",
-      "recordDate": null,
-      "paymentDate": "2026-06-16",
-      "amountPerShare": 0.012,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/1084.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
       "id": "yahoo:1285.HK:2026-06-16",
       "symbol": "1285.HK",
       "name": "Jiashili Group Ltd",
@@ -157502,26 +157322,6 @@
         "url": "https://finance.yahoo.com/quote/2232.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:6190.HK:2026-06-16",
-      "symbol": "6190.HK",
-      "name": "Bank of Jiujiang Co., Ltd. Class H",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-16",
-      "recordDate": null,
-      "paymentDate": "2026-06-16",
-      "amountPerShare": 0.064391,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/6190.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:6896.HK:2026-06-16",
@@ -158560,6 +158360,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0289.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
+      "id": "yahoo:0387.HK:2026-06-17",
+      "symbol": "0387.HK",
+      "name": "Leeport (Holdings) Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-17",
+      "recordDate": null,
+      "paymentDate": "2026-06-17",
+      "amountPerShare": 0.03,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0387.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
@@ -159622,6 +159442,26 @@
         "url": "https://finance.yahoo.com/quote/1848.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
+      "id": "yahoo:2130.HK:2026-06-18",
+      "symbol": "2130.HK",
+      "name": "CN Logistics International Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-18",
+      "recordDate": null,
+      "paymentDate": "2026-06-18",
+      "amountPerShare": 0.01,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/2130.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:2208.HK:2026-06-18",
@@ -161784,6 +161624,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0D1X:2026-06-23",
+      "symbol": "0D1X",
+      "name": "Groupe Guillin SA",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-23",
+      "recordDate": null,
+      "paymentDate": "2026-06-23",
+      "amountPerShare": 0.9,
+      "currency": "EUR",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0D1X.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
       "id": "yahoo:0GOI:2026-06-23",
       "symbol": "0GOI",
       "name": "Martifer SGPS",
@@ -161940,26 +161800,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0N9P.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:0OPN:2026-06-23",
-      "symbol": "0OPN",
-      "name": "Compagnie de l'Odet SE",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-23",
-      "recordDate": null,
-      "paymentDate": "2026-06-23",
-      "amountPerShare": 4.8,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0OPN.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
@@ -162124,26 +161964,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:1747.HK:2026-06-23",
-      "symbol": "1747.HK",
-      "name": "Home Control International Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-23",
-      "recordDate": null,
-      "paymentDate": "2026-06-23",
-      "amountPerShare": 0.0518,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/1747.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
       "id": "yahoo:1763.HK:2026-06-23",
       "symbol": "1763.HK",
       "name": "China Isotope & Radiation Corp.",
@@ -162184,26 +162004,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:2361.HK:2026-06-23",
-      "symbol": "2361.HK",
-      "name": "Sinohealth Technology Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-23",
-      "recordDate": null,
-      "paymentDate": "2026-06-23",
-      "amountPerShare": 0.0712,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/2361.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:2669.HK:2026-06-23",
       "symbol": "2669.HK",
       "name": "China Overseas Property Holdings Limited",
@@ -162242,26 +162042,6 @@
         "url": "https://finance.yahoo.com/quote/2869.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T23:39:55Z"
-    },
-    {
-      "id": "yahoo:3689.HK:2026-06-23",
-      "symbol": "3689.HK",
-      "name": "Guangdong Kanghua Healthcare Group Co., Ltd. Class H",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-23",
-      "recordDate": null,
-      "paymentDate": "2026-06-23",
-      "amountPerShare": 0.19,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/3689.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-18T23:58:23Z"
     },
     {
       "id": "yahoo:3958.HK:2026-06-23",
@@ -164604,6 +164384,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0IW6:2026-06-25",
+      "symbol": "0IW6",
+      "name": "Financiere Moncey",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-25",
+      "recordDate": null,
+      "paymentDate": "2026-06-25",
+      "amountPerShare": 0.28,
+      "currency": "EUR",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0IW6.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:0L5A:2026-06-25",
       "symbol": "0L5A",
       "name": "Sempra",
@@ -164804,6 +164604,26 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
+      "id": "yahoo:2266.HK:2026-06-25",
+      "symbol": "2266.HK",
+      "name": "Lai Si Enterprise Holding Ltd.",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-25",
+      "recordDate": null,
+      "paymentDate": "2026-06-25",
+      "amountPerShare": 0.0146,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/2266.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
       "id": "yahoo:2355.HK:2026-06-25",
       "symbol": "2355.HK",
       "name": "Baoye Group Co., Ltd. Class H",
@@ -164822,26 +164642,6 @@
         "url": "https://finance.yahoo.com/quote/2355.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
-      "id": "yahoo:3363.HK:2026-06-25",
-      "symbol": "3363.HK",
-      "name": "Zhengye International Holdings Co., Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-25",
-      "recordDate": null,
-      "paymentDate": "2026-06-25",
-      "amountPerShare": 0.0112,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/3363.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-16T00:09:32Z"
     },
     {
       "id": "yahoo:6821.HK:2026-06-25",
@@ -165544,26 +165344,6 @@
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
-      "id": "yahoo:0032.HK:2026-06-26",
-      "symbol": "0032.HK",
-      "name": "Cross-Harbour (Holdings) Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-26",
-      "recordDate": null,
-      "paymentDate": "2026-06-26",
-      "amountPerShare": 0.06,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0032.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:0222.HK:2026-06-26",
       "symbol": "0222.HK",
       "name": "Min Xin Holdings Limited",
@@ -165624,26 +165404,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0FOS:2026-06-26",
-      "symbol": "0FOS",
-      "name": "Precia SA",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-26",
-      "recordDate": null,
-      "paymentDate": "2026-06-26",
-      "amountPerShare": 0.55,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0FOS.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:0IQE:2026-06-26",
       "symbol": "0IQE",
       "name": "Flowserve Corporation",
@@ -165702,6 +165462,26 @@
         "url": "https://finance.yahoo.com/quote/0KTS.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
+      "id": "yahoo:0NDP:2026-06-26",
+      "symbol": "0NDP",
+      "name": "MLP SE",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-26",
+      "recordDate": null,
+      "paymentDate": "2026-06-26",
+      "amountPerShare": 0.36,
+      "currency": "EUR",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0NDP.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
       "id": "yahoo:0O2W:2026-06-26",
@@ -166380,26 +166160,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0AA6.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
-      "id": "yahoo:0HDQ:2026-06-29",
-      "symbol": "0HDQ",
-      "name": "Synergie SA",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-29",
-      "recordDate": null,
-      "paymentDate": "2026-06-29",
-      "amountPerShare": 0.6,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0HDQ.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -168100,6 +167860,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/1258.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
+      "id": "yahoo:1289.HK:2026-06-30",
+      "symbol": "1289.HK",
+      "name": "Wuxi Sunlit Science & Technology Co., Ltd. Class H",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-30",
+      "recordDate": null,
+      "paymentDate": "2026-06-30",
+      "amountPerShare": 0.184,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/1289.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
@@ -169942,6 +169722,26 @@
         "url": "https://finance.yahoo.com/quote/GHI/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T23:39:55Z"
+    },
+    {
+      "id": "yahoo:GJT:2026-06-30",
+      "symbol": "GJT",
+      "name": "Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-06-30",
+      "recordDate": null,
+      "paymentDate": "2026-06-30",
+      "amountPerShare": 0.094,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJT/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:GPJA:2026-06-30",
@@ -173344,6 +173144,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0529.HK:2026-07-02",
+      "symbol": "0529.HK",
+      "name": "SiS International Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-02",
+      "recordDate": null,
+      "paymentDate": "2026-07-02",
+      "amountPerShare": 0.025,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0529.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
       "id": "yahoo:0586.HK:2026-07-02",
       "symbol": "0586.HK",
       "name": "China Conch Venture Holdings Ltd.",
@@ -173402,6 +173222,26 @@
         "url": "https://finance.yahoo.com/quote/0939.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
+      "id": "yahoo:0DZJ:2026-07-02",
+      "symbol": "0DZJ",
+      "name": "Groupe Crit SA",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-02",
+      "recordDate": null,
+      "paymentDate": "2026-07-02",
+      "amountPerShare": 1.5,
+      "currency": "EUR",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0DZJ.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:0HST:2026-07-02",
@@ -173664,6 +173504,26 @@
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
+      "id": "yahoo:1576.HK:2026-07-02",
+      "symbol": "1576.HK",
+      "name": "Qilu Expressway Co., Ltd. Class H",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-02",
+      "recordDate": null,
+      "paymentDate": "2026-07-02",
+      "amountPerShare": 0.137981,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/1576.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:1786.HK:2026-07-02",
       "symbol": "1786.HK",
       "name": "CRCC High-Tech Equipment Corporation Limited Class H",
@@ -173804,24 +173664,44 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:2619.HK:2026-07-02",
-      "symbol": "2619.HK",
-      "name": "X.J. Electrics (Hu Bei) Group Co., Ltd Class H",
+      "id": "yahoo:2518.HK:2026-07-02",
+      "symbol": "2518.HK",
+      "name": "Autohome Inc. Class A",
       "market": "hk",
       "declarationDate": null,
       "exDividendDate": "2026-07-02",
       "recordDate": null,
       "paymentDate": "2026-07-02",
-      "amountPerShare": 0.04006,
+      "amountPerShare": 1.2935109,
       "currency": "HKD",
       "eligibleShares": null,
       "estimatedHoldingAmount": null,
       "status": "paid",
       "source": {
         "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/2619.HK/history/?filter=div"
+        "url": "https://finance.yahoo.com/quote/2518.HK/history/?filter=div"
       },
-      "retrievedAt": "2026-09-05T23:39:55Z"
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
+      "id": "yahoo:2520.HK:2026-07-02",
+      "symbol": "2520.HK",
+      "name": "Shanxi Installation Group Co., Ltd. Class H",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-02",
+      "recordDate": null,
+      "paymentDate": "2026-07-02",
+      "amountPerShare": 0.02343,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/2520.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:2880.HK:2026-07-02",
@@ -175464,6 +175344,26 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
+      "id": "yahoo:1292.HK:2026-07-03",
+      "symbol": "1292.HK",
+      "name": "Changan Minsheng Logistics Co Ltd Class H",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-03",
+      "recordDate": null,
+      "paymentDate": "2026-07-03",
+      "amountPerShare": 0.114995,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/1292.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
       "id": "yahoo:1359.HK:2026-07-03",
       "symbol": "1359.HK",
       "name": "China Cinda Asset Management Co., Ltd. Class H",
@@ -175502,26 +175402,6 @@
         "url": "https://finance.yahoo.com/quote/1658.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:1846.HK:2026-07-03",
-      "symbol": "1846.HK",
-      "name": "EuroEyes International Eye Clinic Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-07-03",
-      "recordDate": null,
-      "paymentDate": "2026-07-03",
-      "amountPerShare": 0.0126,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/1846.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:1866.HK:2026-07-03",
@@ -175764,6 +175644,26 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
+      "id": "yahoo:0NC8:2026-07-06",
+      "symbol": "0NC8",
+      "name": "IT Link SA",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-06",
+      "recordDate": null,
+      "paymentDate": "2026-07-06",
+      "amountPerShare": 0.5,
+      "currency": "EUR",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0NC8.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
       "id": "yahoo:0O2B:2026-07-06",
       "symbol": "0O2B",
       "name": "Moltiply Group S.p.A.",
@@ -175880,26 +175780,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/1880.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:2549.HK:2026-07-06",
-      "symbol": "2549.HK",
-      "name": "Carote Ltd",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-07-06",
-      "recordDate": null,
-      "paymentDate": "2026-07-06",
-      "amountPerShare": 0.1419,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/2549.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
@@ -177504,6 +177384,26 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
+      "id": "yahoo:6686.HK:2026-07-08",
+      "symbol": "6686.HK",
+      "name": "Noah Holdings Ltd. Class A",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-08",
+      "recordDate": null,
+      "paymentDate": "2026-07-08",
+      "amountPerShare": 2.054,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/6686.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:BDN:2026-07-08",
       "symbol": "BDN",
       "name": "Brandywine Realty Trust Common Stock",
@@ -177904,26 +177804,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:1897.HK:2026-07-09",
-      "symbol": "1897.HK",
-      "name": "Million Hope Industries Holdings Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-07-09",
-      "recordDate": null,
-      "paymentDate": "2026-07-09",
-      "amountPerShare": 0.006,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/1897.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-09T23:52:50Z"
-    },
-    {
       "id": "yahoo:2155.HK:2026-07-09",
       "symbol": "2155.HK",
       "name": "Morimatsu International Holdings Company Limited",
@@ -178080,6 +177960,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/BRW/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-06T23:33:32Z"
+    },
+    {
+      "id": "yahoo:CFYN:2026-07-09",
+      "symbol": "CFYN",
+      "name": "Caffyns plc",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-09",
+      "recordDate": null,
+      "paymentDate": "2026-07-09",
+      "amountPerShare": 5.0,
+      "currency": "GBX",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/CFYN.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-06T23:33:32Z"
     },
@@ -178360,26 +178260,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/MFX.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
-      "id": "yahoo:MTVW:2026-07-09",
-      "symbol": "MTVW",
-      "name": "Mountview Estates P.L.C.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-07-09",
-      "recordDate": null,
-      "paymentDate": "2026-07-09",
-      "amountPerShare": 275.0,
-      "currency": "GBX",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/MTVW.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
@@ -179784,26 +179664,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0FP0:2026-07-13",
-      "symbol": "0FP0",
-      "name": "PRIM, S.A.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-07-13",
-      "recordDate": null,
-      "paymentDate": "2026-07-13",
-      "amountPerShare": 0.217566,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0FP0.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:0ILL:2026-07-13",
       "symbol": "0ILL",
       "name": "Laboratorios Farmaceuticos Rovi, S.A.",
@@ -180944,26 +180804,6 @@
       "retrievedAt": "2026-09-11T23:56:24Z"
     },
     {
-      "id": "yahoo:0O6D:2026-07-14",
-      "symbol": "0O6D",
-      "name": "Miquel y Costas & Miquel, S.A.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-07-14",
-      "recordDate": null,
-      "paymentDate": "2026-07-14",
-      "amountPerShare": 0.115062,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0O6D.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
       "id": "yahoo:1375.HK:2026-07-14",
       "symbol": "1375.HK",
       "name": "Central China Securities Co., Ltd. Class H",
@@ -181382,6 +181222,26 @@
         "url": "https://finance.yahoo.com/quote/GJP/history/?filter=div"
       },
       "retrievedAt": "2026-09-09T23:52:50Z"
+    },
+    {
+      "id": "yahoo:GJR:2026-07-14",
+      "symbol": "GJR",
+      "name": "Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-14",
+      "recordDate": null,
+      "paymentDate": "2026-07-14",
+      "amountPerShare": 0.092,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJR/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:GJS:2026-07-14",
@@ -182682,26 +182542,6 @@
         "url": "https://finance.yahoo.com/quote/BOE/history/?filter=div"
       },
       "retrievedAt": "2026-09-06T23:33:32Z"
-    },
-    {
-      "id": "yahoo:BPOPM:2026-07-15",
-      "symbol": "BPOPM",
-      "name": "Popular Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-07-15",
-      "recordDate": null,
-      "paymentDate": "2026-07-15",
-      "amountPerShare": 0.128,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/BPOPM/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
       "id": "yahoo:BST:2026-07-15",
@@ -184922,6 +184762,46 @@
         "url": "https://finance.yahoo.com/quote/OCCIN/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T23:57:55Z"
+    },
+    {
+      "id": "yahoo:OFSSH:2026-07-15",
+      "symbol": "OFSSH",
+      "name": "OFS Capital Corporation 4.95% Notes due 2028",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-15",
+      "recordDate": null,
+      "paymentDate": "2026-07-15",
+      "amountPerShare": 0.309,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/OFSSH/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-10T23:47:18Z"
+    },
+    {
+      "id": "yahoo:OFSSO:2026-07-15",
+      "symbol": "OFSSO",
+      "name": "OFS Capital Corporation 7.50% Notes due 2028",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-15",
+      "recordDate": null,
+      "paymentDate": "2026-07-15",
+      "amountPerShare": 0.469,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/OFSSO/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
       "id": "yahoo:OPP:2026-07-15",
@@ -188824,26 +188704,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:MDRR:2026-07-23",
-      "symbol": "MDRR",
-      "name": "Medalist Diversified Inc. Common Stock",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-07-23",
-      "recordDate": null,
-      "paymentDate": "2026-07-23",
-      "amountPerShare": 0.068,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/MDRR/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
       "id": "yahoo:MFM:2026-07-23",
       "symbol": "MFM",
       "name": "Aberdeen Municipal Income Fund Common Shares of Beneficial Interest",
@@ -189080,6 +188940,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/THW/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-10T23:47:18Z"
+    },
+    {
+      "id": "yahoo:TST:2026-07-23",
+      "symbol": "TST",
+      "name": "Touchstar plc",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-23",
+      "recordDate": null,
+      "paymentDate": "2026-07-23",
+      "amountPerShare": 1.5,
+      "currency": "GBX",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/TST.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
@@ -193024,6 +192904,26 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
+      "id": "yahoo:GJT:2026-07-31",
+      "symbol": "GJT",
+      "name": "Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-31",
+      "recordDate": null,
+      "paymentDate": "2026-07-31",
+      "amountPerShare": 0.096,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJT/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:GOOGM:2026-07-31",
       "symbol": "GOOGM",
       "name": "Alphabet Inc. Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock",
@@ -193942,26 +193842,6 @@
         "url": "https://finance.yahoo.com/quote/WES/history/?filter=div"
       },
       "retrievedAt": "2026-09-10T23:47:18Z"
-    },
-    {
-      "id": "yahoo:0609.HK:2026-08-03",
-      "symbol": "0609.HK",
-      "name": "Tiande Chemical Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-08-03",
-      "recordDate": null,
-      "paymentDate": "2026-08-03",
-      "amountPerShare": 0.03,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0609.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
       "id": "yahoo:0DLI:2026-08-03",
@@ -196964,26 +196844,6 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
-      "id": "yahoo:MGYR:2026-08-06",
-      "symbol": "MGYR",
-      "name": "Magyar Bancorp Inc. Common Stock",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-08-06",
-      "recordDate": null,
-      "paymentDate": "2026-08-06",
-      "amountPerShare": 0.1,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/MGYR/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
       "id": "yahoo:NICL:2026-08-06",
       "symbol": "NICL",
       "name": "Nichols plc",
@@ -199800,26 +199660,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/UAN/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-10T23:47:18Z"
-    },
-    {
-      "id": "yahoo:WHLRP:2026-08-10",
-      "symbol": "WHLRP",
-      "name": "Wheeler Real Estate Investment Trust Inc. Class B Preferred Stock",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-08-10",
-      "recordDate": null,
-      "paymentDate": "2026-08-10",
-      "amountPerShare": 0.453,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/WHLRP/history/?filter=div"
       },
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
@@ -204464,6 +204304,26 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
+      "id": "yahoo:1213.HK:2026-08-14",
+      "symbol": "1213.HK",
+      "name": "Mobicon Group Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-08-14",
+      "recordDate": null,
+      "paymentDate": "2026-08-14",
+      "amountPerShare": 0.0025,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/1213.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-15T00:21:49Z"
+    },
+    {
       "id": "yahoo:1455.HK:2026-08-14",
       "symbol": "1455.HK",
       "name": "Fourace Industries Group Holdings Limited",
@@ -205204,26 +205064,6 @@
       "retrievedAt": "2026-09-06T23:33:32Z"
     },
     {
-      "id": "yahoo:BPOPM:2026-08-14",
-      "symbol": "BPOPM",
-      "name": "Popular Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-08-14",
-      "recordDate": null,
-      "paymentDate": "2026-08-14",
-      "amountPerShare": 0.128,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/BPOPM/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
       "id": "yahoo:BRKRP:2026-08-14",
       "symbol": "BRKRP",
       "name": "Bruker Corporation 6.375% Mandatory Convertible Preferred Stock Series A",
@@ -205460,6 +205300,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/CCD/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-06T23:33:32Z"
+    },
+    {
+      "id": "yahoo:CCNEP:2026-08-14",
+      "symbol": "CCNEP",
+      "name": "CNB Financial Corporation Depositary Shares each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-08-14",
+      "recordDate": null,
+      "paymentDate": "2026-08-14",
+      "amountPerShare": 0.445,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/CCNEP/history/?filter=div"
       },
       "retrievedAt": "2026-09-06T23:33:32Z"
     },
@@ -206564,6 +206424,26 @@
       "retrievedAt": "2026-09-09T23:52:50Z"
     },
     {
+      "id": "yahoo:GJR:2026-08-14",
+      "symbol": "GJR",
+      "name": "Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-08-14",
+      "recordDate": null,
+      "paymentDate": "2026-08-14",
+      "amountPerShare": 0.097,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJR/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:GJS:2026-08-14",
       "symbol": "GJS",
       "name": "Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2",
@@ -206942,26 +206822,6 @@
         "url": "https://finance.yahoo.com/quote/JAN/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
-      "id": "yahoo:JBK:2026-08-14",
-      "symbol": "JBK",
-      "name": "Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-08-14",
-      "recordDate": null,
-      "paymentDate": "2026-08-14",
-      "amountPerShare": 0.793,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/JBK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-11T23:56:24Z"
     },
     {
       "id": "yahoo:JBL:2026-08-14",
@@ -210040,6 +209900,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/BPRE/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-06T23:33:32Z"
+    },
+    {
+      "id": "yahoo:BRBI:2026-08-17",
+      "symbol": "BRBI",
+      "name": "BRBI BR Partners S.A. ADSs",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-08-17",
+      "recordDate": null,
+      "paymentDate": "2026-08-17",
+      "amountPerShare": 0.141,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/BRBI/history/?filter=div"
       },
       "retrievedAt": "2026-09-06T23:33:32Z"
     },
@@ -215504,26 +215384,6 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
-      "id": "yahoo:HKLD:2026-08-20",
-      "symbol": "HKLD",
-      "name": "Hongkong Land Holdings Limited",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-08-20",
-      "recordDate": null,
-      "paymentDate": "2026-08-20",
-      "amountPerShare": 0.08,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/HKLD.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:HNNA:2026-08-20",
       "symbol": "HNNA",
       "name": "Hennessy Advisors Inc. Common Stock",
@@ -215682,26 +215542,6 @@
         "url": "https://finance.yahoo.com/quote/INVP.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
-      "id": "yahoo:JAR:2026-08-20",
-      "symbol": "JAR",
-      "name": "Jardine Matheson Holdings Limited",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-08-20",
-      "recordDate": null,
-      "paymentDate": "2026-08-20",
-      "amountPerShare": 0.65,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/JAR.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-18T00:01:48Z"
     },
     {
       "id": "yahoo:KGC:2026-08-20",
@@ -216344,22 +216184,22 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0IRN:2026-08-21",
-      "symbol": "0IRN",
-      "name": "Fortune Brands Innovations, Inc.",
+      "id": "yahoo:0J22:2026-08-21",
+      "symbol": "0J22",
+      "name": "HCI Group, Inc.",
       "market": "uk",
       "declarationDate": null,
       "exDividendDate": "2026-08-21",
       "recordDate": null,
       "paymentDate": "2026-08-21",
-      "amountPerShare": 0.26,
+      "amountPerShare": 0.4,
       "currency": "USD",
       "eligibleShares": null,
       "estimatedHoldingAmount": null,
       "status": "paid",
       "source": {
         "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0IRN.L/history/?filter=div"
+        "url": "https://finance.yahoo.com/quote/0J22.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -217740,6 +217580,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/1793.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
+      "id": "yahoo:2368.HK:2026-08-24",
+      "symbol": "2368.HK",
+      "name": "Eagle Nice (International) Holdings Ltd.",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-08-24",
+      "recordDate": null,
+      "paymentDate": "2026-08-24",
+      "amountPerShare": 0.02,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/2368.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
@@ -219522,26 +219382,6 @@
         "url": "https://finance.yahoo.com/quote/0150.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
-      "id": "yahoo:0237.HK:2026-08-25",
-      "symbol": "0237.HK",
-      "name": "Safety Godown Co., Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-08-25",
-      "recordDate": null,
-      "paymentDate": "2026-08-25",
-      "amountPerShare": 0.05,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0237.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
       "id": "yahoo:0384.HK:2026-08-25",
@@ -221900,26 +221740,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0004.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
-      "id": "yahoo:0046.HK:2026-08-28",
-      "symbol": "0046.HK",
-      "name": "Computer & Technologies Holdings Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-08-28",
-      "recordDate": null,
-      "paymentDate": "2026-08-28",
-      "amountPerShare": 0.06,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0046.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -224604,6 +224424,26 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
+      "id": "yahoo:GJT:2026-08-31",
+      "symbol": "GJT",
+      "name": "Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-08-31",
+      "recordDate": null,
+      "paymentDate": "2026-08-31",
+      "amountPerShare": 0.098,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/GJT/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:GLW:2026-08-31",
       "symbol": "GLW",
       "name": "Corning Incorporated Common Stock",
@@ -225840,6 +225680,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0KV3.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
+      "id": "yahoo:0L1G:2026-09-01",
+      "symbol": "0L1G",
+      "name": "SS&C Technologies Holdings, Inc.",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-09-01",
+      "recordDate": null,
+      "paymentDate": "2026-09-01",
+      "amountPerShare": 0.3,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0L1G.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -228504,26 +228364,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0032.HK:2026-09-02",
-      "symbol": "0032.HK",
-      "name": "Cross-Harbour (Holdings) Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-02",
-      "recordDate": null,
-      "paymentDate": "2026-09-02",
-      "amountPerShare": 0.07,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0032.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:0057.HK:2026-09-02",
       "symbol": "0057.HK",
       "name": "Chen Hsong Holdings Limited",
@@ -228700,6 +228540,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0HJR.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
+      "id": "yahoo:0J4L:2026-09-02",
+      "symbol": "0J4L",
+      "name": "Herc Holdings, Inc.",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-09-02",
+      "recordDate": null,
+      "paymentDate": "2026-09-02",
+      "amountPerShare": 0.7,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0J4L.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -229564,6 +229424,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0077.HK:2026-09-03",
+      "symbol": "0077.HK",
+      "name": "AMS Public Transport Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-09-03",
+      "recordDate": null,
+      "paymentDate": "2026-09-03",
+      "amountPerShare": 0.06,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0077.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:0874.HK:2026-09-03",
       "symbol": "0874.HK",
       "name": "Guangzhou Baiyunshan Pharmaceutical Holdings Company Limited Class H",
@@ -229860,6 +229740,26 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/3308.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T23:39:55Z"
+    },
+    {
+      "id": "yahoo:6890.HK:2026-09-03",
+      "symbol": "6890.HK",
+      "name": "KangLi International Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-09-03",
+      "recordDate": null,
+      "paymentDate": "2026-09-03",
+      "amountPerShare": 0.09,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/6890.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T23:39:55Z"
     },
@@ -230940,26 +230840,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/0327.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
-      "id": "yahoo:0635.HK:2026-09-04",
-      "symbol": "0635.HK",
-      "name": "Playmates Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-04",
-      "recordDate": null,
-      "paymentDate": "2026-09-04",
-      "amountPerShare": 0.015,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0635.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -233364,6 +233244,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0725.HK:2026-09-07",
+      "symbol": "0725.HK",
+      "name": "Perennial International Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-09-07",
+      "recordDate": null,
+      "paymentDate": "2026-09-07",
+      "amountPerShare": 0.02,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0725.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:0816.HK:2026-09-07",
       "symbol": "0816.HK",
       "name": "Jinmao Property Services Co., Ltd.",
@@ -233422,26 +233322,6 @@
         "url": "https://finance.yahoo.com/quote/0L9E.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
-      "id": "yahoo:1170.HK:2026-09-07",
-      "symbol": "1170.HK",
-      "name": "Kingmaker Footwear Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-07",
-      "recordDate": null,
-      "paymentDate": "2026-09-07",
-      "amountPerShare": 0.02,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/1170.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
       "id": "yahoo:1848.HK:2026-09-07",
@@ -233542,46 +233422,6 @@
         "url": "https://finance.yahoo.com/quote/6862.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T23:39:55Z"
-    },
-    {
-      "id": "yahoo:0089.HK:2026-09-08",
-      "symbol": "0089.HK",
-      "name": "Tai Sang Land Development Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-08",
-      "recordDate": null,
-      "paymentDate": "2026-09-08",
-      "amountPerShare": 0.03,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0089.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-15T00:21:49Z"
-    },
-    {
-      "id": "yahoo:0126.HK:2026-09-08",
-      "symbol": "0126.HK",
-      "name": "Carrianna Group Holdings Company Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-08",
-      "recordDate": null,
-      "paymentDate": "2026-09-08",
-      "amountPerShare": 0.01,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0126.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
       "id": "yahoo:0142.HK:2026-09-08",
@@ -233802,26 +233642,6 @@
         "url": "https://finance.yahoo.com/quote/0R19.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:0V5G:2026-09-08",
-      "symbol": "0V5G",
-      "name": "Maple Leaf Foods Inc.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-08",
-      "recordDate": null,
-      "paymentDate": "2026-09-08",
-      "amountPerShare": 0.21,
-      "currency": "CAD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0V5G.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
       "id": "yahoo:1284.HK:2026-09-08",
@@ -234704,26 +234524,6 @@
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
-      "id": "yahoo:0025.HK:2026-09-09",
-      "symbol": "0025.HK",
-      "name": "Chevalier International Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-09",
-      "recordDate": null,
-      "paymentDate": "2026-09-09",
-      "amountPerShare": 0.22,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0025.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-11T23:56:24Z"
-    },
-    {
       "id": "yahoo:0240.HK:2026-09-09",
       "symbol": "0240.HK",
       "name": "Build King Holdings Limited",
@@ -235482,6 +235282,26 @@
         "url": "https://finance.yahoo.com/quote/YUM/history/?filter=div"
       },
       "retrievedAt": "2026-09-10T23:47:18Z"
+    },
+    {
+      "id": "yahoo:0125.HK:2026-09-10",
+      "symbol": "0125.HK",
+      "name": "Sun Hing Vision Group Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-09-10",
+      "recordDate": null,
+      "paymentDate": "2026-09-10",
+      "amountPerShare": 0.015,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/0125.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:0173.HK:2026-09-10",
@@ -240304,26 +240124,6 @@
       "retrievedAt": "2026-09-06T23:33:32Z"
     },
     {
-      "id": "yahoo:BPOPM:2026-09-13",
-      "symbol": "BPOPM",
-      "name": "Popular Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-13",
-      "recordDate": null,
-      "paymentDate": "2026-09-13",
-      "amountPerShare": 0.128,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/BPOPM/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
       "id": "yahoo:BST:2026-09-13",
       "symbol": "BST",
       "name": "BlackRock Science and Technology Trust Common Shares of Beneficial Interest",
@@ -242664,26 +242464,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:1222.HK:2026-09-14",
-      "symbol": "1222.HK",
-      "name": "Wang On Group Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-14",
-      "recordDate": null,
-      "paymentDate": "2026-09-14",
-      "amountPerShare": 0.0004,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/1222.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
       "id": "yahoo:1498.HK:2026-09-14",
       "symbol": "1498.HK",
       "name": "PuraPharm Corp. Ltd.",
@@ -244042,6 +243822,26 @@
         "url": "https://finance.yahoo.com/quote/GJP/history/?filter=div"
       },
       "retrievedAt": "2026-09-09T23:52:50Z"
+    },
+    {
+      "id": "yahoo:GJR:2026-09-14",
+      "symbol": "GJR",
+      "name": "Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-09-14",
+      "recordDate": null,
+      "paymentDate": "2026-09-14",
+      "amountPerShare": 0.097,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/GJR/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:GJS:2026-09-14",
@@ -245642,26 +245442,6 @@
         "url": "https://finance.yahoo.com/quote/0266.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-18T23:58:23Z"
-    },
-    {
-      "id": "yahoo:0287.HK:2026-09-15",
-      "symbol": "0287.HK",
-      "name": "Winfair Investment Co., Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-15",
-      "recordDate": null,
-      "paymentDate": "2026-09-15",
-      "amountPerShare": 0.12,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0287.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-17T00:06:36Z"
     },
     {
       "id": "yahoo:0679.HK:2026-09-15",
@@ -253484,6 +253264,26 @@
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
+      "id": "yahoo:0676.HK:2026-09-22",
+      "symbol": "0676.HK",
+      "name": "Pegasus International Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-09-22",
+      "recordDate": null,
+      "paymentDate": "2026-09-22",
+      "amountPerShare": 0.01,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/0676.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-11T23:56:24Z"
+    },
+    {
       "id": "yahoo:0737.HK:2026-09-22",
       "symbol": "0737.HK",
       "name": "Shenzhen Investment Holdings Bay Area Development Company Limited",
@@ -253904,6 +253704,26 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
+      "id": "yahoo:FORTY:2026-09-22",
+      "symbol": "FORTY",
+      "name": "Formula Systems (1985) Ltd. American Depositary Shares",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-09-22",
+      "recordDate": null,
+      "paymentDate": "2026-09-22",
+      "amountPerShare": 13.045,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/FORTY/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-11T23:56:24Z"
+    },
+    {
       "id": "yahoo:HTLD:2026-09-22",
       "symbol": "HTLD",
       "name": "Heartland Express Inc. Common Stock",
@@ -254220,6 +254040,26 @@
       "source": {
         "provider": "Yahoo Finance discovery estimate",
         "url": "https://finance.yahoo.com/quote/WRB/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-10T23:47:18Z"
+    },
+    {
+      "id": "yahoo:0224.HK:2026-09-23",
+      "symbol": "0224.HK",
+      "name": "Pioneer Global Group Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-09-23",
+      "recordDate": null,
+      "paymentDate": "2026-09-23",
+      "amountPerShare": 0.015,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/0224.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
@@ -255344,6 +255184,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0294.HK:2026-09-24",
+      "symbol": "0294.HK",
+      "name": "Yangtzekiang Garment Co. Ltd.",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-09-24",
+      "recordDate": null,
+      "paymentDate": "2026-09-24",
+      "amountPerShare": 0.02,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/0294.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
       "id": "yahoo:0363.HK:2026-09-24",
       "symbol": "0363.HK",
       "name": "Shanghai Industrial Holdings Limited",
@@ -255562,6 +255422,26 @@
         "url": "https://finance.yahoo.com/quote/2579.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
+      "id": "yahoo:3882.HK:2026-09-24",
+      "symbol": "3882.HK",
+      "name": "Sky Light Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-09-24",
+      "recordDate": null,
+      "paymentDate": "2026-09-24",
+      "amountPerShare": 0.032,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/3882.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T23:39:55Z"
     },
     {
       "id": "yahoo:9985.HK:2026-09-24",
@@ -258144,26 +258024,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0911.HK:2026-09-26",
-      "symbol": "0911.HK",
-      "name": "Qianhai Health Holdings Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-26",
-      "recordDate": null,
-      "paymentDate": "2026-09-26",
-      "amountPerShare": 0.1,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0911.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:0A27:2026-09-26",
       "symbol": "0A27",
       "name": "MPC Container Ships ASA",
@@ -259162,26 +259022,6 @@
         "url": "https://finance.yahoo.com/quote/NOG/history/?filter=div"
       },
       "retrievedAt": "2026-09-06T23:33:32Z"
-    },
-    {
-      "id": "yahoo:RICO:2026-09-28",
-      "symbol": "RICO",
-      "name": "Ricoh Company, Ltd.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-28",
-      "recordDate": null,
-      "paymentDate": "2026-09-28",
-      "amountPerShare": 20.0,
-      "currency": "JPY",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/RICO.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-09T23:52:50Z"
     },
     {
       "id": "yahoo:SONY:2026-09-28",
@@ -261444,26 +261284,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:KNM:2026-09-29",
-      "symbol": "KNM",
-      "name": "KONAMI Group Corporation",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-29",
-      "recordDate": null,
-      "paymentDate": "2026-09-29",
-      "amountPerShare": 138.5,
-      "currency": "JPY",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/KNM.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
       "id": "yahoo:KRC:2026-09-29",
       "symbol": "KRC",
       "name": "Kilroy Realty Corporation Common Stock",
@@ -262400,26 +262220,6 @@
       "source": {
         "provider": "Yahoo Finance discovery estimate",
         "url": "https://finance.yahoo.com/quote/TXRH/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-10T23:47:18Z"
-    },
-    {
-      "id": "yahoo:TYT:2026-09-29",
-      "symbol": "TYT",
-      "name": "Toyota Motor Corp.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-29",
-      "recordDate": null,
-      "paymentDate": "2026-09-29",
-      "amountPerShare": 50.0,
-      "currency": "JPY",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/TYT.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
@@ -266164,6 +265964,26 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
+      "id": "yahoo:GJT:2026-10-01",
+      "symbol": "GJT",
+      "name": "Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-10-01",
+      "recordDate": null,
+      "paymentDate": "2026-10-01",
+      "amountPerShare": 0.098,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/GJT/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:HBNC:2026-10-01",
       "symbol": "HBNC",
       "name": "Horizon Bancorp Inc. Common Stock",
@@ -266402,6 +266222,26 @@
         "url": "https://finance.yahoo.com/quote/LFMDP/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T23:57:55Z"
+    },
+    {
+      "id": "yahoo:LTHP:2026-10-01",
+      "symbol": "LTHP",
+      "name": "James Latham PLC 8 % Cum.Pref.Shs",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-10-01",
+      "recordDate": null,
+      "paymentDate": "2026-10-01",
+      "amountPerShare": 4.0,
+      "currency": "GBX",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/LTHP.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-23T00:02:56Z"
     },
     {
       "id": "yahoo:MBIN:2026-10-01",
@@ -272144,6 +271984,26 @@
       "retrievedAt": "2026-09-05T23:39:55Z"
     },
     {
+      "id": "yahoo:8350.HK:2026-10-12",
+      "symbol": "8350.HK",
+      "name": "Well Link Securities Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-10-12",
+      "recordDate": null,
+      "paymentDate": "2026-10-12",
+      "amountPerShare": 0.001,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/8350.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
       "id": "yahoo:CARR:2026-10-12",
       "symbol": "CARR",
       "name": "Carrier Global Corporation Common Stock",
@@ -272462,26 +272322,6 @@
         "url": "https://finance.yahoo.com/quote/0167.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
-      "id": "yahoo:0O6D:2026-10-13",
-      "symbol": "0O6D",
-      "name": "Miquel y Costas & Miquel, S.A.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-10-13",
-      "recordDate": null,
-      "paymentDate": "2026-10-13",
-      "amountPerShare": 0.115062,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0O6D.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
       "id": "yahoo:2555.HK:2026-10-13",
@@ -272842,26 +272682,6 @@
         "url": "https://finance.yahoo.com/quote/0331.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
-      "id": "yahoo:0483.HK:2026-10-14",
-      "symbol": "0483.HK",
-      "name": "Bauhaus International (Holdings) Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-10-14",
-      "recordDate": null,
-      "paymentDate": "2026-10-14",
-      "amountPerShare": 0.03,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0483.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:0BNS:2026-10-14",
@@ -273522,6 +273342,46 @@
         "url": "https://finance.yahoo.com/quote/NWFL/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T23:57:55Z"
+    },
+    {
+      "id": "yahoo:OFSSH:2026-10-14",
+      "symbol": "OFSSH",
+      "name": "OFS Capital Corporation 4.95% Notes due 2028",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-10-14",
+      "recordDate": null,
+      "paymentDate": "2026-10-14",
+      "amountPerShare": 0.309,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/OFSSH/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-10T23:47:18Z"
+    },
+    {
+      "id": "yahoo:OFSSO:2026-10-14",
+      "symbol": "OFSSO",
+      "name": "OFS Capital Corporation 7.50% Notes due 2028",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-10-14",
+      "recordDate": null,
+      "paymentDate": "2026-10-14",
+      "amountPerShare": 0.469,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/OFSSO/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
       "id": "yahoo:OXSQG:2026-10-14",
@@ -275704,6 +275564,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0114.HK:2026-10-17",
+      "symbol": "0114.HK",
+      "name": "Herald Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-10-17",
+      "recordDate": null,
+      "paymentDate": "2026-10-17",
+      "amountPerShare": 0.03,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/0114.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
       "id": "yahoo:0IDR:2026-10-17",
       "symbol": "0IDR",
       "name": "EOG Resources, Inc.",
@@ -275742,26 +275622,6 @@
         "url": "https://finance.yahoo.com/quote/1575.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-09T23:52:50Z"
-    },
-    {
-      "id": "yahoo:2205.HK:2026-10-17",
-      "symbol": "2205.HK",
-      "name": "Kangqiao Service Group Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-10-17",
-      "recordDate": null,
-      "paymentDate": "2026-10-17",
-      "amountPerShare": 0.058,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/2205.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-16T00:09:32Z"
     },
     {
       "id": "yahoo:9982.HK:2026-10-17",
@@ -276324,26 +276184,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:3768.HK:2026-10-19",
-      "symbol": "3768.HK",
-      "name": "Kunming Dianchi Water Treatment Co., Ltd. Class H",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-10-19",
-      "recordDate": null,
-      "paymentDate": "2026-10-19",
-      "amountPerShare": 0.117159,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/3768.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:APOG:2026-10-19",
       "symbol": "APOG",
       "name": "Apogee Enterprises Inc. Common Stock",
@@ -276620,6 +276460,26 @@
       "source": {
         "provider": "Yahoo Finance discovery estimate",
         "url": "https://finance.yahoo.com/quote/0017.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
+      "id": "yahoo:0938.HK:2026-10-20",
+      "symbol": "0938.HK",
+      "name": "Man Sang International Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-10-20",
+      "recordDate": null,
+      "paymentDate": "2026-10-20",
+      "amountPerShare": 0.1,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/0938.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -277604,26 +277464,6 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
-      "id": "yahoo:MDRR:2026-10-22",
-      "symbol": "MDRR",
-      "name": "Medalist Diversified Inc. Common Stock",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-10-22",
-      "recordDate": null,
-      "paymentDate": "2026-10-22",
-      "amountPerShare": 0.068,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/MDRR/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
       "id": "yahoo:MOON:2026-10-22",
       "symbol": "MOON",
       "name": "Moonpig Group Plc",
@@ -278060,26 +277900,6 @@
       "source": {
         "provider": "Yahoo Finance discovery estimate",
         "url": "https://finance.yahoo.com/quote/1737.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:2188.HK:2026-10-23",
-      "symbol": "2188.HK",
-      "name": "China Titans Energy Technology Group Co., Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-10-23",
-      "recordDate": null,
-      "paymentDate": "2026-10-23",
-      "amountPerShare": 0.01,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/2188.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
@@ -279024,26 +278844,6 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
-      "id": "yahoo:0475.HK:2026-10-26",
-      "symbol": "0475.HK",
-      "name": "Central Development Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-10-26",
-      "recordDate": null,
-      "paymentDate": "2026-10-26",
-      "amountPerShare": 0.02,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0475.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:0811.HK:2026-10-26",
       "symbol": "0811.HK",
       "name": "Xinhua Winshare Publishing & Media Co., Ltd. Class H",
@@ -279062,26 +278862,6 @@
         "url": "https://finance.yahoo.com/quote/0811.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
-      "id": "yahoo:0952.HK:2026-10-26",
-      "symbol": "0952.HK",
-      "name": "Quam Plus International Financial Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-10-26",
-      "recordDate": null,
-      "paymentDate": "2026-10-26",
-      "amountPerShare": 0.012,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0952.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-09T23:52:50Z"
     },
     {
       "id": "yahoo:1388.HK:2026-10-26",
@@ -280204,6 +279984,26 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
+      "id": "yahoo:1116.HK:2026-10-29",
+      "symbol": "1116.HK",
+      "name": "Huiyuan Cowins Technology Group Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-10-29",
+      "recordDate": null,
+      "paymentDate": "2026-10-29",
+      "amountPerShare": 0.039713677,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/1116.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T23:57:55Z"
+    },
+    {
       "id": "yahoo:1221.HK:2026-10-29",
       "symbol": "1221.HK",
       "name": "Sino Hotels (Holdings) Ltd.",
@@ -280262,6 +280062,26 @@
         "url": "https://finance.yahoo.com/quote/1398.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
+      "id": "yahoo:1771.HK:2026-10-29",
+      "symbol": "1771.HK",
+      "name": "Sunfonda Group Holdings Ltd.",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-10-29",
+      "recordDate": null,
+      "paymentDate": "2026-10-29",
+      "amountPerShare": 0.02,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/1771.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-16T00:09:32Z"
     },
     {
       "id": "yahoo:6680.HK:2026-10-29",
@@ -282064,26 +281884,6 @@
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
-      "id": "yahoo:0583.HK:2026-10-31",
-      "symbol": "0583.HK",
-      "name": "Great Wall Pan Asia Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-10-31",
-      "recordDate": null,
-      "paymentDate": "2026-10-31",
-      "amountPerShare": 0.7469,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0583.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
       "id": "yahoo:0DWL:2026-10-31",
       "symbol": "0DWL",
       "name": "Adecoagro S.A.",
@@ -283844,26 +283644,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0FHS:2026-11-03",
-      "symbol": "0FHS",
-      "name": "Olvi Oyj Class A",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-11-03",
-      "recordDate": null,
-      "paymentDate": "2026-11-03",
-      "amountPerShare": 0.67,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0FHS.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:0GSE:2026-11-03",
       "symbol": "0GSE",
       "name": "Midsona AB Class B",
@@ -285084,26 +284864,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0876.HK:2026-11-05",
-      "symbol": "0876.HK",
-      "name": "Kaisa Health Group Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-11-05",
-      "recordDate": null,
-      "paymentDate": "2026-11-05",
-      "amountPerShare": 1.875,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0876.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:0BOE:2026-11-05",
       "symbol": "0BOE",
       "name": "Boeing Company",
@@ -285844,26 +285604,6 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
-      "id": "yahoo:MGYR:2026-11-05",
-      "symbol": "MGYR",
-      "name": "Magyar Bancorp Inc. Common Stock",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-11-05",
-      "recordDate": null,
-      "paymentDate": "2026-11-05",
-      "amountPerShare": 0.1,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/MGYR/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
       "id": "yahoo:MIDW:2026-11-05",
       "symbol": "MIDW",
       "name": "Midwich Group Plc",
@@ -286442,26 +286182,6 @@
         "url": "https://finance.yahoo.com/quote/0Y3K.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:1059.HK:2026-11-06",
-      "symbol": "1059.HK",
-      "name": "Kantone Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-11-06",
-      "recordDate": null,
-      "paymentDate": "2026-11-06",
-      "amountPerShare": 0.1,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/1059.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:1686.HK:2026-11-06",
@@ -287864,26 +287584,6 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0EEV:2026-11-08",
-      "symbol": "0EEV",
-      "name": "EXMAR NV",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-11-08",
-      "recordDate": null,
-      "paymentDate": "2026-11-08",
-      "amountPerShare": 0.189,
-      "currency": "EUR",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0EEV.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:1288.HK:2026-11-08",
       "symbol": "1288.HK",
       "name": "Agricultural Bank of China Limited Class H",
@@ -289042,46 +288742,6 @@
         "url": "https://finance.yahoo.com/quote/UAN/history/?filter=div"
       },
       "retrievedAt": "2026-09-10T23:47:18Z"
-    },
-    {
-      "id": "yahoo:WHLRP:2026-11-09",
-      "symbol": "WHLRP",
-      "name": "Wheeler Real Estate Investment Trust Inc. Class B Preferred Stock",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-11-09",
-      "recordDate": null,
-      "paymentDate": "2026-11-09",
-      "amountPerShare": 0.453,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/WHLRP/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-10T23:47:18Z"
-    },
-    {
-      "id": "yahoo:0032.HK:2026-11-10",
-      "symbol": "0032.HK",
-      "name": "Cross-Harbour (Holdings) Ltd.",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-11-10",
-      "recordDate": null,
-      "paymentDate": "2026-11-10",
-      "amountPerShare": 0.07,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0032.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
       "id": "yahoo:0372.HK:2026-11-10",
@@ -290544,26 +290204,6 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
-      "id": "yahoo:MLVN:2026-11-11",
-      "symbol": "MLVN",
-      "name": "Malvern International plc",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-11-11",
-      "recordDate": null,
-      "paymentDate": "2026-11-11",
-      "amountPerShare": 20.0,
-      "currency": "GBX",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/MLVN.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
       "id": "yahoo:MTC:2026-11-11",
       "symbol": "MTC",
       "name": "Mothercare plc",
@@ -290840,6 +290480,26 @@
       "source": {
         "provider": "Yahoo Finance discovery estimate",
         "url": "https://finance.yahoo.com/quote/0689.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
+      "id": "yahoo:0841.HK:2026-11-12",
+      "symbol": "0841.HK",
+      "name": "Asia Cassava Resources Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-11-12",
+      "recordDate": null,
+      "paymentDate": "2026-11-12",
+      "amountPerShare": 0.055,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/0841.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
@@ -293244,6 +292904,26 @@
       "retrievedAt": "2026-09-06T23:33:32Z"
     },
     {
+      "id": "yahoo:CCNEP:2026-11-13",
+      "symbol": "CCNEP",
+      "name": "CNB Financial Corporation Depositary Shares each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-11-13",
+      "recordDate": null,
+      "paymentDate": "2026-11-13",
+      "amountPerShare": 0.445,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/CCNEP/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-06T23:33:32Z"
+    },
+    {
       "id": "yahoo:CF:2026-11-13",
       "symbol": "CF",
       "name": "CF Industries Holdings Inc. Common Stock",
@@ -295324,24 +295004,24 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0FP0:2026-11-15",
-      "symbol": "0FP0",
-      "name": "PRIM, S.A.",
-      "market": "uk",
+      "id": "yahoo:0333.HK:2026-11-15",
+      "symbol": "0333.HK",
+      "name": "Top Form International Limited",
+      "market": "hk",
       "declarationDate": null,
       "exDividendDate": "2026-11-15",
       "recordDate": null,
       "paymentDate": "2026-11-15",
-      "amountPerShare": 0.217566,
-      "currency": "EUR",
+      "amountPerShare": 0.044533,
+      "currency": "HKD",
       "eligibleShares": null,
       "estimatedHoldingAmount": null,
       "status": "estimated",
       "source": {
         "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0FP0.L/history/?filter=div"
+        "url": "https://finance.yahoo.com/quote/0333.HK/history/?filter=div"
       },
-      "retrievedAt": "2026-09-05T02:53:09Z"
+      "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
       "id": "yahoo:0HT4:2026-11-15",
@@ -295902,6 +295582,26 @@
         "url": "https://finance.yahoo.com/quote/1002.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
+      "id": "yahoo:1120.HK:2026-11-16",
+      "symbol": "1120.HK",
+      "name": "Arts Optical International Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-11-16",
+      "recordDate": null,
+      "paymentDate": "2026-11-16",
+      "amountPerShare": 0.05,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/1120.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
       "id": "yahoo:2381.HK:2026-11-16",
@@ -299224,26 +298924,6 @@
       "retrievedAt": "2026-09-05T04:36:07Z"
     },
     {
-      "id": "yahoo:1345.HK:2026-11-19",
-      "symbol": "1345.HK",
-      "name": "Shanghai Pioneer Holding Ltd",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-11-19",
-      "recordDate": null,
-      "paymentDate": "2026-11-19",
-      "amountPerShare": 0.054,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/1345.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
       "id": "yahoo:2232.HK:2026-11-19",
       "symbol": "2232.HK",
       "name": "Crystal International Group Limited",
@@ -300304,22 +299984,22 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
-      "id": "yahoo:0IRN:2026-11-20",
-      "symbol": "0IRN",
-      "name": "Fortune Brands Innovations, Inc.",
+      "id": "yahoo:0J22:2026-11-20",
+      "symbol": "0J22",
+      "name": "HCI Group, Inc.",
       "market": "uk",
       "declarationDate": null,
       "exDividendDate": "2026-11-20",
       "recordDate": null,
       "paymentDate": "2026-11-20",
-      "amountPerShare": 0.26,
+      "amountPerShare": 0.4,
       "currency": "USD",
       "eligibleShares": null,
       "estimatedHoldingAmount": null,
       "status": "estimated",
       "source": {
         "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0IRN.L/history/?filter=div"
+        "url": "https://finance.yahoo.com/quote/0J22.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -301482,26 +301162,6 @@
         "url": "https://finance.yahoo.com/quote/SEIC/history/?filter=div"
       },
       "retrievedAt": "2026-09-09T23:52:50Z"
-    },
-    {
-      "id": "yahoo:0131.HK:2026-11-22",
-      "symbol": "0131.HK",
-      "name": "Cheuk Nang (Holdings) Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-11-22",
-      "recordDate": null,
-      "paymentDate": "2026-11-22",
-      "amountPerShare": 0.03,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0131.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:0746.HK:2026-11-22",
@@ -303322,26 +302982,6 @@
         "url": "https://finance.yahoo.com/quote/SPGI/history/?filter=div"
       },
       "retrievedAt": "2026-09-09T23:52:50Z"
-    },
-    {
-      "id": "yahoo:0HQ1:2026-11-26",
-      "symbol": "0HQ1",
-      "name": "Azenta, Inc.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-11-26",
-      "recordDate": null,
-      "paymentDate": "2026-11-26",
-      "amountPerShare": 0.1,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0HQ1.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
       "id": "yahoo:0K92:2026-11-26",
@@ -307544,6 +307184,26 @@
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
+      "id": "yahoo:0L1G:2026-12-01",
+      "symbol": "0L1G",
+      "name": "SS&C Technologies Holdings, Inc.",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-12-01",
+      "recordDate": null,
+      "paymentDate": "2026-12-01",
+      "amountPerShare": 0.3,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/0L1G.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
       "id": "yahoo:0L9Q:2026-12-01",
       "symbol": "0L9Q",
       "name": "Fiskars Oyj Abp",
@@ -307684,6 +307344,26 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
+      "id": "yahoo:1023.HK:2026-12-01",
+      "symbol": "1023.HK",
+      "name": "Sitoy Group Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-12-01",
+      "recordDate": null,
+      "paymentDate": "2026-12-01",
+      "amountPerShare": 0.02,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/1023.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T04:36:07Z"
+    },
+    {
       "id": "yahoo:1177.HK:2026-12-01",
       "symbol": "1177.HK",
       "name": "Sino Biopharmaceutical Limited",
@@ -307702,26 +307382,6 @@
         "url": "https://finance.yahoo.com/quote/1177.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:2340.HK:2026-12-01",
-      "symbol": "2340.HK",
-      "name": "ISP Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-12-01",
-      "recordDate": null,
-      "paymentDate": "2026-12-01",
-      "amountPerShare": 0.160976,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/2340.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:9999.HK:2026-12-01",
@@ -310444,26 +310104,6 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
-      "id": "yahoo:MTVW:2026-12-03",
-      "symbol": "MTVW",
-      "name": "Mountview Estates P.L.C.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-12-03",
-      "recordDate": null,
-      "paymentDate": "2026-12-03",
-      "amountPerShare": 275.0,
-      "currency": "GBX",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/MTVW.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
       "id": "yahoo:NVDA:2026-12-03",
       "symbol": "NVDA",
       "name": "NVIDIA Corporation Common Stock",
@@ -311984,26 +311624,6 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
-      "id": "yahoo:0V5G:2026-12-05",
-      "symbol": "0V5G",
-      "name": "Maple Leaf Foods Inc.",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-12-05",
-      "recordDate": null,
-      "paymentDate": "2026-12-05",
-      "amountPerShare": 0.21,
-      "currency": "CAD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0V5G.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-10T23:47:18Z"
-    },
-    {
       "id": "yahoo:1723.HK:2026-12-05",
       "symbol": "1723.HK",
       "name": "Moon Inc.",
@@ -312384,6 +312004,26 @@
       "retrievedAt": "2026-09-09T23:52:50Z"
     },
     {
+      "id": "yahoo:0387.HK:2026-12-07",
+      "symbol": "0387.HK",
+      "name": "Leeport (Holdings) Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-12-07",
+      "recordDate": null,
+      "paymentDate": "2026-12-07",
+      "amountPerShare": 0.03,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/0387.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:0687.HK:2026-12-07",
       "symbol": "0687.HK",
       "name": "Tysan Holdings Limited",
@@ -312420,6 +312060,26 @@
       "source": {
         "provider": "Yahoo Finance discovery estimate",
         "url": "https://finance.yahoo.com/quote/0IPT.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
+      "id": "yahoo:0J4L:2026-12-07",
+      "symbol": "0J4L",
+      "name": "Herc Holdings, Inc.",
+      "market": "uk",
+      "declarationDate": null,
+      "exDividendDate": "2026-12-07",
+      "recordDate": null,
+      "paymentDate": "2026-12-07",
+      "amountPerShare": 0.7,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/0J4L.L/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
     },
@@ -313644,6 +313304,26 @@
       "retrievedAt": "2026-09-05T23:39:55Z"
     },
     {
+      "id": "yahoo:GJH:2026-12-11",
+      "symbol": "GJH",
+      "name": "Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-12-11",
+      "recordDate": null,
+      "paymentDate": "2026-12-11",
+      "amountPerShare": 0.319,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/GJH/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:SRL:2026-12-11",
       "symbol": "SRL",
       "name": "Scully Royalty Ltd.",
@@ -313862,26 +313542,6 @@
         "url": "https://finance.yahoo.com/quote/ATRO/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T23:39:55Z"
-    },
-    {
-      "id": "yahoo:0380.HK:2026-12-13",
-      "symbol": "0380.HK",
-      "name": "China Pipe Group Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-12-13",
-      "recordDate": null,
-      "paymentDate": "2026-12-13",
-      "amountPerShare": 0.002,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0380.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
       "id": "yahoo:0628.HK:2026-12-13",
@@ -314744,26 +314404,6 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
-      "id": "yahoo:PHSC:2026-12-17",
-      "symbol": "PHSC",
-      "name": "PHSC plc",
-      "market": "uk",
-      "declarationDate": null,
-      "exDividendDate": "2026-12-17",
-      "recordDate": null,
-      "paymentDate": "2026-12-17",
-      "amountPerShare": 1.25,
-      "currency": "GBX",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/PHSC.L/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-09T23:52:50Z"
-    },
-    {
       "id": "yahoo:RCG:2026-12-17",
       "symbol": "RCG",
       "name": "RENN Fund Inc Common Stock",
@@ -315224,26 +314864,6 @@
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
-      "id": "yahoo:0485.HK:2026-12-20",
-      "symbol": "0485.HK",
-      "name": "China Sinostar Group Company Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-12-20",
-      "recordDate": null,
-      "paymentDate": "2026-12-20",
-      "amountPerShare": 1.933783,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0485.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:0669.HK:2026-12-20",
       "symbol": "0669.HK",
       "name": "Techtronic Industries Co., Ltd.",
@@ -315582,46 +315202,6 @@
         "url": "https://finance.yahoo.com/quote/KF/history/?filter=div"
       },
       "retrievedAt": "2026-09-08T23:57:55Z"
-    },
-    {
-      "id": "yahoo:0138.HK:2026-12-23",
-      "symbol": "0138.HK",
-      "name": "CCT Fortis Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-12-23",
-      "recordDate": null,
-      "paymentDate": "2026-12-23",
-      "amountPerShare": 0.35,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0138.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
-    },
-    {
-      "id": "yahoo:0510.HK:2026-12-23",
-      "symbol": "0510.HK",
-      "name": "CASH Financial Services Group Ltd",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-12-23",
-      "recordDate": null,
-      "paymentDate": "2026-12-23",
-      "amountPerShare": 0.08,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0510.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
       "id": "yahoo:1037.HK:2026-12-23",
@@ -316204,6 +315784,26 @@
       "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
+      "id": "yahoo:1105.HK:2026-12-25",
+      "symbol": "1105.HK",
+      "name": "Sing Tao News Corporation Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-12-25",
+      "recordDate": null,
+      "paymentDate": "2026-12-25",
+      "amountPerShare": 0.02,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/1105.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T00:02:02Z"
+    },
+    {
       "id": "yahoo:1787.HK:2026-12-25",
       "symbol": "1787.HK",
       "name": "Shandong Gold Mining Co., Ltd. Class H",
@@ -316684,26 +316284,6 @@
       "retrievedAt": "2026-09-08T00:02:02Z"
     },
     {
-      "id": "yahoo:0089.HK:2026-12-30",
-      "symbol": "0089.HK",
-      "name": "Tai Sang Land Development Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-12-30",
-      "recordDate": null,
-      "paymentDate": "2026-12-30",
-      "amountPerShare": 0.03,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0089.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-15T00:21:49Z"
-    },
-    {
       "id": "yahoo:0695.HK:2026-12-30",
       "symbol": "0695.HK",
       "name": "Dongwu Cement International Ltd.",
@@ -317060,6 +316640,26 @@
       "source": {
         "provider": "Yahoo Finance discovery estimate",
         "url": "https://finance.yahoo.com/quote/BLND.L/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-06T23:33:32Z"
+    },
+    {
+      "id": "yahoo:BRBI:2026-12-31",
+      "symbol": "BRBI",
+      "name": "BRBI BR Partners S.A. ADSs",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-12-31",
+      "recordDate": null,
+      "paymentDate": "2026-12-31",
+      "amountPerShare": 0.141,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/BRBI/history/?filter=div"
       },
       "retrievedAt": "2026-09-06T23:33:32Z"
     },
