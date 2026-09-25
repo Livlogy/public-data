@@ -341252,10 +341252,64 @@
         },
         "retrievedAt": "2026-09-24T00:17:33Z"
       }
-    ]
+    ],
+    "0H0U.L": [],
+    "0E3F.L": [],
+    "0JZT.L": [],
+    "0EG7.L": [],
+    "0QLS.L": [],
+    "0236.HK": [
+      {
+        "id": "yahoo:0236.HK:2026-04-24",
+        "symbol": "0236.HK",
+        "name": "San Miguel Brewery HK Ltd.",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-24",
+        "recordDate": null,
+        "paymentDate": "2026-04-24",
+        "amountPerShare": 0.06,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0236.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-25T00:19:06Z"
+      }
+    ],
+    "2496.HK": [],
+    "0496.HK": [
+      {
+        "id": "yahoo:0496.HK:2026-12-23",
+        "symbol": "0496.HK",
+        "name": "Kasen International Holdings Ltd.",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-23",
+        "recordDate": null,
+        "paymentDate": "2026-12-23",
+        "amountPerShare": 0.3,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/0496.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-25T00:19:06Z"
+      }
+    ],
+    "MCAHU": [],
+    "SSEAR": [],
+    "6623.HK": [],
+    "QDE.L": [],
+    "THAL.L": []
   },
   "failed": [
-    "0496.HK",
     "AKO/B"
   ]
 }
