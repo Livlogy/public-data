@@ -341336,10 +341336,52 @@
     "BACCU": [],
     "WNX.L": [],
     "PGAC": [],
-    "LPBBU": []
+    "LPBBU": [],
+    "0GD5.L": [],
+    "0FOA.L": [],
+    "0HI7.L": [],
+    "0A5B.L": [],
+    "0A2N.L": [],
+    "0OF9.L": [],
+    "0P30.L": [],
+    "0ROV.L": [],
+    "3228.HK": [],
+    "1204.HK": [],
+    "3757.HK": [],
+    "6731.HK": [],
+    "1936.HK": [],
+    "9607.HK": [],
+    "HAVAU": [],
+    "GOW": [],
+    "FGC": [],
+    "0374.HK": [
+      {
+        "id": "yahoo:0374.HK:2026-09-02",
+        "symbol": "0374.HK",
+        "name": "Four Seas Mercantile Holdings Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-02",
+        "recordDate": null,
+        "paymentDate": "2026-09-02",
+        "amountPerShare": 0.065,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0374.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-09-30T01:02:39Z"
+      }
+    ],
+    "ORNT.L": [],
+    "MBO.L": [],
+    "PAACU": []
   },
   "failed": [
-    "0A2N.L",
+    "0174.HK",
     "AKO/B"
   ]
 }
