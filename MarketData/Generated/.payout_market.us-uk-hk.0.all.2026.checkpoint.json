@@ -341378,10 +341378,123 @@
     ],
     "ORNT.L": [],
     "MBO.L": [],
-    "PAACU": []
+    "PAACU": [],
+    "2938.HK": [],
+    "0THK.L": [],
+    "0EL9.L": [],
+    "0UWG.L": [],
+    "6802.HK": [],
+    "FMACU": [],
+    "NEWTO": [],
+    "CHRY.L": [],
+    "FGCPP": [
+      {
+        "id": "yahoo:FGCPP:2026-03-02",
+        "symbol": "FGCPP",
+        "name": "FG Communities Holdings Inc. 8.00% Cumulative Preferred Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-03-02",
+        "recordDate": null,
+        "paymentDate": "2026-03-02",
+        "amountPerShare": 0.5,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/FGCPP/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-01T01:10:21Z"
+      },
+      {
+        "id": "yahoo:FGCPP:2026-06-01",
+        "symbol": "FGCPP",
+        "name": "FG Communities Holdings Inc. 8.00% Cumulative Preferred Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-01",
+        "recordDate": null,
+        "paymentDate": "2026-06-01",
+        "amountPerShare": 0.5,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/FGCPP/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-01T01:10:21Z"
+      },
+      {
+        "id": "yahoo:FGCPP:2026-09-01",
+        "symbol": "FGCPP",
+        "name": "FG Communities Holdings Inc. 8.00% Cumulative Preferred Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-01",
+        "recordDate": null,
+        "paymentDate": "2026-09-01",
+        "amountPerShare": 0.5,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/FGCPP/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-01T01:10:21Z"
+      },
+      {
+        "id": "yahoo:FGCPP:2026-12-01",
+        "symbol": "FGCPP",
+        "name": "FG Communities Holdings Inc. 8.00% Cumulative Preferred Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-01",
+        "recordDate": null,
+        "paymentDate": "2026-12-01",
+        "amountPerShare": 0.5,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/FGCPP/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-01T01:10:21Z"
+      }
+    ],
+    "2362.HK": [
+      {
+        "id": "yahoo:2362.HK:2026-07-02",
+        "symbol": "2362.HK",
+        "name": "Jinchuan Group International Resources Co. Ltd",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-07-02",
+        "recordDate": null,
+        "paymentDate": "2026-07-02",
+        "amountPerShare": 0.004,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/2362.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-01T01:10:21Z"
+      }
+    ],
+    "0174.HK": []
   },
   "failed": [
-    "0174.HK",
+    "0QSC.L",
     "AKO/B"
   ]
 }
