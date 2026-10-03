@@ -341504,10 +341504,70 @@
     "0QXA.L": [],
     "SVCCU": [],
     "TDWDU": [],
-    "RZAI": []
+    "RZAI": [],
+    "0HC8.L": [],
+    "0NZX.L": [],
+    "0G33.L": [],
+    "0A9C.L": [],
+    "0A7Y.L": [],
+    "0Q9Y.L": [],
+    "1341.HK": [],
+    "8218.HK": [],
+    "8225.HK": [],
+    "8583.HK": [],
+    "CHWM": [],
+    "LCCCU": [],
+    "80737.HK": [
+      {
+        "id": "yahoo:80737.HK:2026-11-01",
+        "symbol": "80737.HK",
+        "name": "Shenzhen Investment Holdings Bay Area Development Company Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-01",
+        "recordDate": null,
+        "paymentDate": "2026-11-01",
+        "amountPerShare": 0.216,
+        "currency": "CNY",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/80737.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-03T01:01:43Z"
+      }
+    ],
+    "ALISU": [],
+    "TDACU": [],
+    "VYLR": [],
+    "YHNAU": [],
+    "OPNW": [
+      {
+        "id": "yahoo:OPNW:2026-10-01",
+        "symbol": "OPNW",
+        "name": "OpenWorld Inc. Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-01",
+        "recordDate": null,
+        "paymentDate": "2026-10-01",
+        "amountPerShare": 1.5,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/OPNW/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-03T01:01:43Z"
+      }
+    ]
   },
   "failed": [
-    "0A9C.L",
+    "0A6F.L",
     "AKO/A",
     "AKO/B"
   ]
