@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "timezone": "UTC",
-  "_lastUpdated": "2026-10-04T00:25:03Z",
+  "_lastUpdated": "2026-10-05T00:28:54Z",
   "data": [
     {
       "id": "yahoo:0113.HK:2026-01-02",
@@ -236462,6 +236462,26 @@
         "url": "https://finance.yahoo.com/quote/REG/history/?filter=div"
       },
       "retrievedAt": "2026-09-09T23:52:50Z"
+    },
+    {
+      "id": "yahoo:0052.HK:2026-09-13",
+      "symbol": "0052.HK",
+      "name": "Fairwood Holdings Limited",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-09-13",
+      "recordDate": null,
+      "paymentDate": "2026-09-13",
+      "amountPerShare": 0.05,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/0052.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
       "id": "yahoo:0K6P:2026-09-13",
