@@ -341597,10 +341597,105 @@
     "TBCV": [],
     "RANGU": [],
     "VJET": [],
-    "TVAIU": []
+    "TVAIU": [],
+    "0FE2.L": [],
+    "0M9E.L": [],
+    "0O33.L": [],
+    "0JH2.L": [],
+    "0GJA.L": [],
+    "8572.HK": [],
+    "AACPU": [],
+    "KBONU": [],
+    "PAXGU": [],
+    "POLEU": [],
+    "QETAU": [],
+    "CHA.L": [],
+    "WORX": [],
+    "SKYD": [
+      {
+        "id": "yahoo:SKYD:2026-03-16",
+        "symbol": "SKYD",
+        "name": "Skydance Corporation Class B Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-03-16",
+        "recordDate": null,
+        "paymentDate": "2026-03-16",
+        "amountPerShare": 0.05,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SKYD/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-08T01:36:43Z"
+      },
+      {
+        "id": "yahoo:SKYD:2026-06-15",
+        "symbol": "SKYD",
+        "name": "Skydance Corporation Class B Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-15",
+        "recordDate": null,
+        "paymentDate": "2026-06-15",
+        "amountPerShare": 0.05,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SKYD/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-08T01:36:43Z"
+      },
+      {
+        "id": "yahoo:SKYD:2026-09-15",
+        "symbol": "SKYD",
+        "name": "Skydance Corporation Class B Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-15",
+        "recordDate": null,
+        "paymentDate": "2026-09-15",
+        "amountPerShare": 0.05,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SKYD/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-08T01:36:43Z"
+      },
+      {
+        "id": "yahoo:SKYD:2026-12-15",
+        "symbol": "SKYD",
+        "name": "Skydance Corporation Class B Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-15",
+        "recordDate": null,
+        "paymentDate": "2026-12-15",
+        "amountPerShare": 0.05,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/SKYD/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-08T01:36:43Z"
+      }
+    ]
   },
   "failed": [
-    "0JH2.L",
+    "0DYD.L",
     "AKO/A",
     "AKO/B"
   ]
