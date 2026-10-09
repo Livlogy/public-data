@@ -341692,6 +341692,59 @@
         },
         "retrievedAt": "2026-10-08T01:36:43Z"
       }
+    ],
+    "0QXB.L": [],
+    "0FXQ.L": [],
+    "0FDB.L": [],
+    "BBCI": [],
+    "BBCIW": [],
+    "CCAQU": [],
+    "CHARU": [],
+    "0252.HK": [
+      {
+        "id": "yahoo:0252.HK:2026-08-25",
+        "symbol": "0252.HK",
+        "name": "Southeast Asia Properties & Finance Limited",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-25",
+        "recordDate": null,
+        "paymentDate": "2026-08-25",
+        "amountPerShare": 0.03,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0252.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-09T01:44:48Z"
+      }
+    ],
+    "INACU": [],
+    "EURKU": [],
+    "CRWC.L": [
+      {
+        "id": "yahoo:CRWC:2026-04-09",
+        "symbol": "CRWC",
+        "name": "Albion Crown VCT PLC",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-09",
+        "recordDate": null,
+        "paymentDate": "2026-04-09",
+        "amountPerShare": 1.0,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/CRWC.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-09T01:44:48Z"
+      }
     ]
   },
   "failed": [
