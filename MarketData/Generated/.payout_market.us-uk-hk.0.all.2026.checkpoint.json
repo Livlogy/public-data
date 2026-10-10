@@ -341745,7 +341745,38 @@
         },
         "retrievedAt": "2026-10-09T01:44:48Z"
       }
-    ]
+    ],
+    "1256.HK": [],
+    "AMC.L": [],
+    "ARTCU": [],
+    "OACCU": [],
+    "0HSI.L": [],
+    "MACIU": [],
+    "9638.HK": [
+      {
+        "id": "yahoo:9638.HK:2026-06-15",
+        "symbol": "9638.HK",
+        "name": "Ferretti S.p.A.",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-15",
+        "recordDate": null,
+        "paymentDate": "2026-06-15",
+        "amountPerShare": 0.96685606,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/9638.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-10T01:36:14Z"
+      }
+    ],
+    "SCAT": [],
+    "SCATW": [],
+    "SCATR": []
   },
   "failed": [
     "0DYD.L",
