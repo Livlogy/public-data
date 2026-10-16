@@ -341814,9 +341814,40 @@
     "KFIIU": [],
     "MORE.L": [],
     "RNTZ": [],
-    "SIMAU": []
+    "SIMAU": [],
+    "0QM1.L": [],
+    "0QLK.L": [],
+    "AMIF.L": [],
+    "2636.HK": [],
+    "BA47.L": [],
+    "FLSC": [],
+    "BSRT": [],
+    "ITHAU": [],
+    "50GP.L": [
+      {
+        "id": "yahoo:50GP:2026-11-26",
+        "symbol": "50GP",
+        "name": "Croda International PLC 5.9 % Cum Pref",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-26",
+        "recordDate": null,
+        "paymentDate": "2026-11-26",
+        "amountPerShare": 2.95,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/50GP.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-16T00:07:34Z"
+      }
+    ]
   },
   "failed": [
+    "0864.HK",
     "AKO/A",
     "AKO/B"
   ]
