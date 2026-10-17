@@ -341844,11 +341844,42 @@
         },
         "retrievedAt": "2026-10-16T00:07:34Z"
       }
+    ],
+    "AMRO": [],
+    "BMMX": [],
+    "FBYDP": [],
+    "IAM": [],
+    "2947.HK": [],
+    "0GO3.L": [],
+    "LPAAU": [],
+    "TWLVU": [],
+    "WLIIU": [],
+    "YICCU": [],
+    "6661.HK": [
+      {
+        "id": "yahoo:6661.HK:2026-06-09",
+        "symbol": "6661.HK",
+        "name": "Huzhou Gas Co., Ltd. Class H",
+        "market": "hk",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-09",
+        "recordDate": null,
+        "paymentDate": "2026-06-09",
+        "amountPerShare": 0.34479,
+        "currency": "HKD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/6661.HK/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-17T00:15:18Z"
+      }
     ]
   },
   "failed": [
-    "0864.HK",
-    "AKO/A",
+    "1486.HK",
     "AKO/B"
   ]
 }
