@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "timezone": "UTC",
-  "_lastUpdated": "2026-10-17T23:48:17Z",
+  "_lastUpdated": "2026-10-19T00:00:10Z",
   "data": [
     {
       "id": "yahoo:0113.HK:2026-01-02",
@@ -288880,6 +288880,26 @@
       "source": {
         "provider": "Yahoo Finance discovery estimate",
         "url": "https://finance.yahoo.com/quote/6030.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-05T23:39:55Z"
+    },
+    {
+      "id": "yahoo:ACCS:2026-11-15",
+      "symbol": "ACCS",
+      "name": "ACCESS Newswire Inc. Common Stock",
+      "market": "us",
+      "declarationDate": null,
+      "exDividendDate": "2026-11-15",
+      "recordDate": null,
+      "paymentDate": "2026-11-15",
+      "amountPerShare": 0.05,
+      "currency": "USD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "estimated",
+      "source": {
+        "provider": "Yahoo Finance discovery estimate",
+        "url": "https://finance.yahoo.com/quote/ACCS/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T23:39:55Z"
     },
