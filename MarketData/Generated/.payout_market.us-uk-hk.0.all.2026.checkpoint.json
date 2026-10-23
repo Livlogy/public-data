@@ -341916,10 +341916,38 @@
     "IDXG": [],
     "0A26.L": [],
     "0AD7.L": [],
-    "0VGV.L": []
+    "0VGV.L": [],
+    "ILLUU": [],
+    "IGACU": [],
+    "IPXGU": [],
+    "0RLD.L": [],
+    "0A6L.L": [],
+    "0NIG.L": [],
+    "SPSC.L": [
+      {
+        "id": "yahoo:SPSC:2026-07-02",
+        "symbol": "SPSC",
+        "name": "Spectra Systems Corporation",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-07-02",
+        "recordDate": null,
+        "paymentDate": "2026-07-02",
+        "amountPerShare": 10.1453285,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SPSC.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-23T00:26:56Z"
+      }
+    ]
   },
   "failed": [
-    "0A6L.L",
+    "0GQU.L",
     "AKO/B"
   ]
 }
