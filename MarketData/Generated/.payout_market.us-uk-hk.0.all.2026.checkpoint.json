@@ -341944,7 +341944,60 @@
         },
         "retrievedAt": "2026-10-23T00:26:56Z"
       }
-    ]
+    ],
+    "0RFR.L": [],
+    "2948.HK": [],
+    "0GTU.L": [],
+    "0G6W.L": [],
+    "MYXXU": [],
+    "NANO": [],
+    "DAVI": [],
+    "NANOW": [],
+    "QSEAU": [],
+    "PNNF.L": [],
+    "53GW.L": [
+      {
+        "id": "yahoo:53GW:2026-06-18",
+        "symbol": "53GW",
+        "name": "Fuller Smith & Turner PLC 4.2 % 1St.Cum.Prf.Shs",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-18",
+        "recordDate": null,
+        "paymentDate": "2026-06-18",
+        "amountPerShare": 3.0,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/53GW.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-24T00:19:55Z"
+      },
+      {
+        "id": "yahoo:53GW:2026-12-17",
+        "symbol": "53GW",
+        "name": "Fuller Smith & Turner PLC 4.2 % 1St.Cum.Prf.Shs",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-17",
+        "recordDate": null,
+        "paymentDate": "2026-12-17",
+        "amountPerShare": 3.0,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/53GW.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-10-24T00:19:55Z"
+      }
+    ],
+    "PCH.L": []
   },
   "failed": [
     "0GQU.L",
