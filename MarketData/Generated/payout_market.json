@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "timezone": "UTC",
-  "_lastUpdated": "2026-10-25T00:05:37Z",
+  "_lastUpdated": "2026-10-25T23:51:18Z",
   "data": [
     {
       "id": "yahoo:0113.HK:2026-01-02",
@@ -52280,26 +52280,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/9999.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T23:39:55Z"
-    },
-    {
-      "id": "yahoo:AAMI:2026-03-13",
-      "symbol": "AAMI",
-      "name": "Acadian Asset Management Inc. Common Stock",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-13",
-      "recordDate": null,
-      "paymentDate": "2026-03-13",
-      "amountPerShare": 0.1,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/AAMI/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T23:39:55Z"
     },
@@ -123124,26 +123104,6 @@
       "retrievedAt": "2026-09-10T23:47:18Z"
     },
     {
-      "id": "yahoo:0006.HK:2026-05-26",
-      "symbol": "0006.HK",
-      "name": "Power Assets Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-05-26",
-      "recordDate": null,
-      "paymentDate": "2026-05-26",
-      "amountPerShare": 2.04,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0006.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
-    },
-    {
       "id": "yahoo:0008.HK:2026-05-26",
       "symbol": "0008.HK",
       "name": "PCCW Limited",
@@ -145100,26 +145060,6 @@
       "source": {
         "provider": "Yahoo Finance dividend history",
         "url": "https://finance.yahoo.com/quote/9981.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T23:39:55Z"
-    },
-    {
-      "id": "yahoo:AAMI:2026-06-12",
-      "symbol": "AAMI",
-      "name": "Acadian Asset Management Inc. Common Stock",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-06-12",
-      "recordDate": null,
-      "paymentDate": "2026-06-12",
-      "amountPerShare": 0.1,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/AAMI/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T23:39:55Z"
     },
@@ -252142,26 +252082,6 @@
         "url": "https://finance.yahoo.com/quote/2076.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T04:36:07Z"
-    },
-    {
-      "id": "yahoo:AAMI:2026-09-25",
-      "symbol": "AAMI",
-      "name": "Acadian Asset Management Inc. Common Stock",
-      "market": "us",
-      "declarationDate": null,
-      "exDividendDate": "2026-09-11",
-      "recordDate": null,
-      "paymentDate": "2026-09-25",
-      "amountPerShare": 0.1,
-      "currency": "USD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/AAMI/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T23:39:55Z"
     },
     {
       "id": "yahoo:AAON:2026-09-25",
