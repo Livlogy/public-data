@@ -342041,10 +342041,14 @@
     "BHAIU": [],
     "GBC": [],
     "0864.HK": [],
-    "NORD": []
+    "NORD": [],
+    "BBTX": [],
+    "METAM": [],
+    "ASPE": []
   },
   "failed": [
     "0F6D.L",
+    "AKO/A",
     "AKO/B"
   ]
 }
