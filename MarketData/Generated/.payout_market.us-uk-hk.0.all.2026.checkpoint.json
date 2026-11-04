@@ -342044,10 +342044,15 @@
     "NORD": [],
     "BBTX": [],
     "METAM": [],
-    "ASPE": []
+    "ASPE": [],
+    "NARA": [],
+    "CASK": [],
+    "SZZLU": [],
+    "PRIS.L": [],
+    "0F6D.L": []
   },
   "failed": [
-    "0F6D.L",
+    "0QCR.L",
     "AKO/A",
     "AKO/B"
   ]
