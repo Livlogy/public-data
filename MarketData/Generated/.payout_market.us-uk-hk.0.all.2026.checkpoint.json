@@ -342057,11 +342057,90 @@
     "PALOU": [],
     "SAEN": [],
     "MLAAU": [],
-    "0QCR.L": []
+    "0QCR.L": [],
+    "AGLT": [],
+    "AGLTW": [],
+    "0M8W.L": [],
+    "0LLP.L": [],
+    "0Q6P.L": [
+      {
+        "id": "yahoo:0Q6P:2026-05-07",
+        "symbol": "0Q6P",
+        "name": "Lanson-BCC",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-07",
+        "recordDate": null,
+        "paymentDate": "2026-05-07",
+        "amountPerShare": 0.6,
+        "currency": "EUR",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0Q6P.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-07T01:36:42Z"
+      }
+    ],
+    "0EDV.L": [
+      {
+        "id": "yahoo:0EDV:2026-06-10",
+        "symbol": "0EDV",
+        "name": "Eurokai KGAA Vorz-Inhaber-Akt ohne Stimmrecht",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-10",
+        "recordDate": null,
+        "paymentDate": "2026-06-10",
+        "amountPerShare": 2.2,
+        "currency": "EUR",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0EDV.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-07T01:36:42Z"
+      }
+    ],
+    "INJC": [],
+    "0O3W.L": [
+      {
+        "id": "yahoo:0O3W:2026-04-17",
+        "symbol": "0O3W",
+        "name": "Gyldendal A/S Class B",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-17",
+        "recordDate": null,
+        "paymentDate": "2026-04-17",
+        "amountPerShare": 20.0,
+        "currency": "DKK",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0O3W.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-07T01:36:42Z"
+      }
+    ],
+    "KTWOU": [],
+    "MOG.B": [],
+    "TMTSU": [],
+    "MKC.V": []
   },
   "failed": [
-    "0LLP.L",
+    "0247.HK",
     "AKO/A",
-    "AKO/B"
+    "AKO/B",
+    "CIG.C",
+    "GEF.B",
+    "LEN.B",
+    "UHAL.B"
   ]
 }
