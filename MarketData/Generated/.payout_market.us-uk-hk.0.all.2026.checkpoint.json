@@ -342133,9 +342133,58 @@
     "MOG.B": [],
     "TMTSU": [],
     "MKC.V": [],
-    "CIG.C": []
+    "CIG.C": [],
+    "0A60.L": [],
+    "HYAC": [],
+    "2942.HK": [],
+    "LEDRW": [],
+    "LEDR": [],
+    "0NZW.L": [],
+    "0QYR.L": [
+      {
+        "id": "yahoo:0QYR:2026-03-30",
+        "symbol": "0QYR",
+        "name": "Panasonic Holdings Corporation",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-03-30",
+        "recordDate": null,
+        "paymentDate": "2026-03-30",
+        "amountPerShare": 20.0,
+        "currency": "JPY",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0QYR.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-10T04:04:46Z"
+      },
+      {
+        "id": "yahoo:0QYR:2026-09-29",
+        "symbol": "0QYR",
+        "name": "Panasonic Holdings Corporation",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-29",
+        "recordDate": null,
+        "paymentDate": "2026-09-29",
+        "amountPerShare": 27.0,
+        "currency": "JPY",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0QYR.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-10T04:04:46Z"
+      }
+    ]
   },
   "failed": [
+    "0HRT.L",
     "AKO/B",
     "GEF.B",
     "LEN.B",
