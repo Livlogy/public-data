@@ -342181,12 +342181,35 @@
         },
         "retrievedAt": "2026-11-10T04:04:46Z"
       }
+    ],
+    "MTRI": [],
+    "GEF.B": [],
+    "49GP.L": [
+      {
+        "id": "yahoo:49GP:2026-11-26",
+        "symbol": "49GP",
+        "name": "Croda International PLC 6.6 % Cum Pref",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-26",
+        "recordDate": null,
+        "paymentDate": "2026-11-26",
+        "amountPerShare": 3.3,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/49GP.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-11T01:48:55Z"
+      }
     ]
   },
   "failed": [
     "0HRT.L",
     "AKO/B",
-    "GEF.B",
     "LEN.B",
     "UHAL.B"
   ]
