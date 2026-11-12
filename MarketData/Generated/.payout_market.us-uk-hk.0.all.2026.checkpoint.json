@@ -342205,12 +342205,48 @@
         },
         "retrievedAt": "2026-11-11T01:48:55Z"
       }
-    ]
+    ],
+    "0HRT.L": [],
+    "2206.HK": [],
+    "2984.HK": [],
+    "2956.HK": [],
+    "7672.HK": [],
+    "8557.HK": [],
+    "9621.HK": [],
+    "CUBWU": [],
+    "9917.HK": [],
+    "OYSEU": [],
+    "SCQC": [],
+    "SCQCR": [],
+    "QUIT": [],
+    "0KFF.L": [
+      {
+        "id": "yahoo:0KFF:2026-05-21",
+        "symbol": "0KFF",
+        "name": "NORDWEST Handel AG",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-21",
+        "recordDate": null,
+        "paymentDate": "2026-05-21",
+        "amountPerShare": 1.0,
+        "currency": "EUR",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0KFF.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-12T02:47:05Z"
+      }
+    ],
+    "SCQCW": [],
+    "XGPU": [],
+    "UHAL.B": [],
+    "LEN.B": []
   },
   "failed": [
-    "0HRT.L",
-    "AKO/B",
-    "LEN.B",
-    "UHAL.B"
+    "AKO/B"
   ]
 }
