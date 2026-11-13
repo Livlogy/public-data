@@ -342244,9 +342244,39 @@
     "SCQCW": [],
     "XGPU": [],
     "UHAL.B": [],
-    "LEN.B": []
+    "LEN.B": [],
+    "BLUWU": [],
+    "2681.HK": [],
+    "2065.HK": [],
+    "DBCAU": [],
+    "0R9Q.L": [],
+    "NHIVU": [],
+    "0HHI.L": [],
+    "CASP.L": [
+      {
+        "id": "yahoo:CASP:2026-11-26",
+        "symbol": "CASP",
+        "name": "Caspian Sunrise PLC",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-26",
+        "recordDate": null,
+        "paymentDate": "2026-11-26",
+        "amountPerShare": 0.0444,
+        "currency": "GBX",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/CASP.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-13T02:28:21Z"
+      }
+    ]
   },
   "failed": [
+    "0G1T.L",
     "AKO/B"
   ]
 }
