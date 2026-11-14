@@ -342273,10 +342273,99 @@
         },
         "retrievedAt": "2026-11-13T02:28:21Z"
       }
-    ]
+    ],
+    "0G1T.L": [],
+    "CRMN": [],
+    "6935.HK": [],
+    "2959.HK": [],
+    "0ADS.L": [
+      {
+        "id": "yahoo:0ADS:2026-02-17",
+        "symbol": "0ADS",
+        "name": "Jabil Inc.",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-17",
+        "recordDate": null,
+        "paymentDate": "2026-02-17",
+        "amountPerShare": 0.08,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0ADS.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-14T02:02:36Z"
+      },
+      {
+        "id": "yahoo:0ADS:2026-05-15",
+        "symbol": "0ADS",
+        "name": "Jabil Inc.",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-15",
+        "recordDate": null,
+        "paymentDate": "2026-05-15",
+        "amountPerShare": 0.08,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0ADS.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-14T02:02:36Z"
+      },
+      {
+        "id": "yahoo:0ADS:2026-08-14",
+        "symbol": "0ADS",
+        "name": "Jabil Inc.",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-14",
+        "recordDate": null,
+        "paymentDate": "2026-08-14",
+        "amountPerShare": 0.08,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0ADS.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-14T02:02:36Z"
+      },
+      {
+        "id": "yahoo:0ADS:2026-11-14",
+        "symbol": "0ADS",
+        "name": "Jabil Inc.",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-14",
+        "recordDate": null,
+        "paymentDate": "2026-11-14",
+        "amountPerShare": 0.08,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/0ADS.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-14T02:02:36Z"
+      }
+    ],
+    "EGHAU": [],
+    "ZYN": [],
+    "0HN5.L": []
   },
   "failed": [
-    "0G1T.L",
+    "0GH9.L",
     "AKO/B"
   ]
 }
