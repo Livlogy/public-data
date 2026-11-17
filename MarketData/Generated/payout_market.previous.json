@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "timezone": "UTC",
-  "_lastUpdated": "2026-11-15T01:36:34Z",
+  "_lastUpdated": "2026-11-16T01:40:56Z",
   "data": [
     {
       "id": "yahoo:0113.HK:2026-01-02",
@@ -169302,6 +169302,26 @@
         "url": "https://finance.yahoo.com/quote/0081.HK/history/?filter=div"
       },
       "retrievedAt": "2026-09-05T02:53:09Z"
+    },
+    {
+      "id": "yahoo:0096.HK:2026-07-02",
+      "symbol": "0096.HK",
+      "name": "Yusei Holdings Ltd.",
+      "market": "hk",
+      "declarationDate": null,
+      "exDividendDate": "2026-07-02",
+      "recordDate": null,
+      "paymentDate": "2026-07-02",
+      "amountPerShare": 0.01495,
+      "currency": "HKD",
+      "eligibleShares": null,
+      "estimatedHoldingAmount": null,
+      "status": "paid",
+      "source": {
+        "provider": "Yahoo Finance dividend history",
+        "url": "https://finance.yahoo.com/quote/0096.HK/history/?filter=div"
+      },
+      "retrievedAt": "2026-09-08T23:57:55Z"
     },
     {
       "id": "yahoo:0270.HK:2026-07-02",
