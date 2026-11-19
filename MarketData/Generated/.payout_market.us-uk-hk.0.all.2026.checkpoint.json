@@ -342377,10 +342377,96 @@
     "BRRK": [],
     "HZN": [],
     "PORT": [],
-    "LOVIW": []
+    "LOVIW": [],
+    "GUER": [],
+    "TXR": [],
+    "0N9O.L": [],
+    "0D20.L": [
+      {
+        "id": "yahoo:0D20:2026-05-27",
+        "symbol": "0D20",
+        "name": "BTV Vier Lander Bank AG",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-27",
+        "recordDate": null,
+        "paymentDate": "2026-05-27",
+        "amountPerShare": 0.5,
+        "currency": "EUR",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0D20.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-19T03:00:14Z"
+      }
+    ],
+    "VRSA": [
+      {
+        "id": "yahoo:VRSA:2026-04-10",
+        "symbol": "VRSA",
+        "name": "Versa Bancorp Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-10",
+        "recordDate": null,
+        "paymentDate": "2026-04-10",
+        "amountPerShare": 0.018,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/VRSA/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-19T03:00:14Z"
+      },
+      {
+        "id": "yahoo:VRSA:2026-07-10",
+        "symbol": "VRSA",
+        "name": "Versa Bancorp Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-07-10",
+        "recordDate": null,
+        "paymentDate": "2026-07-10",
+        "amountPerShare": 0.018,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/VRSA/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-19T03:00:14Z"
+      },
+      {
+        "id": "yahoo:VRSA:2026-10-09",
+        "symbol": "VRSA",
+        "name": "Versa Bancorp Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-09",
+        "recordDate": null,
+        "paymentDate": "2026-10-09",
+        "amountPerShare": 0.018,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/VRSA/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-19T03:00:14Z"
+      }
+    ]
   },
   "failed": [
-    "0D20.L",
     "AKO/A",
     "AKO/B"
   ]
