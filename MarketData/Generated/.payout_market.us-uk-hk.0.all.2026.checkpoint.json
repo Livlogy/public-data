@@ -342464,6 +342464,94 @@
         },
         "retrievedAt": "2026-11-19T03:00:14Z"
       }
+    ],
+    "BRRKW": [],
+    "ENVXW": [],
+    "ZOAR": [],
+    "0QXW.L": [],
+    "0P3V.L": [],
+    "LFACU": [],
+    "FMBM": [
+      {
+        "id": "yahoo:FMBM:2026-02-13",
+        "symbol": "FMBM",
+        "name": "F&M Bank Corp.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-13",
+        "recordDate": null,
+        "paymentDate": "2026-02-13",
+        "amountPerShare": 0.26,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/FMBM/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-20T02:54:55Z"
+      },
+      {
+        "id": "yahoo:FMBM:2026-05-15",
+        "symbol": "FMBM",
+        "name": "F&M Bank Corp.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-15",
+        "recordDate": null,
+        "paymentDate": "2026-05-15",
+        "amountPerShare": 0.26,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/FMBM/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-20T02:54:55Z"
+      },
+      {
+        "id": "yahoo:FMBM:2026-08-14",
+        "symbol": "FMBM",
+        "name": "F&M Bank Corp.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-14",
+        "recordDate": null,
+        "paymentDate": "2026-08-14",
+        "amountPerShare": 0.26,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/FMBM/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-20T02:54:55Z"
+      },
+      {
+        "id": "yahoo:FMBM:2026-11-13",
+        "symbol": "FMBM",
+        "name": "F&M Bank Corp.",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-13",
+        "recordDate": null,
+        "paymentDate": "2026-11-13",
+        "amountPerShare": 0.26,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/FMBM/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-20T02:54:55Z"
+      }
     ]
   },
   "failed": [
