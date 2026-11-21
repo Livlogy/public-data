@@ -342552,10 +342552,16 @@
         },
         "retrievedAt": "2026-11-20T02:54:55Z"
       }
-    ]
+    ],
+    "ANT": [],
+    "FDGX": [],
+    "0ANT.L": [],
+    "FDGXU": [],
+    "INT.L": [],
+    "SONN": []
   },
   "failed": [
-    "AKO/A",
+    "0A0Y.L",
     "AKO/B"
   ]
 }
