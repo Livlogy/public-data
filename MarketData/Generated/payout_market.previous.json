@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "timezone": "UTC",
-  "_lastUpdated": "2026-11-22T01:59:26Z",
+  "_lastUpdated": "2026-11-23T02:16:47Z",
   "data": [
     {
       "id": "yahoo:0113.HK:2026-01-02",
@@ -66962,26 +66962,6 @@
         "url": "https://finance.yahoo.com/quote/STX/history/?filter=div"
       },
       "retrievedAt": "2026-09-10T23:47:18Z"
-    },
-    {
-      "id": "yahoo:0029.HK:2026-03-26",
-      "symbol": "0029.HK",
-      "name": "Dynamic Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-03-26",
-      "recordDate": null,
-      "paymentDate": "2026-03-26",
-      "amountPerShare": 0.0045,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "paid",
-      "source": {
-        "provider": "Yahoo Finance dividend history",
-        "url": "https://finance.yahoo.com/quote/0029.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
       "id": "yahoo:0435.HK:2026-03-26",
@@ -269722,26 +269702,6 @@
         "url": "https://finance.yahoo.com/quote/TBB/history/?filter=div"
       },
       "retrievedAt": "2026-09-10T23:47:18Z"
-    },
-    {
-      "id": "yahoo:0029.HK:2026-10-18",
-      "symbol": "0029.HK",
-      "name": "Dynamic Holdings Limited",
-      "market": "hk",
-      "declarationDate": null,
-      "exDividendDate": "2026-10-18",
-      "recordDate": null,
-      "paymentDate": "2026-10-18",
-      "amountPerShare": 0.0045,
-      "currency": "HKD",
-      "eligibleShares": null,
-      "estimatedHoldingAmount": null,
-      "status": "estimated",
-      "source": {
-        "provider": "Yahoo Finance discovery estimate",
-        "url": "https://finance.yahoo.com/quote/0029.HK/history/?filter=div"
-      },
-      "retrievedAt": "2026-09-05T02:53:09Z"
     },
     {
       "id": "yahoo:0KGE:2026-10-18",
