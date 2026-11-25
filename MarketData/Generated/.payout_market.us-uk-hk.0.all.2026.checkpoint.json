@@ -342563,10 +342563,1787 @@
     "AEAQU": [],
     "FDGXW": [],
     "0HVA.L": [],
-    "0ROK.L": []
+    "0ROK.L": [],
+    "9941.HK": [],
+    "0OEJ.L": [],
+    "CLYD": [],
+    "0A0Y.L": [
+      {
+        "id": "yahoo:0A0Y:2026-03-04",
+        "symbol": "0A0Y",
+        "name": "Fox Corporation Class B",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-03-04",
+        "recordDate": null,
+        "paymentDate": "2026-03-04",
+        "amountPerShare": 0.241472,
+        "currency": "EUR",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0A0Y.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:0A0Y:2026-09-02",
+        "symbol": "0A0Y",
+        "name": "Fox Corporation Class B",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-02",
+        "recordDate": null,
+        "paymentDate": "2026-09-02",
+        "amountPerShare": 0.250154,
+        "currency": "EUR",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0A0Y.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "DYORU": [],
+    "ATMP": [
+      {
+        "id": "yahoo:ATMP:2026-03-02",
+        "symbol": "ATMP",
+        "name": "iPath Select MLP ETN",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-03-02",
+        "recordDate": null,
+        "paymentDate": "2026-03-02",
+        "amountPerShare": 0.393,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ATMP/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:ATMP:2026-05-29",
+        "symbol": "ATMP",
+        "name": "iPath Select MLP ETN",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-29",
+        "recordDate": null,
+        "paymentDate": "2026-05-29",
+        "amountPerShare": 0.409,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ATMP/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:ATMP:2026-08-28",
+        "symbol": "ATMP",
+        "name": "iPath Select MLP ETN",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-28",
+        "recordDate": null,
+        "paymentDate": "2026-08-28",
+        "amountPerShare": 0.4,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ATMP/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:ATMP:2026-11-27",
+        "symbol": "ATMP",
+        "name": "iPath Select MLP ETN",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-27",
+        "recordDate": null,
+        "paymentDate": "2026-11-27",
+        "amountPerShare": 0.4,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/ATMP/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "ETHA": [],
+    "EVRL": [],
+    "AVZO": [
+      {
+        "id": "yahoo:AVZO:2026-11-23",
+        "symbol": "AVZO",
+        "name": "Avenzo Therapeutics Inc. Common Stock",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-23",
+        "recordDate": null,
+        "paymentDate": "2026-11-23",
+        "amountPerShare": 27.8,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/AVZO/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "0Q1G.L": [
+      {
+        "id": "yahoo:0Q1G:2026-02-13",
+        "symbol": "0Q1G",
+        "name": "Eli Lilly and Company",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-13",
+        "recordDate": null,
+        "paymentDate": "2026-02-13",
+        "amountPerShare": 1.330491,
+        "currency": "CHF",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0Q1G.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:0Q1G:2026-05-15",
+        "symbol": "0Q1G",
+        "name": "Eli Lilly and Company",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-15",
+        "recordDate": null,
+        "paymentDate": "2026-05-15",
+        "amountPerShare": 1.355144,
+        "currency": "CHF",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0Q1G.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:0Q1G:2026-08-14",
+        "symbol": "0Q1G",
+        "name": "Eli Lilly and Company",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-14",
+        "recordDate": null,
+        "paymentDate": "2026-08-14",
+        "amountPerShare": 1.405729,
+        "currency": "CHF",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0Q1G.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:0Q1G:2026-11-13",
+        "symbol": "0Q1G",
+        "name": "Eli Lilly and Company",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-13",
+        "recordDate": null,
+        "paymentDate": "2026-11-13",
+        "amountPerShare": 1.444083,
+        "currency": "CHF",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0Q1G.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "BITA": [
+      {
+        "id": "yahoo:BITA:2026-07-02",
+        "symbol": "BITA",
+        "name": "The iShares Bitcoin Premium Income ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-07-02",
+        "recordDate": null,
+        "paymentDate": "2026-07-02",
+        "amountPerShare": 0.52,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/BITA/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:BITA:2026-08-04",
+        "symbol": "BITA",
+        "name": "The iShares Bitcoin Premium Income ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-04",
+        "recordDate": null,
+        "paymentDate": "2026-08-04",
+        "amountPerShare": 0.799,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/BITA/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:BITA:2026-09-02",
+        "symbol": "BITA",
+        "name": "The iShares Bitcoin Premium Income ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-02",
+        "recordDate": null,
+        "paymentDate": "2026-09-02",
+        "amountPerShare": 0.657,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/BITA/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:BITA:2026-10-02",
+        "symbol": "BITA",
+        "name": "The iShares Bitcoin Premium Income ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-02",
+        "recordDate": null,
+        "paymentDate": "2026-10-02",
+        "amountPerShare": 0.726,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/BITA/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:BITA:2026-11-03",
+        "symbol": "BITA",
+        "name": "The iShares Bitcoin Premium Income ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-03",
+        "recordDate": null,
+        "paymentDate": "2026-11-03",
+        "amountPerShare": 0.916,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/BITA/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:BITA:2026-12-04",
+        "symbol": "BITA",
+        "name": "The iShares Bitcoin Premium Income ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-04",
+        "recordDate": null,
+        "paymentDate": "2026-12-04",
+        "amountPerShare": 0.916,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/BITA/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "FIL.L": [],
+    "ETHB": [
+      {
+        "id": "yahoo:ETHB:2026-06-08",
+        "symbol": "ETHB",
+        "name": "iShares Staked Ethereum Trust ETF Shares of Fractional Undivided Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-08",
+        "recordDate": null,
+        "paymentDate": "2026-06-08",
+        "amountPerShare": 0.015,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ETHB/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:ETHB:2026-07-09",
+        "symbol": "ETHB",
+        "name": "iShares Staked Ethereum Trust ETF Shares of Fractional Undivided Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-07-09",
+        "recordDate": null,
+        "paymentDate": "2026-07-09",
+        "amountPerShare": 0.032,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ETHB/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:ETHB:2026-08-10",
+        "symbol": "ETHB",
+        "name": "iShares Staked Ethereum Trust ETF Shares of Fractional Undivided Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-10",
+        "recordDate": null,
+        "paymentDate": "2026-08-10",
+        "amountPerShare": 0.032,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ETHB/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:ETHB:2026-09-09",
+        "symbol": "ETHB",
+        "name": "iShares Staked Ethereum Trust ETF Shares of Fractional Undivided Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-09",
+        "recordDate": null,
+        "paymentDate": "2026-09-09",
+        "amountPerShare": 0.036,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ETHB/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:ETHB:2026-10-08",
+        "symbol": "ETHB",
+        "name": "iShares Staked Ethereum Trust ETF Shares of Fractional Undivided Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-08",
+        "recordDate": null,
+        "paymentDate": "2026-10-08",
+        "amountPerShare": 0.035,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ETHB/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:ETHB:2026-11-09",
+        "symbol": "ETHB",
+        "name": "iShares Staked Ethereum Trust ETF Shares of Fractional Undivided Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-09",
+        "recordDate": null,
+        "paymentDate": "2026-11-09",
+        "amountPerShare": 0.044,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/ETHB/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:ETHB:2026-12-10",
+        "symbol": "ETHB",
+        "name": "iShares Staked Ethereum Trust ETF Shares of Fractional Undivided Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-10",
+        "recordDate": null,
+        "paymentDate": "2026-12-10",
+        "amountPerShare": 0.044,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/ETHB/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "HBR": [],
+    "LTCC": [],
+    "NCIQ": [],
+    "IBIT": [],
+    "GAVA": [
+      {
+        "id": "yahoo:GAVA:2026-09-03",
+        "symbol": "GAVA",
+        "name": "Grayscale Avalanche Staking ETF Common Units of Fractional Undivided Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-03",
+        "recordDate": null,
+        "paymentDate": "2026-09-03",
+        "amountPerShare": 0.025,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GAVA/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GAVA:2026-10-05",
+        "symbol": "GAVA",
+        "name": "Grayscale Avalanche Staking ETF Common Units of Fractional Undivided Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-05",
+        "recordDate": null,
+        "paymentDate": "2026-10-05",
+        "amountPerShare": 0.061,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GAVA/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GAVA:2026-11-03",
+        "symbol": "GAVA",
+        "name": "Grayscale Avalanche Staking ETF Common Units of Fractional Undivided Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-03",
+        "recordDate": null,
+        "paymentDate": "2026-11-03",
+        "amountPerShare": 0.042,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GAVA/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GAVA:2026-12-03",
+        "symbol": "GAVA",
+        "name": "Grayscale Avalanche Staking ETF Common Units of Fractional Undivided Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-03",
+        "recordDate": null,
+        "paymentDate": "2026-12-03",
+        "amountPerShare": 0.042,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/GAVA/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "HYPG": [
+      {
+        "id": "yahoo:HYPG:2026-08-04",
+        "symbol": "HYPG",
+        "name": "Grayscale Hyperliquid Staking ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-04",
+        "recordDate": null,
+        "paymentDate": "2026-08-04",
+        "amountPerShare": 0.029,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/HYPG/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:HYPG:2026-09-03",
+        "symbol": "HYPG",
+        "name": "Grayscale Hyperliquid Staking ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-03",
+        "recordDate": null,
+        "paymentDate": "2026-09-03",
+        "amountPerShare": 0.034,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/HYPG/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:HYPG:2026-10-05",
+        "symbol": "HYPG",
+        "name": "Grayscale Hyperliquid Staking ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-05",
+        "recordDate": null,
+        "paymentDate": "2026-10-05",
+        "amountPerShare": 0.038,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/HYPG/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:HYPG:2026-11-03",
+        "symbol": "HYPG",
+        "name": "Grayscale Hyperliquid Staking ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-03",
+        "recordDate": null,
+        "paymentDate": "2026-11-03",
+        "amountPerShare": 0.036,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/HYPG/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:HYPG:2026-12-03",
+        "symbol": "HYPG",
+        "name": "Grayscale Hyperliquid Staking ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-03",
+        "recordDate": null,
+        "paymentDate": "2026-12-03",
+        "amountPerShare": 0.036,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/HYPG/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "SOLC": [],
+    "SUIS": [],
+    "GLDI": [
+      {
+        "id": "yahoo:GLDI:2026-01-21",
+        "symbol": "GLDI",
+        "name": "UBS AG ETRACS Gold Shares Covered Call ETNs due February 2 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-01-21",
+        "recordDate": null,
+        "paymentDate": "2026-01-21",
+        "amountPerShare": 3.467,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GLDI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GLDI:2026-02-20",
+        "symbol": "GLDI",
+        "name": "UBS AG ETRACS Gold Shares Covered Call ETNs due February 2 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-20",
+        "recordDate": null,
+        "paymentDate": "2026-02-20",
+        "amountPerShare": 4.312,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GLDI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GLDI:2026-03-20",
+        "symbol": "GLDI",
+        "name": "UBS AG ETRACS Gold Shares Covered Call ETNs due February 2 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-03-20",
+        "recordDate": null,
+        "paymentDate": "2026-03-20",
+        "amountPerShare": 2.77,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GLDI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GLDI:2026-04-22",
+        "symbol": "GLDI",
+        "name": "UBS AG ETRACS Gold Shares Covered Call ETNs due February 2 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-22",
+        "recordDate": null,
+        "paymentDate": "2026-04-22",
+        "amountPerShare": 3.683,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GLDI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GLDI:2026-05-20",
+        "symbol": "GLDI",
+        "name": "UBS AG ETRACS Gold Shares Covered Call ETNs due February 2 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-20",
+        "recordDate": null,
+        "paymentDate": "2026-05-20",
+        "amountPerShare": 4.427,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GLDI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GLDI:2026-06-22",
+        "symbol": "GLDI",
+        "name": "UBS AG ETRACS Gold Shares Covered Call ETNs due February 2 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-22",
+        "recordDate": null,
+        "paymentDate": "2026-06-22",
+        "amountPerShare": 5.559,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GLDI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GLDI:2026-07-22",
+        "symbol": "GLDI",
+        "name": "UBS AG ETRACS Gold Shares Covered Call ETNs due February 2 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-07-22",
+        "recordDate": null,
+        "paymentDate": "2026-07-22",
+        "amountPerShare": 1.588,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GLDI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GLDI:2026-08-20",
+        "symbol": "GLDI",
+        "name": "UBS AG ETRACS Gold Shares Covered Call ETNs due February 2 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-20",
+        "recordDate": null,
+        "paymentDate": "2026-08-20",
+        "amountPerShare": 1.85,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GLDI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GLDI:2026-09-22",
+        "symbol": "GLDI",
+        "name": "UBS AG ETRACS Gold Shares Covered Call ETNs due February 2 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-22",
+        "recordDate": null,
+        "paymentDate": "2026-09-22",
+        "amountPerShare": 2.485,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GLDI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GLDI:2026-10-21",
+        "symbol": "GLDI",
+        "name": "UBS AG ETRACS Gold Shares Covered Call ETNs due February 2 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-21",
+        "recordDate": null,
+        "paymentDate": "2026-10-21",
+        "amountPerShare": 1.985,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GLDI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GLDI:2026-11-20",
+        "symbol": "GLDI",
+        "name": "UBS AG ETRACS Gold Shares Covered Call ETNs due February 2 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-20",
+        "recordDate": null,
+        "paymentDate": "2026-11-20",
+        "amountPerShare": 2.648,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/GLDI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:GLDI:2026-12-20",
+        "symbol": "GLDI",
+        "name": "UBS AG ETRACS Gold Shares Covered Call ETNs due February 2 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-20",
+        "recordDate": null,
+        "paymentDate": "2026-12-20",
+        "amountPerShare": 2.648,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/GLDI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "OBTC": [],
+    "TDOG": [],
+    "TSOL": [
+      {
+        "id": "yahoo:TSOL:2026-02-13",
+        "symbol": "TSOL",
+        "name": "21Shares Solana Staking ETF Shares of Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-13",
+        "recordDate": null,
+        "paymentDate": "2026-02-13",
+        "amountPerShare": 0.317,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/TSOL/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:TSOL:2026-03-30",
+        "symbol": "TSOL",
+        "name": "21Shares Solana Staking ETF Shares of Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-03-30",
+        "recordDate": null,
+        "paymentDate": "2026-03-30",
+        "amountPerShare": 0.017,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/TSOL/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:TSOL:2026-06-29",
+        "symbol": "TSOL",
+        "name": "21Shares Solana Staking ETF Shares of Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-29",
+        "recordDate": null,
+        "paymentDate": "2026-06-29",
+        "amountPerShare": 0.036,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/TSOL/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:TSOL:2026-09-29",
+        "symbol": "TSOL",
+        "name": "21Shares Solana Staking ETF Shares of Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-29",
+        "recordDate": null,
+        "paymentDate": "2026-09-29",
+        "amountPerShare": 0.077,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/TSOL/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:TSOL:2026-12-29",
+        "symbol": "TSOL",
+        "name": "21Shares Solana Staking ETF Shares of Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-29",
+        "recordDate": null,
+        "paymentDate": "2026-12-29",
+        "amountPerShare": 0.077,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/TSOL/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "THYP": [
+      {
+        "id": "yahoo:THYP:2026-06-29",
+        "symbol": "THYP",
+        "name": "21shares Hyperliquid Staking ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-29",
+        "recordDate": null,
+        "paymentDate": "2026-06-29",
+        "amountPerShare": 0.037,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/THYP/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:THYP:2026-09-29",
+        "symbol": "THYP",
+        "name": "21shares Hyperliquid Staking ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-29",
+        "recordDate": null,
+        "paymentDate": "2026-09-29",
+        "amountPerShare": 0.191,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/THYP/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:THYP:2026-12-30",
+        "symbol": "THYP",
+        "name": "21shares Hyperliquid Staking ETF",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-30",
+        "recordDate": null,
+        "paymentDate": "2026-12-30",
+        "amountPerShare": 0.191,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/THYP/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "TDOT": [
+      {
+        "id": "yahoo:TDOT:2026-06-29",
+        "symbol": "TDOT",
+        "name": "21shares Polkadot Staking ETF Shares of Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-29",
+        "recordDate": null,
+        "paymentDate": "2026-06-29",
+        "amountPerShare": 0.056,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/TDOT/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:TDOT:2026-09-29",
+        "symbol": "TDOT",
+        "name": "21shares Polkadot Staking ETF Shares of Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-29",
+        "recordDate": null,
+        "paymentDate": "2026-09-29",
+        "amountPerShare": 0.045,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/TDOT/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:TDOT:2026-12-30",
+        "symbol": "TDOT",
+        "name": "21shares Polkadot Staking ETF Shares of Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-30",
+        "recordDate": null,
+        "paymentDate": "2026-12-30",
+        "amountPerShare": 0.045,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/TDOT/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "TSUI": [
+      {
+        "id": "yahoo:TSUI:2026-06-29",
+        "symbol": "TSUI",
+        "name": "21Shares Sui Staking ETF Common Shares of Beneficial Interest Shares",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-29",
+        "recordDate": null,
+        "paymentDate": "2026-06-29",
+        "amountPerShare": 0.017,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/TSUI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:TSUI:2026-09-29",
+        "symbol": "TSUI",
+        "name": "21Shares Sui Staking ETF Common Shares of Beneficial Interest Shares",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-29",
+        "recordDate": null,
+        "paymentDate": "2026-09-29",
+        "amountPerShare": 0.053,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/TSUI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:TSUI:2026-12-30",
+        "symbol": "TSUI",
+        "name": "21Shares Sui Staking ETF Common Shares of Beneficial Interest Shares",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-30",
+        "recordDate": null,
+        "paymentDate": "2026-12-30",
+        "amountPerShare": 0.053,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/TSUI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "SLVO": [
+      {
+        "id": "yahoo:SLVO:2026-01-21",
+        "symbol": "SLVO",
+        "name": "UBS AG ETRACS Silver Shares Covered Call ETNs due April 21 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-01-21",
+        "recordDate": null,
+        "paymentDate": "2026-01-21",
+        "amountPerShare": 5.789,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SLVO/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:SLVO:2026-02-20",
+        "symbol": "SLVO",
+        "name": "UBS AG ETRACS Silver Shares Covered Call ETNs due April 21 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-20",
+        "recordDate": null,
+        "paymentDate": "2026-02-20",
+        "amountPerShare": 7.91,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SLVO/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:SLVO:2026-03-20",
+        "symbol": "SLVO",
+        "name": "UBS AG ETRACS Silver Shares Covered Call ETNs due April 21 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-03-20",
+        "recordDate": null,
+        "paymentDate": "2026-03-20",
+        "amountPerShare": 3.974,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SLVO/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:SLVO:2026-04-22",
+        "symbol": "SLVO",
+        "name": "UBS AG ETRACS Silver Shares Covered Call ETNs due April 21 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-22",
+        "recordDate": null,
+        "paymentDate": "2026-04-22",
+        "amountPerShare": 4.852,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SLVO/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:SLVO:2026-05-20",
+        "symbol": "SLVO",
+        "name": "UBS AG ETRACS Silver Shares Covered Call ETNs due April 21 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-20",
+        "recordDate": null,
+        "paymentDate": "2026-05-20",
+        "amountPerShare": 4.725,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SLVO/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:SLVO:2026-06-22",
+        "symbol": "SLVO",
+        "name": "UBS AG ETRACS Silver Shares Covered Call ETNs due April 21 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-22",
+        "recordDate": null,
+        "paymentDate": "2026-06-22",
+        "amountPerShare": 7.04,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SLVO/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:SLVO:2026-07-22",
+        "symbol": "SLVO",
+        "name": "UBS AG ETRACS Silver Shares Covered Call ETNs due April 21 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-07-22",
+        "recordDate": null,
+        "paymentDate": "2026-07-22",
+        "amountPerShare": 2.004,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SLVO/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:SLVO:2026-08-20",
+        "symbol": "SLVO",
+        "name": "UBS AG ETRACS Silver Shares Covered Call ETNs due April 21 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-20",
+        "recordDate": null,
+        "paymentDate": "2026-08-20",
+        "amountPerShare": 1.318,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SLVO/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:SLVO:2026-09-22",
+        "symbol": "SLVO",
+        "name": "UBS AG ETRACS Silver Shares Covered Call ETNs due April 21 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-22",
+        "recordDate": null,
+        "paymentDate": "2026-09-22",
+        "amountPerShare": 1.899,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SLVO/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:SLVO:2026-10-21",
+        "symbol": "SLVO",
+        "name": "UBS AG ETRACS Silver Shares Covered Call ETNs due April 21 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-21",
+        "recordDate": null,
+        "paymentDate": "2026-10-21",
+        "amountPerShare": 1.701,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SLVO/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:SLVO:2026-11-20",
+        "symbol": "SLVO",
+        "name": "UBS AG ETRACS Silver Shares Covered Call ETNs due April 21 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-20",
+        "recordDate": null,
+        "paymentDate": "2026-11-20",
+        "amountPerShare": 1.225,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/SLVO/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:SLVO:2026-12-20",
+        "symbol": "SLVO",
+        "name": "UBS AG ETRACS Silver Shares Covered Call ETNs due April 21 2033",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-20",
+        "recordDate": null,
+        "paymentDate": "2026-12-20",
+        "amountPerShare": 1.225,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/SLVO/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "VBNB": [],
+    "VESI": [],
+    "VAVX": [
+      {
+        "id": "yahoo:VAVX:2026-07-07",
+        "symbol": "VAVX",
+        "name": "VanEck Avalanche ETF Common Shares of Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-07-07",
+        "recordDate": null,
+        "paymentDate": "2026-07-07",
+        "amountPerShare": 0.17,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/VAVX/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:VAVX:2026-10-06",
+        "symbol": "VAVX",
+        "name": "VanEck Avalanche ETF Common Shares of Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-06",
+        "recordDate": null,
+        "paymentDate": "2026-10-06",
+        "amountPerShare": 0.223,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/VAVX/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "VXX": [],
+    "USOI": [
+      {
+        "id": "yahoo:USOI:2026-01-21",
+        "symbol": "USOI",
+        "name": "UBS AG ETRACS Crude Oil Shares Covered Call ETNs due April 24 2037",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-01-21",
+        "recordDate": null,
+        "paymentDate": "2026-01-21",
+        "amountPerShare": 0.427,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/USOI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:USOI:2026-02-20",
+        "symbol": "USOI",
+        "name": "UBS AG ETRACS Crude Oil Shares Covered Call ETNs due April 24 2037",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-02-20",
+        "recordDate": null,
+        "paymentDate": "2026-02-20",
+        "amountPerShare": 0.917,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/USOI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:USOI:2026-03-20",
+        "symbol": "USOI",
+        "name": "UBS AG ETRACS Crude Oil Shares Covered Call ETNs due April 24 2037",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-03-20",
+        "recordDate": null,
+        "paymentDate": "2026-03-20",
+        "amountPerShare": 1.292,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/USOI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:USOI:2026-04-22",
+        "symbol": "USOI",
+        "name": "UBS AG ETRACS Crude Oil Shares Covered Call ETNs due April 24 2037",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-22",
+        "recordDate": null,
+        "paymentDate": "2026-04-22",
+        "amountPerShare": 7.474,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/USOI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:USOI:2026-05-20",
+        "symbol": "USOI",
+        "name": "UBS AG ETRACS Crude Oil Shares Covered Call ETNs due April 24 2037",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-05-20",
+        "recordDate": null,
+        "paymentDate": "2026-05-20",
+        "amountPerShare": 2.851,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/USOI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:USOI:2026-06-22",
+        "symbol": "USOI",
+        "name": "UBS AG ETRACS Crude Oil Shares Covered Call ETNs due April 24 2037",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-06-22",
+        "recordDate": null,
+        "paymentDate": "2026-06-22",
+        "amountPerShare": 2.547,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/USOI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:USOI:2026-07-22",
+        "symbol": "USOI",
+        "name": "UBS AG ETRACS Crude Oil Shares Covered Call ETNs due April 24 2037",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-07-22",
+        "recordDate": null,
+        "paymentDate": "2026-07-22",
+        "amountPerShare": 2.1,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/USOI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:USOI:2026-08-20",
+        "symbol": "USOI",
+        "name": "UBS AG ETRACS Crude Oil Shares Covered Call ETNs due April 24 2037",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-08-20",
+        "recordDate": null,
+        "paymentDate": "2026-08-20",
+        "amountPerShare": 2.7,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/USOI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:USOI:2026-09-22",
+        "symbol": "USOI",
+        "name": "UBS AG ETRACS Crude Oil Shares Covered Call ETNs due April 24 2037",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-09-22",
+        "recordDate": null,
+        "paymentDate": "2026-09-22",
+        "amountPerShare": 1.7,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/USOI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:USOI:2026-10-21",
+        "symbol": "USOI",
+        "name": "UBS AG ETRACS Crude Oil Shares Covered Call ETNs due April 24 2037",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-21",
+        "recordDate": null,
+        "paymentDate": "2026-10-21",
+        "amountPerShare": 3.138,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/USOI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:USOI:2026-11-20",
+        "symbol": "USOI",
+        "name": "UBS AG ETRACS Crude Oil Shares Covered Call ETNs due April 24 2037",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-11-20",
+        "recordDate": null,
+        "paymentDate": "2026-11-20",
+        "amountPerShare": 1.848,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/USOI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      },
+      {
+        "id": "yahoo:USOI:2026-12-20",
+        "symbol": "USOI",
+        "name": "UBS AG ETRACS Crude Oil Shares Covered Call ETNs due April 24 2037",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-12-20",
+        "recordDate": null,
+        "paymentDate": "2026-12-20",
+        "amountPerShare": 1.848,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "estimated",
+        "source": {
+          "provider": "Yahoo Finance discovery estimate",
+          "url": "https://finance.yahoo.com/quote/USOI/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "YSAG": [],
+    "XRPC": [],
+    "VSOL": [
+      {
+        "id": "yahoo:VSOL:2026-10-06",
+        "symbol": "VSOL",
+        "name": "VanEck Solana ETF Shares of Beneficial Interest",
+        "market": "us",
+        "declarationDate": null,
+        "exDividendDate": "2026-10-06",
+        "recordDate": null,
+        "paymentDate": "2026-10-06",
+        "amountPerShare": 0.603,
+        "currency": "USD",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/VSOL/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-25T04:50:30Z"
+      }
+    ],
+    "VXZ": [],
+    "YSAU": []
   },
   "failed": [
-    "0A0Y.L",
+    "0A1O.L",
+    "AKO/A",
     "AKO/B"
   ]
 }
