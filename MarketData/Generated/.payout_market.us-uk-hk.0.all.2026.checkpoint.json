@@ -344339,11 +344339,41 @@
       }
     ],
     "VXZ": [],
-    "YSAU": []
+    "YSAU": [],
+    "8586.HK": [],
+    "0NT5.L": [],
+    "0W8R.L": [],
+    "0JD8.L": [],
+    "0A1O.L": [],
+    "EVRLW": [],
+    "QSPC": [],
+    "OBMT": [],
+    "RNGTU": [],
+    "0MD9.L": [
+      {
+        "id": "yahoo:0MD9:2026-04-15",
+        "symbol": "0MD9",
+        "name": "North Energy ASA",
+        "market": "uk",
+        "declarationDate": null,
+        "exDividendDate": "2026-04-15",
+        "recordDate": null,
+        "paymentDate": "2026-04-15",
+        "amountPerShare": 0.13,
+        "currency": "NOK",
+        "eligibleShares": null,
+        "estimatedHoldingAmount": null,
+        "status": "paid",
+        "source": {
+          "provider": "Yahoo Finance dividend history",
+          "url": "https://finance.yahoo.com/quote/0MD9.L/history/?filter=div"
+        },
+        "retrievedAt": "2026-11-26T04:00:37Z"
+      }
+    ]
   },
   "failed": [
-    "0A1O.L",
-    "AKO/A",
+    "0HPP.L",
     "AKO/B"
   ]
 }
